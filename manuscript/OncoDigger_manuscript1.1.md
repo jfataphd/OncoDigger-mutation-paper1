@@ -33,7 +33,7 @@ Department of Biology, College of Staten Island, City University of New York, St
 
 **Results.** Across 19 cancers, a mutation-focused query yielded 93.2% Precision@10 against IntOGen (177/190 gene-cancer pairs), a cancer-type-resolved driver catalogue from real tumour-sequencing cohorts (Martínez-Jiménez et al., 2020). Document retrieval and gene-vocabulary quality control interact substantially rather than independently (interaction +45.3 percentage points beyond their additive effects, positive in all 19 cancers), against an unfiltered-vocabulary, full-corpus baseline of 10.5% Precision@10. The cancer-aware strategy reached 75.8% exact cancer-type concordance, versus 58.4% for a pooled, cancer-blind index, higher than CancerMine (60.0%). OncoDigger combines cancer-specific literature organization with strong driver-gene concordance.
 
-**Availability and Implementation.** Code, data and the frozen analysis release are at the companion repository, with a Zenodo DOI to follow before submission. The web application is at oncodigger.com.
+**Availability and Implementation.** Code, data and the frozen analysis release are at the companion repository, github.com/jfataphd/OncoDigger-mutation-paper1 (archived at Zenodo, DOI: 10.5281/zenodo.23269250). The web application is at oncodigger.com.
 
 **Contact.** jimmie.fata@csi.cuny.edu
 
@@ -267,7 +267,7 @@ This section states, in one place, what the results do and do not show.
 
 Most results, figures and rankings in this paper were generated with a frozen internal pipeline snapshot (git tag `manuscript1.1-v1.0-vocab-audit-2026-10-04`, retained only in the author's private development history, not part of the public release below). The refined MET/REST/FH vocabulary-collision rules (Methods 3.3) and the post hoc decomposition (Methods 3.4, Results 5.8) were both produced after this snapshot. The companion repository's `v1.1` release, linked below, covers both and was confirmed by clean-checkout reproduction to reproduce every IntOGen-based number this paper reports (Implementation).
 
-**[PLACEHOLDER, NOT A REAL LINK YET, replace before submission with the public `github.com/jfataphd/OncoDigger-mutation-paper1` URL and the Zenodo DOI for the same tagged release]**
+github.com/jfataphd/OncoDigger-mutation-paper1, release `v1.1`, archived at Zenodo: https://doi.org/10.5281/zenodo.23269250
 
 The repository contains the corrected gene vocabulary, quality-control rules, ranking code, settings and derived result tables used here.
 
