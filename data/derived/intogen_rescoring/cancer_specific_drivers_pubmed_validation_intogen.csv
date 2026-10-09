@@ -1,0 +1,92 @@
+cancer,gene,pubmed_count
+Bladder Cancer,ARID1A,75
+Bladder Cancer,CD274,33
+Bladder Cancer,FGFR3,655
+Bladder Cancer,RB1,163
+Bladder Cancer,TERT,203
+Brain Cancer,ATRX,504
+Brain Cancer,IDH1,2064
+Brain Cancer,IDH2,361
+Brain Cancer,TERT,610
+Breast Cancer,CHEK2,745
+Breast Cancer,ESR1,1417
+Breast Cancer,PALB2,722
+Breast Cancer,PTEN,1627
+Cervical Cancer,ARID1A,34
+Cervical Cancer,CD274,16
+Cervical Cancer,FBXW7,27
+Cervical Cancer,PTEN,154
+Cervical Cancer,STK11,44
+Colorectal Cancer,APC,4495
+Endometrial Cancer,ARID1A,224
+Endometrial Cancer,CTNNB1,215
+Endometrial Cancer,PTEN,836
+Esophageal Cancer,CD274,11
+Esophageal Cancer,CDKN2A,121
+Esophageal Cancer,KIT,414
+Esophageal Cancer,NOTCH1,84
+Kidney Cancer,BAP1,260
+Kidney Cancer,CTNNB1,71
+Kidney Cancer,FLCN,177
+Kidney Cancer,PBRM1,279
+Kidney Cancer,SETD2,210
+Kidney Cancer,TSC2,307
+Kidney Cancer,VHL,1687
+Kidney Cancer,WT1,632
+Leukemia,ASXL1,685
+Leukemia,BCR,9107
+Leukemia,CEBPA,848
+Leukemia,DNMT3A,988
+Leukemia,FLT3,4800
+Leukemia,IDH1,796
+Leukemia,NPM1,2068
+Leukemia,RUNX1,2061
+Liver Cancer,APC,439
+Liver Cancer,CTNNB1,484
+Liver Cancer,KIT,1366
+Liver Cancer,TERT,393
+Lung Cancer,ALK,5467
+Lung Cancer,CD274,142
+Lung Cancer,MET,4981
+Lung Cancer,STK11,505
+Lymphoma,ATM,305
+Lymphoma,BCL2,3853
+Lymphoma,CD79B,354
+Lymphoma,CREBBP,167
+Lymphoma,EZH2,368
+Lymphoma,KMT2D,208
+Lymphoma,MYC,3212
+Lymphoma,MYD88,602
+Lymphoma,TET2,235
+Melanoma,BAP1,441
+Melanoma,CDKN2A,801
+Melanoma,GNA11,276
+Melanoma,GNAQ,368
+Melanoma,KIT,1002
+Melanoma,SF3B1,122
+Melanoma,TERT,321
+Myeloma,CCND1,152
+Myeloma,DIS3,43
+Myeloma,FGFR3,187
+Myeloma,MYC,572
+Ovarian Cancer,ARID1A,368
+Ovarian Cancer,CTNNB1,202
+Pancreatic Cancer,CDKN2A,510
+Pancreatic Cancer,GNAS,181
+Pancreatic Cancer,PALB2,176
+Pancreatic Cancer,SMAD4,659
+Prostate Cancer,AR,6466
+Prostate Cancer,ATM,436
+Prostate Cancer,CHEK2,150
+Prostate Cancer,PTEN,1785
+Prostate Cancer,RB1,285
+Prostate Cancer,SPOP,226
+Stomach Cancer,APC,411
+Stomach Cancer,CDH1,703
+Stomach Cancer,CTNNB1,87
+Stomach Cancer,KIT,1134
+Thyroid Cancer,CCDC6,49
+Thyroid Cancer,EIF1AX,57
+Thyroid Cancer,HRAS,239
+Thyroid Cancer,RET,2476
+Thyroid Cancer,TERT,546

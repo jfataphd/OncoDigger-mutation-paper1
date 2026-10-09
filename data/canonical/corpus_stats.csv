@@ -1,0 +1,20 @@
+cancer,system,corpus_key,papers,vocab,avg_tokens,total_tokens,yr_min,yr_max,created
+Breast Cancer,Gynecologic/Breast,breast_cancer_inclusive,250061,427569,226,56557219,2000,2026,2026-09-27
+Lung Cancer,Thoracic,lung_cancer_inclusive,178908,339571,225,40232912,2000,2026,2026-09-27
+Colorectal Cancer,Gastrointestinal,colorectal_cancer_inclusive,168174,327311,229,38524521,2000,2026,2026-09-27
+Prostate Cancer,Genitourinary,prostate_cancer_inclusive,110937,239258,235,26035446,2000,2026,2026-09-27
+Melanoma,Skin,melanoma_cancer_inclusive,66447,184880,209,13880185,2000,2026,2026-09-27
+Bladder Cancer,Genitourinary,bladder_cancer_inclusive,35620,110528,226,8057436,2000,2026,2026-09-27
+Kidney Cancer,Genitourinary,kidney_cancer_inclusive,46739,125170,219,10226423,2000,2026,2026-09-27
+Pancreatic Cancer,Gastrointestinal,pancreas_cancer_inclusive,65223,168545,218,14189262,2000,2026,2026-09-27
+Liver Cancer,Gastrointestinal,liver_cancer_inclusive,127252,273114,223,28343576,2000,2026,2026-09-27
+Stomach Cancer,Gastrointestinal,stomach_cancer_inclusive,64372,163064,225,14476060,2000,2026,2026-09-27
+Esophageal Cancer,Gastrointestinal,esophageal_cancer_inclusive,37925,108665,228,8642205,2000,2026,2026-09-27
+Ovarian Cancer,Gynecologic/Breast,ovarian_cancer_inclusive,61538,164033,221,13598572,2000,2026,2026-09-27
+Endometrial Cancer,Gynecologic/Breast,endometrial_cancer_inclusive,22079,75563,231,5094673,2000,2026,2026-09-27
+Cervical Cancer,Gynecologic/Breast,cervical_cancer_inclusive,50875,137776,234,11918264,2000,2026,2026-09-27
+Thyroid Cancer,Endocrine,thyroid_cancer_inclusive,38640,105443,228,8818154,2000,2026,2026-09-27
+Brain Cancer,CNS,brain_cancer_inclusive,103180,220319,216,22305665,2000,2026,2026-09-27
+Leukemia,Hematologic,leukemia_cancer_inclusive,106922,232482,201,21474352,2000,2026,2026-09-27
+Lymphoma,Hematologic,lymphoma_cancer_inclusive,79022,171981,202,16000541,2000,2026,2026-09-27
+Myeloma,Hematologic,myeloma_cancer_inclusive,26591,88809,209,5553276,2000,2026,2026-09-27

@@ -1,0 +1,191 @@
+cancer,rank,gene
+Breast Cancer,1,PIK3CA
+Breast Cancer,2,TP53
+Breast Cancer,3,TTN
+Breast Cancer,4,CDH1
+Breast Cancer,5,MUC16
+Breast Cancer,6,GATA3
+Breast Cancer,7,KMT2C
+Breast Cancer,8,MAP3K1
+Breast Cancer,9,PIK3R1
+Breast Cancer,10,AKT1
+Lung Cancer,1,TP53
+Lung Cancer,2,TTN
+Lung Cancer,3,MUC16
+Lung Cancer,4,CSMD3
+Lung Cancer,5,KRAS
+Lung Cancer,6,LRP1B
+Lung Cancer,7,RYR2
+Lung Cancer,8,KEAP1
+Lung Cancer,9,STK11
+Lung Cancer,10,EGFR
+Colorectal Cancer,1,APC
+Colorectal Cancer,2,TP53
+Colorectal Cancer,3,TTN
+Colorectal Cancer,4,KRAS
+Colorectal Cancer,5,PIK3CA
+Colorectal Cancer,6,MUC16
+Colorectal Cancer,7,SYNE1
+Colorectal Cancer,8,FAT4
+Colorectal Cancer,9,RYR2
+Colorectal Cancer,10,OBSCN
+Prostate Cancer,1,TP53
+Prostate Cancer,2,SPOP
+Prostate Cancer,3,TTN
+Prostate Cancer,4,FOXA1
+Prostate Cancer,5,KMT2D
+Prostate Cancer,6,KMT2C
+Prostate Cancer,7,APC
+Prostate Cancer,8,ATM
+Prostate Cancer,9,CDK12
+Prostate Cancer,10,PIK3CA
+Melanoma,1,BRAF
+Melanoma,2,NRAS
+Melanoma,3,NF1
+Melanoma,4,TP53
+Melanoma,5,TTN
+Melanoma,6,MUC16
+Melanoma,7,LRP1B
+Melanoma,8,CDKN2A
+Melanoma,9,FAT4
+Melanoma,10,RYR2
+Bladder Cancer,1,TP53
+Bladder Cancer,2,TTN
+Bladder Cancer,3,KDM6A
+Bladder Cancer,4,ARID1A
+Bladder Cancer,5,KMT2D
+Bladder Cancer,6,PIK3CA
+Bladder Cancer,7,KMT2C
+Bladder Cancer,8,MUC16
+Bladder Cancer,9,RB1
+Bladder Cancer,10,FGFR3
+Kidney Cancer,1,VHL
+Kidney Cancer,2,PBRM1
+Kidney Cancer,3,TTN
+Kidney Cancer,4,SETD2
+Kidney Cancer,5,BAP1
+Kidney Cancer,6,KDM5C
+Kidney Cancer,7,MUC16
+Kidney Cancer,8,MTOR
+Kidney Cancer,9,KMT2C
+Kidney Cancer,10,TP53
+Pancreatic Cancer,1,KRAS
+Pancreatic Cancer,2,TP53
+Pancreatic Cancer,3,SMAD4
+Pancreatic Cancer,4,CDKN2A
+Pancreatic Cancer,5,TTN
+Pancreatic Cancer,6,MUC16
+Pancreatic Cancer,7,RNF43
+Pancreatic Cancer,8,GNAS
+Pancreatic Cancer,9,KDM6A
+Pancreatic Cancer,10,ARID1A
+Liver Cancer,1,TP53
+Liver Cancer,2,CTNNB1
+Liver Cancer,3,TTN
+Liver Cancer,4,MUC16
+Liver Cancer,5,ALB
+Liver Cancer,6,AXIN1
+Liver Cancer,7,ARID1A
+Liver Cancer,8,APOB
+Liver Cancer,9,FAT4
+Liver Cancer,10,KEAP1
+Stomach Cancer,1,TP53
+Stomach Cancer,2,TTN
+Stomach Cancer,3,MUC16
+Stomach Cancer,4,ARID1A
+Stomach Cancer,5,CDH1
+Stomach Cancer,6,LRP1B
+Stomach Cancer,7,PIK3CA
+Stomach Cancer,8,SYNE1
+Stomach Cancer,9,FAT4
+Stomach Cancer,10,KMT2C
+Esophageal Cancer,1,TP53
+Esophageal Cancer,2,TTN
+Esophageal Cancer,3,MUC16
+Esophageal Cancer,4,FAT4
+Esophageal Cancer,5,CSMD3
+Esophageal Cancer,6,SYNE1
+Esophageal Cancer,7,LRP1B
+Esophageal Cancer,8,PIK3CA
+Esophageal Cancer,9,CDKN2A
+Esophageal Cancer,10,KMT2D
+Ovarian Cancer,1,TP53
+Ovarian Cancer,2,TTN
+Ovarian Cancer,3,MUC16
+Ovarian Cancer,4,CSMD3
+Ovarian Cancer,5,BRCA1
+Ovarian Cancer,6,BRCA2
+Ovarian Cancer,7,FAT3
+Ovarian Cancer,8,NF1
+Ovarian Cancer,9,LRP1B
+Ovarian Cancer,10,RYR2
+Endometrial Cancer,1,PTEN
+Endometrial Cancer,2,PIK3CA
+Endometrial Cancer,3,TP53
+Endometrial Cancer,4,ARID1A
+Endometrial Cancer,5,TTN
+Endometrial Cancer,6,PIK3R1
+Endometrial Cancer,7,KMT2D
+Endometrial Cancer,8,CTNNB1
+Endometrial Cancer,9,RPL22
+Endometrial Cancer,10,KRAS
+Cervical Cancer,1,PIK3CA
+Cervical Cancer,2,KMT2D
+Cervical Cancer,3,EP300
+Cervical Cancer,4,FBXW7
+Cervical Cancer,5,MAPK1
+Cervical Cancer,6,PTEN
+Cervical Cancer,7,TP53
+Cervical Cancer,8,HLA-B
+Cervical Cancer,9,CASP8
+Cervical Cancer,10,FAT1
+Thyroid Cancer,1,BRAF
+Thyroid Cancer,2,NRAS
+Thyroid Cancer,3,HRAS
+Thyroid Cancer,4,TTN
+Thyroid Cancer,5,MUC16
+Thyroid Cancer,6,RYR2
+Thyroid Cancer,7,DNAH5
+Thyroid Cancer,8,FAT1
+Thyroid Cancer,9,DICER1
+Thyroid Cancer,10,LRP1B
+Brain Cancer,1,TP53
+Brain Cancer,2,IDH1
+Brain Cancer,3,PTEN
+Brain Cancer,4,ATRX
+Brain Cancer,5,EGFR
+Brain Cancer,6,NF1
+Brain Cancer,7,TTN
+Brain Cancer,8,PIK3CA
+Brain Cancer,9,CIC
+Brain Cancer,10,PIK3R1
+Leukemia,1,NPM1
+Leukemia,2,DNMT3A
+Leukemia,3,FLT3
+Leukemia,4,IDH2
+Leukemia,5,IDH1
+Leukemia,6,TET2
+Leukemia,7,RUNX1
+Leukemia,8,TP53
+Leukemia,9,CEBPA
+Leukemia,10,WT1
+Lymphoma,1,KMT2D
+Lymphoma,2,TP53
+Lymphoma,3,CREBBP
+Lymphoma,4,GNA13
+Lymphoma,5,EZH2
+Lymphoma,6,MYD88
+Lymphoma,7,TNFRSF14
+Lymphoma,8,B2M
+Lymphoma,9,CD79B
+Lymphoma,10,CARD11
+Myeloma,1,KRAS
+Myeloma,2,NRAS
+Myeloma,3,TP53
+Myeloma,4,DIS3
+Myeloma,5,FAM46C
+Myeloma,6,BRAF
+Myeloma,7,CYLD
+Myeloma,8,TRAF3
+Myeloma,9,ATM
+Myeloma,10,RB1

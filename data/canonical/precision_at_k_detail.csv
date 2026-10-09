@@ -1,0 +1,951 @@
+cancer,rank,gene,tier
+Bladder Cancer,1,FGFR3,established
+Bladder Cancer,2,TP53,established
+Bladder Cancer,3,TERT,established
+Bladder Cancer,4,PIK3CA,established
+Bladder Cancer,5,CD274,established
+Bladder Cancer,6,RB1,established
+Bladder Cancer,7,KRAS,established
+Bladder Cancer,8,ERBB2,established
+Bladder Cancer,9,EGFR,established
+Bladder Cancer,10,ARID1A,established
+Bladder Cancer,11,KDM6A,emerging
+Bladder Cancer,12,HRAS,emerging
+Bladder Cancer,13,BRAF,emerging
+Bladder Cancer,14,ERCC2,emerging
+Bladder Cancer,15,CDKN2A,emerging
+Bladder Cancer,16,PDCD1,emerging
+Bladder Cancer,17,KMT2D,emerging
+Bladder Cancer,18,NRAS,emerging
+Bladder Cancer,19,PTEN,emerging
+Bladder Cancer,20,TSC1,emerging
+Bladder Cancer,21,APC,discovery
+Bladder Cancer,22,MSH2,discovery
+Bladder Cancer,23,FGFR1,discovery
+Bladder Cancer,24,KIT,discovery
+Bladder Cancer,25,EP300,discovery
+Bladder Cancer,26,MLH1,discovery
+Bladder Cancer,27,ATM,discovery
+Bladder Cancer,28,MKI67,discovery
+Bladder Cancer,29,MDM2,discovery
+Bladder Cancer,30,MTOR,discovery
+Bladder Cancer,31,FGFR2,extended
+Bladder Cancer,32,CDKN1A,extended
+Bladder Cancer,33,STAG2,extended
+Bladder Cancer,34,CTNNB1,extended
+Bladder Cancer,35,BRCA2,extended
+Bladder Cancer,36,CREBBP,extended
+Bladder Cancer,37,MTUS1,extended
+Bladder Cancer,38,ERBB3,extended
+Bladder Cancer,39,TACC3,extended
+Bladder Cancer,40,BRCA1,extended
+Bladder Cancer,41,MSH6,extended
+Bladder Cancer,42,CHEK2,extended
+Bladder Cancer,43,KMT2C,extended
+Bladder Cancer,44,AKT1,extended
+Bladder Cancer,45,SDHB,extended
+Bladder Cancer,46,CTLA4,extended
+Bladder Cancer,47,CCND1,extended
+Bladder Cancer,48,TTN,extended
+Bladder Cancer,49,TSC2,extended
+Bladder Cancer,50,IFNG,extended
+Brain Cancer,1,IDH1,established
+Brain Cancer,2,TP53,established
+Brain Cancer,3,EGFR,established
+Brain Cancer,4,TERT,established
+Brain Cancer,5,IDH2,established
+Brain Cancer,6,BRAF,established
+Brain Cancer,7,ATRX,established
+Brain Cancer,8,KRAS,established
+Brain Cancer,9,PIK3CA,established
+Brain Cancer,10,MGMT,established
+Brain Cancer,11,PTEN,emerging
+Brain Cancer,12,MLH1,emerging
+Brain Cancer,13,CDKN2A,emerging
+Brain Cancer,14,AIP,emerging
+Brain Cancer,15,AHR,emerging
+Brain Cancer,16,MKI67,emerging
+Brain Cancer,17,PDGFRA,emerging
+Brain Cancer,18,MSH2,emerging
+Brain Cancer,19,PMS2,emerging
+Brain Cancer,20,MSH6,emerging
+Brain Cancer,21,CTNNB1,discovery
+Brain Cancer,22,POLE,discovery
+Brain Cancer,23,NRAS,discovery
+Brain Cancer,24,POMC,discovery
+Brain Cancer,25,H3C3,discovery
+Brain Cancer,26,MEN1,discovery
+Brain Cancer,27,NF1,discovery
+Brain Cancer,28,GNAS,discovery
+Brain Cancer,29,FGFR1,discovery
+Brain Cancer,30,KIAA1549,discovery
+Brain Cancer,31,ALK,extended
+Brain Cancer,32,KIT,extended
+Brain Cancer,33,IGF1,extended
+Brain Cancer,34,PDCD1,extended
+Brain Cancer,35,RB1,extended
+Brain Cancer,36,SHH,extended
+Brain Cancer,37,CIC,extended
+Brain Cancer,38,MET,extended
+Brain Cancer,39,CD274,extended
+Brain Cancer,40,ERBB2,extended
+Brain Cancer,41,KRIT1,extended
+Brain Cancer,42,PRL,extended
+Brain Cancer,43,PPM1D,extended
+Brain Cancer,44,HRAS,extended
+Brain Cancer,45,SETD2,extended
+Brain Cancer,46,PTCH1,extended
+Brain Cancer,47,PTPN11,extended
+Brain Cancer,48,INS,extended
+Brain Cancer,49,PIK3R1,extended
+Brain Cancer,50,SUFU,extended
+Breast Cancer,1,BRCA1,established
+Breast Cancer,2,BRCA2,established
+Breast Cancer,3,PIK3CA,established
+Breast Cancer,4,ERBB2,established
+Breast Cancer,5,TP53,established
+Breast Cancer,6,PALB2,established
+Breast Cancer,7,CHEK2,established
+Breast Cancer,8,ESR1,established
+Breast Cancer,9,PTEN,established
+Breast Cancer,10,EGFR,established
+Breast Cancer,11,AKT1,emerging
+Breast Cancer,12,ATM,emerging
+Breast Cancer,13,MKI67,emerging
+Breast Cancer,14,PGR,emerging
+Breast Cancer,15,RAD51C,emerging
+Breast Cancer,16,RAD51D,emerging
+Breast Cancer,17,CYP19A1,emerging
+Breast Cancer,18,CDH1,emerging
+Breast Cancer,19,TNFRSF11A,emerging
+Breast Cancer,20,BRAF,emerging
+Breast Cancer,21,BARD1,discovery
+Breast Cancer,22,MSH2,discovery
+Breast Cancer,23,KIT,discovery
+Breast Cancer,24,BCAR3,discovery
+Breast Cancer,25,GATA3,discovery
+Breast Cancer,26,CDKN2A,discovery
+Breast Cancer,27,MLH1,discovery
+Breast Cancer,28,PARP1,discovery
+Breast Cancer,29,KRAS,discovery
+Breast Cancer,30,CD274,discovery
+Breast Cancer,31,MET,extended
+Breast Cancer,32,MED12,extended
+Breast Cancer,33,STK11,extended
+Breast Cancer,34,RB1,extended
+Breast Cancer,35,MTOR,extended
+Breast Cancer,36,PIK3R1,extended
+Breast Cancer,37,NBN,extended
+Breast Cancer,38,ERBB3,extended
+Breast Cancer,39,MSH6,extended
+Breast Cancer,40,BRIP1,extended
+Breast Cancer,41,APC,extended
+Breast Cancer,42,MAP3K1,extended
+Breast Cancer,43,RAD51,extended
+Breast Cancer,44,EGR3,extended
+Breast Cancer,45,MAP2K4,extended
+Breast Cancer,46,AMACR,extended
+Breast Cancer,47,SART3,extended
+Breast Cancer,48,NF1,extended
+Breast Cancer,49,PDGFRA,extended
+Breast Cancer,50,INS,extended
+Cervical Cancer,1,PIK3CA,established
+Cervical Cancer,2,KRAS,established
+Cervical Cancer,3,TP53,established
+Cervical Cancer,4,PTEN,established
+Cervical Cancer,5,ERBB2,established
+Cervical Cancer,6,EGFR,established
+Cervical Cancer,7,STK11,established
+Cervical Cancer,8,FBXW7,established
+Cervical Cancer,9,CD274,established
+Cervical Cancer,10,ARID1A,established
+Cervical Cancer,11,RB1,emerging
+Cervical Cancer,12,MTOR,emerging
+Cervical Cancer,13,BRAF,emerging
+Cervical Cancer,14,KMT2D,emerging
+Cervical Cancer,15,CDKN2A,emerging
+Cervical Cancer,16,BRCA1,emerging
+Cervical Cancer,17,FGFR3,emerging
+Cervical Cancer,18,BRCA2,emerging
+Cervical Cancer,19,MYC,emerging
+Cervical Cancer,20,TERT,emerging
+Cervical Cancer,21,FOXD3,discovery
+Cervical Cancer,22,DICER1,discovery
+Cervical Cancer,23,LRP1B,discovery
+Cervical Cancer,24,MKI67,discovery
+Cervical Cancer,25,GNAS,discovery
+Cervical Cancer,26,NRAS,discovery
+Cervical Cancer,27,PDCD1,discovery
+Cervical Cancer,28,MSH2,discovery
+Cervical Cancer,29,EP300,discovery
+Cervical Cancer,30,CTNNB1,discovery
+Cervical Cancer,31,KIT,extended
+Cervical Cancer,32,KMT2C,extended
+Cervical Cancer,33,NOTCH1,extended
+Cervical Cancer,34,HLA-B,extended
+Cervical Cancer,35,SMAD4,extended
+Cervical Cancer,36,FAT1,extended
+Cervical Cancer,37,HRAS,extended
+Cervical Cancer,38,CDKN1A,extended
+Cervical Cancer,39,HLA-A,extended
+Cervical Cancer,40,MLH1,extended
+Cervical Cancer,41,ERBB3,extended
+Cervical Cancer,42,IFNG,extended
+Cervical Cancer,43,ATM,extended
+Cervical Cancer,44,MDM2,extended
+Cervical Cancer,45,YY1,extended
+Cervical Cancer,46,FGFR4,extended
+Cervical Cancer,47,KMT2B,extended
+Cervical Cancer,48,NFE2L2,extended
+Cervical Cancer,49,ALK,extended
+Cervical Cancer,50,FGFR2,extended
+Colorectal Cancer,1,KRAS,established
+Colorectal Cancer,2,BRAF,established
+Colorectal Cancer,3,EGFR,established
+Colorectal Cancer,4,MLH1,established
+Colorectal Cancer,5,PIK3CA,established
+Colorectal Cancer,6,NRAS,established
+Colorectal Cancer,7,MSH2,established
+Colorectal Cancer,8,TP53,established
+Colorectal Cancer,9,APC,established
+Colorectal Cancer,10,MSH6,established
+Colorectal Cancer,11,KIT,emerging
+Colorectal Cancer,12,PMS2,emerging
+Colorectal Cancer,13,CTNNB1,emerging
+Colorectal Cancer,14,POLE,emerging
+Colorectal Cancer,15,MUTYH,emerging
+Colorectal Cancer,16,FAP,emerging
+Colorectal Cancer,17,TNFRSF11A,emerging
+Colorectal Cancer,18,SMAD4,emerging
+Colorectal Cancer,19,PTEN,emerging
+Colorectal Cancer,20,FBXW7,emerging
+Colorectal Cancer,21,BRCA2,discovery
+Colorectal Cancer,22,POLD1,discovery
+Colorectal Cancer,23,MET,discovery
+Colorectal Cancer,24,BRCA1,discovery
+Colorectal Cancer,25,RNF43,discovery
+Colorectal Cancer,26,PDCD1,discovery
+Colorectal Cancer,27,ERBB2,discovery
+Colorectal Cancer,28,BCAR3,discovery
+Colorectal Cancer,29,ATM,discovery
+Colorectal Cancer,30,HRAS,discovery
+Colorectal Cancer,31,CD274,extended
+Colorectal Cancer,32,FASTK,extended
+Colorectal Cancer,33,FOXD3-AS1,extended
+Colorectal Cancer,34,MAP2K1,extended
+Colorectal Cancer,35,CCL20,extended
+Colorectal Cancer,36,EPCAM,extended
+Colorectal Cancer,37,CDKN2A,extended
+Colorectal Cancer,38,AKT1,extended
+Colorectal Cancer,39,PDGFRA,extended
+Colorectal Cancer,40,GNAS,extended
+Colorectal Cancer,41,NF1,extended
+Colorectal Cancer,42,BMPR1A,extended
+Colorectal Cancer,43,CHEK2,extended
+Colorectal Cancer,44,KMT2D,extended
+Colorectal Cancer,45,PMS1,extended
+Colorectal Cancer,46,PALB2,extended
+Colorectal Cancer,47,EGF,extended
+Colorectal Cancer,48,MTOR,extended
+Colorectal Cancer,49,RAD51D,extended
+Colorectal Cancer,50,PKHD1,extended
+Endometrial Cancer,1,PTEN,established
+Endometrial Cancer,2,POLE,established
+Endometrial Cancer,3,PIK3CA,established
+Endometrial Cancer,4,MLH1,established
+Endometrial Cancer,5,TP53,established
+Endometrial Cancer,6,KRAS,established
+Endometrial Cancer,7,MSH2,established
+Endometrial Cancer,8,CTNNB1,established
+Endometrial Cancer,9,ARID1A,established
+Endometrial Cancer,10,MSH6,established
+Endometrial Cancer,11,BRCA1,emerging
+Endometrial Cancer,12,PMS2,emerging
+Endometrial Cancer,13,BRCA2,emerging
+Endometrial Cancer,14,ERBB2,emerging
+Endometrial Cancer,15,BRAF,emerging
+Endometrial Cancer,16,PPP2R1A,emerging
+Endometrial Cancer,17,FBXW7,emerging
+Endometrial Cancer,18,FGFR2,emerging
+Endometrial Cancer,19,PIK3R1,emerging
+Endometrial Cancer,20,ATM,emerging
+Endometrial Cancer,21,CCND1,discovery
+Endometrial Cancer,22,CHEK2,discovery
+Endometrial Cancer,23,CD274,discovery
+Endometrial Cancer,24,AKT1,discovery
+Endometrial Cancer,25,PGR,discovery
+Endometrial Cancer,26,CDKN2A,discovery
+Endometrial Cancer,27,EGFR,discovery
+Endometrial Cancer,28,BRIP1,discovery
+Endometrial Cancer,29,ESR1,discovery
+Endometrial Cancer,30,NRAS,discovery
+Endometrial Cancer,31,MTOR,extended
+Endometrial Cancer,32,ATR,extended
+Endometrial Cancer,33,PDCD1,extended
+Endometrial Cancer,34,RAD51D,extended
+Endometrial Cancer,35,APC,extended
+Endometrial Cancer,36,PALB2,extended
+Endometrial Cancer,37,MKI67,extended
+Endometrial Cancer,38,POLD1,extended
+Endometrial Cancer,39,RAD51C,extended
+Endometrial Cancer,40,BARD1,extended
+Endometrial Cancer,41,SPOP,extended
+Endometrial Cancer,42,CCNE1,extended
+Endometrial Cancer,43,KIT,extended
+Endometrial Cancer,44,MYC,extended
+Endometrial Cancer,45,CHEK1,extended
+Endometrial Cancer,46,AXIN2,extended
+Endometrial Cancer,47,EPCAM,extended
+Endometrial Cancer,48,SMARCB1,extended
+Endometrial Cancer,49,JAK1,extended
+Endometrial Cancer,50,SMARCA4,extended
+Esophageal Cancer,1,TP53,established
+Esophageal Cancer,2,EGFR,established
+Esophageal Cancer,3,PIK3CA,established
+Esophageal Cancer,4,CDKN2A,established
+Esophageal Cancer,5,KRAS,established
+Esophageal Cancer,6,BRAF,established
+Esophageal Cancer,7,ERBB2,established
+Esophageal Cancer,8,NOTCH1,established
+Esophageal Cancer,9,CD274,established
+Esophageal Cancer,10,KIT,established
+Esophageal Cancer,11,NFE2L2,emerging
+Esophageal Cancer,12,BRCA2,emerging
+Esophageal Cancer,13,PTEN,emerging
+Esophageal Cancer,14,CCND1,emerging
+Esophageal Cancer,15,APC,emerging
+Esophageal Cancer,16,CTNNB1,emerging
+Esophageal Cancer,17,PDCD1,emerging
+Esophageal Cancer,18,PDGFRA,emerging
+Esophageal Cancer,19,MDM2,emerging
+Esophageal Cancer,20,SMAD4,emerging
+Esophageal Cancer,21,ARID1A,discovery
+Esophageal Cancer,22,MLH1,discovery
+Esophageal Cancer,23,MYC,discovery
+Esophageal Cancer,24,KMT2D,discovery
+Esophageal Cancer,25,FBXW7,discovery
+Esophageal Cancer,26,EP300,discovery
+Esophageal Cancer,27,NRAS,discovery
+Esophageal Cancer,28,BRCA1,discovery
+Esophageal Cancer,29,MKI67,discovery
+Esophageal Cancer,30,RHBDF2,discovery
+Esophageal Cancer,31,MSH2,extended
+Esophageal Cancer,32,SMARCA4,extended
+Esophageal Cancer,33,TET2,extended
+Esophageal Cancer,34,MET,extended
+Esophageal Cancer,35,ZNF750,extended
+Esophageal Cancer,36,FAT1,extended
+Esophageal Cancer,37,EGF,extended
+Esophageal Cancer,38,ERBB4,extended
+Esophageal Cancer,39,KEAP1,extended
+Esophageal Cancer,40,RB1,extended
+Esophageal Cancer,41,PROX1,extended
+Esophageal Cancer,42,GABPA,extended
+Esophageal Cancer,43,BCL2,extended
+Esophageal Cancer,44,KDR,extended
+Esophageal Cancer,45,ATM,extended
+Esophageal Cancer,46,CDKN2B,extended
+Esophageal Cancer,47,CDK4,extended
+Esophageal Cancer,48,MGMT,extended
+Esophageal Cancer,49,FOXD3,extended
+Esophageal Cancer,50,CDA,extended
+Kidney Cancer,1,VHL,established
+Kidney Cancer,2,WT1,established
+Kidney Cancer,3,PBRM1,established
+Kidney Cancer,4,BAP1,established
+Kidney Cancer,5,FH,established
+Kidney Cancer,6,SETD2,established
+Kidney Cancer,7,TSC2,established
+Kidney Cancer,8,FLCN,established
+Kidney Cancer,9,TP53,established
+Kidney Cancer,10,CTNNB1,established
+Kidney Cancer,11,KDM5C,emerging
+Kidney Cancer,12,PIK3CA,emerging
+Kidney Cancer,13,PTEN,emerging
+Kidney Cancer,14,SDHB,emerging
+Kidney Cancer,15,TSC1,emerging
+Kidney Cancer,16,MTOR,emerging
+Kidney Cancer,17,DICER1,emerging
+Kidney Cancer,18,BRCA1,emerging
+Kidney Cancer,19,BRAF,emerging
+Kidney Cancer,20,MET,emerging
+Kidney Cancer,21,CD274,discovery
+Kidney Cancer,22,ELOC,discovery
+Kidney Cancer,23,KRAS,discovery
+Kidney Cancer,24,BRAP,discovery
+Kidney Cancer,25,HIF1A,discovery
+Kidney Cancer,26,AMACR,discovery
+Kidney Cancer,27,DROSHA,discovery
+Kidney Cancer,28,TERT,discovery
+Kidney Cancer,29,MLH1,discovery
+Kidney Cancer,30,MSH2,discovery
+Kidney Cancer,31,FGFR3,extended
+Kidney Cancer,32,PAX6,extended
+Kidney Cancer,33,KIT,extended
+Kidney Cancer,34,VIM,extended
+Kidney Cancer,35,PRCC,extended
+Kidney Cancer,36,DGCR8,extended
+Kidney Cancer,37,SDHA,extended
+Kidney Cancer,38,ATM,extended
+Kidney Cancer,39,CDKN2A,extended
+Kidney Cancer,40,CHEK2,extended
+Kidney Cancer,41,CA9,extended
+Kidney Cancer,42,RB1,extended
+Kidney Cancer,43,BRCA2,extended
+Kidney Cancer,44,SDHC,extended
+Kidney Cancer,45,SMARCB1,extended
+Kidney Cancer,46,IGF2,extended
+Kidney Cancer,47,SDHD,extended
+Kidney Cancer,48,PDCD1,extended
+Kidney Cancer,49,SMAD4,extended
+Kidney Cancer,50,TNFRSF11A,extended
+Leukemia,1,FLT3,established
+Leukemia,2,NPM1,established
+Leukemia,3,DNMT3A,established
+Leukemia,4,BCR,established
+Leukemia,5,CEBPA,established
+Leukemia,6,NRAS,established
+Leukemia,7,ASXL1,established
+Leukemia,8,TP53,established
+Leukemia,9,RUNX1,established
+Leukemia,10,IDH1,established
+Leukemia,11,TET2,emerging
+Leukemia,12,KIT,emerging
+Leukemia,13,ABL1,emerging
+Leukemia,14,IDH2,emerging
+Leukemia,15,PTPN11,emerging
+Leukemia,16,U2AF1,emerging
+Leukemia,17,KRAS,emerging
+Leukemia,18,SRSF2,emerging
+Leukemia,19,NOTCH1,emerging
+Leukemia,20,WT1,emerging
+Leukemia,21,SF3B1,discovery
+Leukemia,22,JAK2,discovery
+Leukemia,23,CD48,discovery
+Leukemia,24,MPL,discovery
+Leukemia,25,EZH2,discovery
+Leukemia,26,BRAF,discovery
+Leukemia,27,CSF3R,discovery
+Leukemia,28,RUNX1T1,discovery
+Leukemia,29,CBL,discovery
+Leukemia,30,FBXW7,discovery
+Leukemia,31,BCOR,extended
+Leukemia,32,GATA2,extended
+Leukemia,33,PHF6,extended
+Leukemia,34,CALR,extended
+Leukemia,35,BCORL1,extended
+Leukemia,36,MYH11,extended
+Leukemia,37,IKZF1,extended
+Leukemia,38,ATM,extended
+Leukemia,39,KMT2A,extended
+Leukemia,40,STAG2,extended
+Leukemia,41,ETV6,extended
+Leukemia,42,CD34,extended
+Leukemia,43,BIRC3,extended
+Leukemia,44,ZRSR2,extended
+Leukemia,45,RARA,extended
+Leukemia,46,CBFB,extended
+Leukemia,47,CDKN2A,extended
+Leukemia,48,JAK3,extended
+Leukemia,49,MYD88,extended
+Leukemia,50,JAK1,extended
+Liver Cancer,1,KRAS,established
+Liver Cancer,2,CTNNB1,established
+Liver Cancer,3,TP53,established
+Liver Cancer,4,BRAF,established
+Liver Cancer,5,PIK3CA,established
+Liver Cancer,6,TERT,established
+Liver Cancer,7,NRAS,established
+Liver Cancer,8,EGFR,established
+Liver Cancer,9,KIT,established
+Liver Cancer,10,APC,established
+Liver Cancer,11,CDKN2A,emerging
+Liver Cancer,12,HFE,emerging
+Liver Cancer,13,AXIN1,emerging
+Liver Cancer,14,HNF1A,emerging
+Liver Cancer,15,CCL14,emerging
+Liver Cancer,16,ERBB2,emerging
+Liver Cancer,17,PTEN,emerging
+Liver Cancer,18,NFE2L2,emerging
+Liver Cancer,19,ARID1A,emerging
+Liver Cancer,20,MKI67,emerging
+Liver Cancer,21,TTR,discovery
+Liver Cancer,22,FBXW7,discovery
+Liver Cancer,23,BAP1,discovery
+Liver Cancer,24,BRCA2,discovery
+Liver Cancer,25,GNAQ,discovery
+Liver Cancer,26,PDGFRA,discovery
+Liver Cancer,27,CD274,discovery
+Liver Cancer,28,AKT1,discovery
+Liver Cancer,29,ALK,discovery
+Liver Cancer,30,JAK1,discovery
+Liver Cancer,31,HNF4A,extended
+Liver Cancer,32,INS,extended
+Liver Cancer,33,MET,extended
+Liver Cancer,34,HRAS,extended
+Liver Cancer,35,GABPA,extended
+Liver Cancer,36,SMAD4,extended
+Liver Cancer,37,IDH1,extended
+Liver Cancer,38,AFP,extended
+Liver Cancer,39,TTN,extended
+Liver Cancer,40,MYC,extended
+Liver Cancer,41,MSH2,extended
+Liver Cancer,42,GNA11,extended
+Liver Cancer,43,TSC2,extended
+Liver Cancer,44,KMT2D,extended
+Liver Cancer,45,MLH1,extended
+Liver Cancer,46,KEAP1,extended
+Liver Cancer,47,RB1,extended
+Liver Cancer,48,MEN1,extended
+Liver Cancer,49,PDCD1,extended
+Liver Cancer,50,SLC33A1,extended
+Lung Cancer,1,EGFR,established
+Lung Cancer,2,KRAS,established
+Lung Cancer,3,TP53,established
+Lung Cancer,4,CD274,established
+Lung Cancer,5,BRAF,established
+Lung Cancer,6,PIK3CA,established
+Lung Cancer,7,ERBB2,established
+Lung Cancer,8,ALK,established
+Lung Cancer,9,MET,established
+Lung Cancer,10,STK11,established
+Lung Cancer,11,PDCD1,emerging
+Lung Cancer,12,NRAS,emerging
+Lung Cancer,13,NKX2-1,emerging
+Lung Cancer,14,KEAP1,emerging
+Lung Cancer,15,ROS1,emerging
+Lung Cancer,16,TNFRSF11A,emerging
+Lung Cancer,17,KIT,emerging
+Lung Cancer,18,EML4,emerging
+Lung Cancer,19,BRCA1,emerging
+Lung Cancer,20,MTUS1,emerging
+Lung Cancer,21,RET,discovery
+Lung Cancer,22,PTEN,discovery
+Lung Cancer,23,SMARCA4,discovery
+Lung Cancer,24,NR4A3,discovery
+Lung Cancer,25,NFE2L2,discovery
+Lung Cancer,26,BRCA2,discovery
+Lung Cancer,27,F3,discovery
+Lung Cancer,28,MAP2K1,discovery
+Lung Cancer,29,EPHA5,discovery
+Lung Cancer,30,NF1,discovery
+Lung Cancer,31,EGF,extended
+Lung Cancer,32,BAP1,extended
+Lung Cancer,33,KMT2C,extended
+Lung Cancer,34,ATM,extended
+Lung Cancer,35,ERBB4,extended
+Lung Cancer,36,TYMS,extended
+Lung Cancer,37,AKT1,extended
+Lung Cancer,38,RB1,extended
+Lung Cancer,39,FAM3B,extended
+Lung Cancer,40,CDKN2A,extended
+Lung Cancer,41,FOXD3-AS1,extended
+Lung Cancer,42,BCL2L11,extended
+Lung Cancer,43,TET2,extended
+Lung Cancer,44,CTNNB1,extended
+Lung Cancer,45,CSMD3,extended
+Lung Cancer,46,ZFHX3,extended
+Lung Cancer,47,AURKA,extended
+Lung Cancer,48,PARP1,extended
+Lung Cancer,49,IDH1,extended
+Lung Cancer,50,IL6,extended
+Lymphoma,1,MYD88,established
+Lymphoma,2,TP53,established
+Lymphoma,3,MYC,established
+Lymphoma,4,CD79B,established
+Lymphoma,5,KMT2D,established
+Lymphoma,6,EZH2,established
+Lymphoma,7,CREBBP,established
+Lymphoma,8,BCL2,established
+Lymphoma,9,ATM,established
+Lymphoma,10,TET2,established
+Lymphoma,11,CARD11,emerging
+Lymphoma,12,RHOA,emerging
+Lymphoma,13,TNFAIP3,emerging
+Lymphoma,14,PIM1,emerging
+Lymphoma,15,NOTCH1,emerging
+Lymphoma,16,CDKN2A,emerging
+Lymphoma,17,TNFRSF14,emerging
+Lymphoma,18,IDH2,emerging
+Lymphoma,19,DNMT3A,emerging
+Lymphoma,20,SOCS1,emerging
+Lymphoma,21,BCL6,discovery
+Lymphoma,22,NOTCH2,discovery
+Lymphoma,23,STAT3,discovery
+Lymphoma,24,AICDA,discovery
+Lymphoma,25,PIK3CA,discovery
+Lymphoma,26,BRAF,discovery
+Lymphoma,27,NODAL,discovery
+Lymphoma,28,NRAS,discovery
+Lymphoma,29,KMT2B,discovery
+Lymphoma,30,FAS,discovery
+Lymphoma,31,EP300,extended
+Lymphoma,32,MEF2B,extended
+Lymphoma,33,TBL1XR1,extended
+Lymphoma,34,CD274,extended
+Lymphoma,35,NFKB1,extended
+Lymphoma,36,B2M,extended
+Lymphoma,37,ARID1A,extended
+Lymphoma,38,PDCD1,extended
+Lymphoma,39,BCL10,extended
+Lymphoma,40,CTNNB1,extended
+Lymphoma,41,DDIT3,extended
+Lymphoma,42,CCND3,extended
+Lymphoma,43,KRAS,extended
+Lymphoma,44,JAK3,extended
+Lymphoma,45,MSH2,extended
+Lymphoma,46,KMT2C,extended
+Lymphoma,47,TNFRSF11A,extended
+Lymphoma,48,FBXW7,extended
+Lymphoma,49,PTEN,extended
+Lymphoma,50,CXCR4,extended
+Melanoma,1,BRAF,established
+Melanoma,2,NRAS,established
+Melanoma,3,KIT,established
+Melanoma,4,CDKN2A,established
+Melanoma,5,TERT,established
+Melanoma,6,GNAQ,established
+Melanoma,7,GNA11,established
+Melanoma,8,BAP1,established
+Melanoma,9,PDCD1,established
+Melanoma,10,SF3B1,established
+Melanoma,11,PIK3CA,emerging
+Melanoma,12,NF1,emerging
+Melanoma,13,CDK4,emerging
+Melanoma,14,PTEN,emerging
+Melanoma,15,TP53,emerging
+Melanoma,16,KRAS,emerging
+Melanoma,17,EIF1AX,emerging
+Melanoma,18,BRCA1,emerging
+Melanoma,19,MAP2K1,emerging
+Melanoma,20,CTNNB1,emerging
+Melanoma,21,CD274,discovery
+Melanoma,22,HRAS,discovery
+Melanoma,23,CTLA4,discovery
+Melanoma,24,EGFR,discovery
+Melanoma,25,ERBB4,discovery
+Melanoma,26,KDR,discovery
+Melanoma,27,PDGFRA,discovery
+Melanoma,28,ARID2,discovery
+Melanoma,29,RAC1,discovery
+Melanoma,30,BRCA2,discovery
+Melanoma,31,POT1,extended
+Melanoma,32,MC1R,extended
+Melanoma,33,MUC16,extended
+Melanoma,34,CYSLTR2,extended
+Melanoma,35,TNFRSF11A,extended
+Melanoma,36,ARID1A,extended
+Melanoma,37,IDH1,extended
+Melanoma,38,PLCB4,extended
+Melanoma,39,CPD,extended
+Melanoma,40,IFNG,extended
+Melanoma,41,ATRX,extended
+Melanoma,42,FOXD3-AS1,extended
+Melanoma,43,PRAME,extended
+Melanoma,44,LRP1B,extended
+Melanoma,45,IFI6,extended
+Melanoma,46,PMEL,extended
+Melanoma,47,PPP6C,extended
+Melanoma,48,PREX2,extended
+Melanoma,49,PTPRD,extended
+Melanoma,50,MTOR,extended
+Myeloma,1,NRAS,established
+Myeloma,2,TP53,established
+Myeloma,3,BRAF,established
+Myeloma,4,KRAS,established
+Myeloma,5,DIS3,established
+Myeloma,6,SDC1,established
+Myeloma,7,IGH,established
+Myeloma,8,MYC,established
+Myeloma,9,FGFR3,established
+Myeloma,10,CCND1,established
+Myeloma,11,IRF4,emerging
+Myeloma,12,TRAF3,emerging
+Myeloma,13,RB1,emerging
+Myeloma,14,IL6,emerging
+Myeloma,15,DNMT3A,emerging
+Myeloma,16,TET2,emerging
+Myeloma,17,ATM,emerging
+Myeloma,18,PIK3CA,emerging
+Myeloma,19,CYLD,emerging
+Myeloma,20,NSD2,emerging
+Myeloma,21,MYD88,discovery
+Myeloma,22,BIRC3,discovery
+Myeloma,23,INS,discovery
+Myeloma,24,CRBN,discovery
+Myeloma,25,ASXL1,discovery
+Myeloma,26,MAF,discovery
+Myeloma,27,BCL2,discovery
+Myeloma,28,EGR1,discovery
+Myeloma,29,CDKN2C,discovery
+Myeloma,30,CDKN2A,discovery
+Myeloma,31,BIRC2,extended
+Myeloma,32,LTB,extended
+Myeloma,33,PRDM1,extended
+Myeloma,34,NFKB1,extended
+Myeloma,35,BCL6,extended
+Myeloma,36,PSMB5,extended
+Myeloma,37,CD38,extended
+Myeloma,38,KMT2A,extended
+Myeloma,39,KMT2D,extended
+Myeloma,40,BCL2L1,extended
+Myeloma,41,TNFRSF13B,extended
+Myeloma,42,STAT3,extended
+Myeloma,43,FAT1,extended
+Myeloma,44,KIT,extended
+Myeloma,45,TENT5C,extended
+Myeloma,46,EZH2,extended
+Myeloma,47,MCL1,extended
+Myeloma,48,IGLL5,extended
+Myeloma,49,SF3B1,extended
+Myeloma,50,FLT3,extended
+Ovarian Cancer,1,BRCA1,established
+Ovarian Cancer,2,BRCA2,established
+Ovarian Cancer,3,TP53,established
+Ovarian Cancer,4,POLE,established
+Ovarian Cancer,5,KRAS,established
+Ovarian Cancer,6,PIK3CA,established
+Ovarian Cancer,7,ARID1A,established
+Ovarian Cancer,8,MLH1,established
+Ovarian Cancer,9,CTNNB1,established
+Ovarian Cancer,10,BRAF,established
+Ovarian Cancer,11,PTEN,emerging
+Ovarian Cancer,12,MSH2,emerging
+Ovarian Cancer,13,BRIP1,emerging
+Ovarian Cancer,14,RAD51C,emerging
+Ovarian Cancer,15,CHEK2,emerging
+Ovarian Cancer,16,PALB2,emerging
+Ovarian Cancer,17,RAD51D,emerging
+Ovarian Cancer,18,ATM,emerging
+Ovarian Cancer,19,MSH6,emerging
+Ovarian Cancer,20,DICER1,emerging
+Ovarian Cancer,21,PMS2,discovery
+Ovarian Cancer,22,BARD1,discovery
+Ovarian Cancer,23,PPP2R1A,discovery
+Ovarian Cancer,24,PARP1,discovery
+Ovarian Cancer,25,PGR,discovery
+Ovarian Cancer,26,RAD51,discovery
+Ovarian Cancer,27,ERBB2,discovery
+Ovarian Cancer,28,FOXL2,discovery
+Ovarian Cancer,29,TERT,discovery
+Ovarian Cancer,30,NRAS,discovery
+Ovarian Cancer,31,KIT,extended
+Ovarian Cancer,32,NBN,extended
+Ovarian Cancer,33,MUC16,extended
+Ovarian Cancer,34,SMARCA4,extended
+Ovarian Cancer,35,RAD50,extended
+Ovarian Cancer,36,TTN,extended
+Ovarian Cancer,37,PIK3R1,extended
+Ovarian Cancer,38,MYC,extended
+Ovarian Cancer,39,NBR1,extended
+Ovarian Cancer,40,ATR,extended
+Ovarian Cancer,41,MET,extended
+Ovarian Cancer,42,FGFR2,extended
+Ovarian Cancer,43,CCND1,extended
+Ovarian Cancer,44,APC,extended
+Ovarian Cancer,45,CDK12,extended
+Ovarian Cancer,46,CDKN2A,extended
+Ovarian Cancer,47,HGS,extended
+Ovarian Cancer,48,INS,extended
+Ovarian Cancer,49,MKI67,extended
+Ovarian Cancer,50,CHEK1,extended
+Pancreatic Cancer,1,KRAS,established
+Pancreatic Cancer,2,BRCA2,established
+Pancreatic Cancer,3,CDKN2A,established
+Pancreatic Cancer,4,TP53,established
+Pancreatic Cancer,5,BRCA1,established
+Pancreatic Cancer,6,SMAD4,established
+Pancreatic Cancer,7,GNAS,established
+Pancreatic Cancer,8,PALB2,established
+Pancreatic Cancer,9,PIK3CA,established
+Pancreatic Cancer,10,BRAF,established
+Pancreatic Cancer,11,MEN1,emerging
+Pancreatic Cancer,12,ATM,emerging
+Pancreatic Cancer,13,CTNNB1,emerging
+Pancreatic Cancer,14,CHEK2,emerging
+Pancreatic Cancer,15,MLH1,emerging
+Pancreatic Cancer,16,EGFR,emerging
+Pancreatic Cancer,17,MSH2,emerging
+Pancreatic Cancer,18,PRSS1,emerging
+Pancreatic Cancer,19,RNF43,emerging
+Pancreatic Cancer,20,DAXX,emerging
+Pancreatic Cancer,21,PARP1,discovery
+Pancreatic Cancer,22,INS,discovery
+Pancreatic Cancer,23,CFTR,discovery
+Pancreatic Cancer,24,APC,discovery
+Pancreatic Cancer,25,SPINK1,discovery
+Pancreatic Cancer,26,ATRX,discovery
+Pancreatic Cancer,27,NRAS,discovery
+Pancreatic Cancer,28,MKI67,discovery
+Pancreatic Cancer,29,TSC2,discovery
+Pancreatic Cancer,30,ERBB2,discovery
+Pancreatic Cancer,31,CD274,extended
+Pancreatic Cancer,32,PTEN,extended
+Pancreatic Cancer,33,RB1,extended
+Pancreatic Cancer,34,MSH6,extended
+Pancreatic Cancer,35,KIT,extended
+Pancreatic Cancer,36,ARID1A,extended
+Pancreatic Cancer,37,MET,extended
+Pancreatic Cancer,38,STK11,extended
+Pancreatic Cancer,39,YY1,extended
+Pancreatic Cancer,40,SPN,extended
+Pancreatic Cancer,41,CCND1,extended
+Pancreatic Cancer,42,VHL,extended
+Pancreatic Cancer,43,PDCD1,extended
+Pancreatic Cancer,44,RAD51D,extended
+Pancreatic Cancer,45,MYC,extended
+Pancreatic Cancer,46,MTOR,extended
+Pancreatic Cancer,47,AR,extended
+Pancreatic Cancer,48,SCT,extended
+Pancreatic Cancer,49,HP,extended
+Pancreatic Cancer,50,PMS2,extended
+Prostate Cancer,1,BRCA2,established
+Prostate Cancer,2,BRCA1,established
+Prostate Cancer,3,TP53,established
+Prostate Cancer,4,PTEN,established
+Prostate Cancer,5,ATM,established
+Prostate Cancer,6,AR,established
+Prostate Cancer,7,SPOP,established
+Prostate Cancer,8,PARP1,established
+Prostate Cancer,9,CHEK2,established
+Prostate Cancer,10,RB1,established
+Prostate Cancer,11,PALB2,emerging
+Prostate Cancer,12,PIK3CA,emerging
+Prostate Cancer,13,CDK12,emerging
+Prostate Cancer,14,MSH2,emerging
+Prostate Cancer,15,ERG,emerging
+Prostate Cancer,16,MLH1,emerging
+Prostate Cancer,17,HOXB13,emerging
+Prostate Cancer,18,FOXA1,emerging
+Prostate Cancer,19,NBN,emerging
+Prostate Cancer,20,MSH6,emerging
+Prostate Cancer,21,TMPRSS2,discovery
+Prostate Cancer,22,BRAF,discovery
+Prostate Cancer,23,APC,discovery
+Prostate Cancer,24,CTNNB1,discovery
+Prostate Cancer,25,RAD51C,discovery
+Prostate Cancer,26,BRIP1,discovery
+Prostate Cancer,27,CHD1,discovery
+Prostate Cancer,28,AMACR,discovery
+Prostate Cancer,29,MYC,discovery
+Prostate Cancer,30,KRAS,discovery
+Prostate Cancer,31,PMS2,extended
+Prostate Cancer,32,EGFR,extended
+Prostate Cancer,33,MED12,extended
+Prostate Cancer,34,PDCD1,extended
+Prostate Cancer,35,TNFRSF11A,extended
+Prostate Cancer,36,MKI67,extended
+Prostate Cancer,37,CHEK1,extended
+Prostate Cancer,38,BCL2,extended
+Prostate Cancer,39,IDH1,extended
+Prostate Cancer,40,MSR1,extended
+Prostate Cancer,41,ATR,extended
+Prostate Cancer,42,RAD51,extended
+Prostate Cancer,43,FANCA,extended
+Prostate Cancer,44,KMT2C,extended
+Prostate Cancer,45,TERT,extended
+Prostate Cancer,46,RNASEL,extended
+Prostate Cancer,47,ELAC2,extended
+Prostate Cancer,48,KMT2D,extended
+Prostate Cancer,49,MUTYH,extended
+Prostate Cancer,50,KLF6,extended
+Stomach Cancer,1,CDH1,established
+Stomach Cancer,2,TP53,established
+Stomach Cancer,3,PIK3CA,established
+Stomach Cancer,4,KRAS,established
+Stomach Cancer,5,CTNNB1,established
+Stomach Cancer,6,EGFR,established
+Stomach Cancer,7,KIT,established
+Stomach Cancer,8,BRAF,established
+Stomach Cancer,9,APC,established
+Stomach Cancer,10,BRCA2,established
+Stomach Cancer,11,ERBB2,emerging
+Stomach Cancer,12,PDGFRA,emerging
+Stomach Cancer,13,ARID1A,emerging
+Stomach Cancer,14,PTEN,emerging
+Stomach Cancer,15,CD274,emerging
+Stomach Cancer,16,MLH1,emerging
+Stomach Cancer,17,BRCA1,emerging
+Stomach Cancer,18,ATM,emerging
+Stomach Cancer,19,RHOA,emerging
+Stomach Cancer,20,MSH2,emerging
+Stomach Cancer,21,STK11,discovery
+Stomach Cancer,22,LRP1B,discovery
+Stomach Cancer,23,MUC16,discovery
+Stomach Cancer,24,MKI67,discovery
+Stomach Cancer,25,MET,discovery
+Stomach Cancer,26,RAD50,discovery
+Stomach Cancer,27,BLM,discovery
+Stomach Cancer,28,BCL2,discovery
+Stomach Cancer,29,GNAS,discovery
+Stomach Cancer,30,NBN,discovery
+Stomach Cancer,31,KMT2D,extended
+Stomach Cancer,32,ERBB3,extended
+Stomach Cancer,33,SMAD4,extended
+Stomach Cancer,34,PALB2,extended
+Stomach Cancer,35,MUC6,extended
+Stomach Cancer,36,PDCD1,extended
+Stomach Cancer,37,CTNNA1,extended
+Stomach Cancer,38,BRIP1,extended
+Stomach Cancer,39,KMT2C,extended
+Stomach Cancer,40,RNF43,extended
+Stomach Cancer,41,CHEK2,extended
+Stomach Cancer,42,MTUS2,extended
+Stomach Cancer,43,PARP1,extended
+Stomach Cancer,44,SDHB,extended
+Stomach Cancer,45,TTN,extended
+Stomach Cancer,46,FAP,extended
+Stomach Cancer,47,RAD51C,extended
+Stomach Cancer,48,SMARCB1,extended
+Stomach Cancer,49,TNFRSF11A,extended
+Stomach Cancer,50,CDKN2A,extended
+Thyroid Cancer,1,BRAF,established
+Thyroid Cancer,2,RET,established
+Thyroid Cancer,3,TERT,established
+Thyroid Cancer,4,NRAS,established
+Thyroid Cancer,5,KRAS,established
+Thyroid Cancer,6,HRAS,established
+Thyroid Cancer,7,PIK3CA,established
+Thyroid Cancer,8,TP53,established
+Thyroid Cancer,9,CCDC6,established
+Thyroid Cancer,10,EIF1AX,established
+Thyroid Cancer,11,DICER1,emerging
+Thyroid Cancer,12,PAX8,emerging
+Thyroid Cancer,13,TSHR,emerging
+Thyroid Cancer,14,PTEN,emerging
+Thyroid Cancer,15,NCOA4,emerging
+Thyroid Cancer,16,MKI67,emerging
+Thyroid Cancer,17,PPARG,emerging
+Thyroid Cancer,18,GNAS,emerging
+Thyroid Cancer,19,KIT,emerging
+Thyroid Cancer,20,CTNNB1,emerging
+Thyroid Cancer,21,EGFR,discovery
+Thyroid Cancer,22,ALK,discovery
+Thyroid Cancer,23,APC,discovery
+Thyroid Cancer,24,NODAL,discovery
+Thyroid Cancer,25,NF1,discovery
+Thyroid Cancer,26,TPO,discovery
+Thyroid Cancer,27,MAP2K1,discovery
+Thyroid Cancer,28,NKX2-1,discovery
+Thyroid Cancer,29,STK11,discovery
+Thyroid Cancer,30,LGALS3,discovery
+Thyroid Cancer,31,MET,extended
+Thyroid Cancer,32,EZH1,extended
+Thyroid Cancer,33,NTRK1,extended
+Thyroid Cancer,34,CCND1,extended
+Thyroid Cancer,35,NTRK3,extended
+Thyroid Cancer,36,TYR,extended
+Thyroid Cancer,37,MIR21,extended
+Thyroid Cancer,38,TG,extended
+Thyroid Cancer,39,CHEK2,extended
+Thyroid Cancer,40,CD274,extended
+Thyroid Cancer,41,MTOR,extended
+Thyroid Cancer,42,FOXD3,extended
+Thyroid Cancer,43,AKT1,extended
+Thyroid Cancer,44,FAP,extended
+Thyroid Cancer,45,FAS,extended
+Thyroid Cancer,46,AR,extended
+Thyroid Cancer,47,RAF1,extended
+Thyroid Cancer,48,ETV6,extended
+Thyroid Cancer,49,PLEKHS1,extended
+Thyroid Cancer,50,MAPK3,extended

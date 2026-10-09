@@ -1,0 +1,20 @@
+cancer,n,p10_intogen_any,p10_intogen_exact
+Bladder Cancer,10,1.0,0.7
+Brain Cancer,10,0.9,0.8
+Breast Cancer,10,1.0,0.9
+Cervical Cancer,10,1.0,0.8
+Colorectal Cancer,10,0.7,0.7
+Endometrial Cancer,10,0.7,0.6
+Esophageal Cancer,10,1.0,0.6
+Kidney Cancer,10,0.9,0.7
+Leukemia,10,1.0,0.9
+Liver Cancer,10,1.0,0.7
+Lung Cancer,10,1.0,0.9
+Lymphoma,10,1.0,0.9
+Melanoma,10,0.9,0.8
+Myeloma,10,0.8,0.7
+Ovarian Cancer,10,0.9,0.8
+Pancreatic Cancer,10,1.0,0.7
+Prostate Cancer,10,0.9,0.7
+Stomach Cancer,10,1.0,0.7
+Thyroid Cancer,10,1.0,0.8

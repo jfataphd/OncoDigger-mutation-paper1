@@ -1,0 +1,32 @@
+cancer,gene,n_sampled,pct_mutation_titled,full_corpus_postings
+Brain Cancer,MAX,20,0.0,427.0
+Breast Cancer,FOXA1,20,0.0,308.0
+Leukemia,HLA-A,20,0.0,252.0
+Lung Cancer,SMAD4,20,5.0,152.0
+Breast Cancer,CASP8,20,5.0,111.0
+Lymphoma,HLA-A,20,0.0,95.0
+Leukemia,IRF4,20,5.0,81.0
+Colorectal Cancer,ERBB3,20,5.0,79.0
+Lung Cancer,HLA-A,20,0.0,73.0
+Breast Cancer,ARID1A,20,5.0,66.0
+Breast Cancer,RUNX1,20,5.0,65.0
+Breast Cancer,CDKN1B,20,10.0,50.0
+Leukemia,CCND2,20,0.0,47.0
+Breast Cancer,TBX3,20,5.0,42.0
+Breast Cancer,NCOR1,20,15.0,40.0
+Stomach Cancer,RELA,20,0.0,34.0
+Pancreatic Cancer,LPA,20,0.0,33.0
+Liver Cancer,EPHA2,20,0.0,33.0
+Lung Cancer,CREBBP,20,35.0,31.0
+Lung Cancer,KLF5,20,0.0,29.0
+Lung Cancer,BCR,20,5.0,27.0
+Stomach Cancer,TOP2A,20,0.0,27.0
+Lung Cancer,B2M,20,5.0,26.0
+Brain Cancer,DNMT3A,20,10.0,25.0
+Bladder Cancer,RHOA,20,0.0,24.0
+Breast Cancer,SF3B1,20,20.0,23.0
+Breast Cancer,CBFB,20,25.0,22.0
+Lung Cancer,ARID2,20,40.0,21.0
+Leukemia,KMT2C,20,10.0,21.0
+Prostate Cancer,SUZ12,20,5.0,20.0
+Brain Cancer,TCF4,20,5.0,20.0

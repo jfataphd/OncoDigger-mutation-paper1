@@ -1,0 +1,5 @@
+cell,any_cancer,exact_concordance,n
+cell1_fullcorpus_dirty,58/140,38/140,140
+cell2_fullcorpus_clean,59/140,38/140,140
+cell3_pool_dirty,130/140,111/140,140
+cell4_pool_clean,130/140,110/140,140

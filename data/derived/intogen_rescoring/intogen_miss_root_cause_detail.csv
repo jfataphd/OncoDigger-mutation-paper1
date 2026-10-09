@@ -1,0 +1,192 @@
+cancer,gene,engine_rank,supporting_papers,corpus_papers,relevance_score,surfaced_at_all,is_absent,n_methods,full_corpus_postings,pct_mutation_titled,category
+Breast Cancer,ARID1A,,,,,False,False,4,66.0,5.0,non_mutation_framed
+Breast Cancer,CASP8,,,,,False,False,3,111.0,5.0,non_mutation_framed
+Breast Cancer,CBFB,,,,,False,False,3,22.0,25.0,unresolved
+Breast Cancer,CDKN1B,,,,,False,False,2,50.0,10.0,non_mutation_framed
+Breast Cancer,CSPG4,,,,,False,False,2,15.0,,low_volume
+Breast Cancer,FOXA1,,,,,False,False,5,308.0,0.0,non_mutation_framed
+Breast Cancer,HOXC13,,,,,False,False,2,4.0,,low_volume
+Breast Cancer,KMT5A,,,,,False,False,2,3.0,,low_volume
+Breast Cancer,MED23,,,,,False,False,2,4.0,,low_volume
+Breast Cancer,MYO5A,,,,,False,False,2,1.0,,low_volume
+Breast Cancer,NCOR1,,,,,False,False,4,40.0,15.0,non_mutation_framed
+Breast Cancer,RHPN2,,,,,False,False,4,1.0,,low_volume
+Breast Cancer,RUNX1,,,,,False,False,5,65.0,5.0,non_mutation_framed
+Breast Cancer,SF3B1,,,,,False,False,2,23.0,20.0,unresolved
+Breast Cancer,SPEN,,,,,False,False,2,16.0,,low_volume
+Breast Cancer,TBX3,,,,,False,False,3,42.0,5.0,non_mutation_framed
+Breast Cancer,USP6,,,,,False,False,4,4.0,,low_volume
+Lung Cancer,ARHGAP35,,,,,False,False,4,3.0,,low_volume
+Lung Cancer,ARID2,,,,,False,False,2,21.0,40.0,unresolved
+Lung Cancer,ATF7IP,,,,,False,False,3,1.0,,low_volume
+Lung Cancer,B2M,,,,,False,False,3,26.0,5.0,non_mutation_framed
+Lung Cancer,BCR,,,,,False,False,2,27.0,5.0,non_mutation_framed
+Lung Cancer,CD209,,,,,False,False,2,6.0,,low_volume
+Lung Cancer,CDH11,,,,,False,False,2,6.0,,low_volume
+Lung Cancer,CMTR2,,,,,False,False,3,1.0,,low_volume
+Lung Cancer,CREBBP,,,,,False,False,2,31.0,35.0,unresolved
+Lung Cancer,CTNNA2,,,,,False,False,3,1.0,,low_volume
+Lung Cancer,CTNND2,,,,,False,False,2,4.0,,low_volume
+Lung Cancer,FAM135B,,,,,False,False,3,3.0,,low_volume
+Lung Cancer,HLA-A,,,,,False,False,4,73.0,0.0,non_mutation_framed
+Lung Cancer,KDM6A,,,,,False,False,3,13.0,,low_volume
+Lung Cancer,KLF5,,,,,False,False,3,29.0,0.0,non_mutation_framed
+Lung Cancer,MGA,,,,,False,False,4,18.0,,low_volume
+Lung Cancer,NIPBL,,,,,False,False,2,3.0,,low_volume
+Lung Cancer,NRK,,,,,False,False,2,2.0,,low_volume
+Lung Cancer,NSD1,,,,,False,False,4,5.0,,low_volume
+Lung Cancer,PARP4,,,,,False,False,2,3.0,,low_volume
+Lung Cancer,PER3,,,,,False,False,3,6.0,,low_volume
+Lung Cancer,RHPN2,,,,,False,False,6,3.0,,low_volume
+Lung Cancer,SMAD4,,,,,False,False,2,152.0,5.0,non_mutation_framed
+Lung Cancer,SUSD2,,,,,False,False,2,4.0,,low_volume
+Lung Cancer,U2AF1,,,,,False,False,3,11.0,,low_volume
+Lung Cancer,USP6,,,,,False,False,2,3.0,,low_volume
+Lung Cancer,ZNF395,,,,,False,False,2,2.0,,low_volume
+Lung Cancer,ZNF750,,,,,False,False,2,2.0,,low_volume
+Colorectal Cancer,AMER1,,,,,False,False,5,13.0,,low_volume
+Colorectal Cancer,BCL9L,,,,,False,False,5,12.0,,low_volume
+Colorectal Cancer,CSMD3,,,,,False,False,2,5.0,,low_volume
+Colorectal Cancer,ERBB3,,,,,False,False,4,79.0,5.0,non_mutation_framed
+Colorectal Cancer,ING1,,,,,False,False,2,3.0,,low_volume
+Colorectal Cancer,MAP2K4,,,,,False,False,3,9.0,,low_volume
+Colorectal Cancer,PARP4,,,,,False,False,2,2.0,,low_volume
+Colorectal Cancer,PCBP1,,,,,False,False,6,7.0,,low_volume
+Colorectal Cancer,RBM10,,,,,False,False,4,4.0,,low_volume
+Colorectal Cancer,RNF6,,,,,False,False,2,6.0,,low_volume
+Colorectal Cancer,SIRPA,,,,,False,False,2,4.0,,low_volume
+Colorectal Cancer,TAF1L,,,,,False,False,2,1.0,,low_volume
+Colorectal Cancer,TBX3,,,,,False,False,2,3.0,,low_volume
+Colorectal Cancer,TGIF1,,,,,False,False,3,4.0,,low_volume
+Colorectal Cancer,USP6,,,,,False,False,2,2.0,,low_volume
+Prostate Cancer,BMP6,,,,,False,False,2,8.0,,low_volume
+Prostate Cancer,CASZ1,,,,,False,False,2,1.0,,low_volume
+Prostate Cancer,CNOT3,,,,,False,False,2,1.0,,low_volume
+Prostate Cancer,CSMD3,,,,,False,False,2,1.0,,low_volume
+Prostate Cancer,FAM174B,,,,,False,False,3,1.0,,low_volume
+Prostate Cancer,FGD1,,,,,False,False,2,1.0,,low_volume
+Prostate Cancer,MGA,,,,,False,False,2,1.0,,low_volume
+Prostate Cancer,MYEOV,,,,,False,False,2,1.0,,low_volume
+Prostate Cancer,SUZ12,,,,,False,False,5,20.0,5.0,non_mutation_framed
+Prostate Cancer,ZMYM3,,,,,False,False,4,1.0,,low_volume
+Melanoma,BRD7,,,,,False,False,4,1.0,,low_volume
+Melanoma,CADM2,,,,,False,False,2,1.0,,low_volume
+Melanoma,COL6A3,,,,,False,False,2,2.0,,low_volume
+Melanoma,DDX3X,,,,,False,False,2,5.0,,low_volume
+Melanoma,PDCD1LG2,,,,,False,False,3,5.0,,low_volume
+Melanoma,PLXNC1,,,,,False,False,2,3.0,,low_volume
+Melanoma,SETD2,,,,,False,False,2,1.0,,low_volume
+Melanoma,TRRAP,,,,,False,False,2,3.0,,low_volume
+Bladder Cancer,ASXL2,,,,,False,False,5,1.0,,low_volume
+Bladder Cancer,ERBB4,,,,,False,False,4,10.0,,low_volume
+Bladder Cancer,GNA13,,,,,False,False,2,1.0,,low_volume
+Bladder Cancer,HLA-A,,,,,False,False,5,12.0,,low_volume
+Bladder Cancer,KLF5,,,,,False,False,2,9.0,,low_volume
+Bladder Cancer,KMT2A,,,,,False,False,3,1.0,,low_volume
+Bladder Cancer,RBM10,,,,,False,False,3,1.0,,low_volume
+Bladder Cancer,RHOA,,,,,False,False,2,24.0,0.0,non_mutation_framed
+Bladder Cancer,ZFP36L1,,,,,False,False,3,2.0,,low_volume
+Kidney Cancer,ATG7,,,,,False,False,2,11.0,,low_volume
+Pancreatic Cancer,ACVR2A,,,,,False,False,2,1.0,,low_volume
+Pancreatic Cancer,FMN2,,,,,False,False,2,2.0,,low_volume
+Pancreatic Cancer,LPA,,,,,False,False,2,33.0,0.0,non_mutation_framed
+Pancreatic Cancer,MAP2K4,,,,,False,False,3,9.0,,low_volume
+Pancreatic Cancer,MARK2,,,,,False,False,2,1.0,,low_volume
+Pancreatic Cancer,PEG3,,,,,False,False,2,1.0,,low_volume
+Pancreatic Cancer,PTPN3,,,,,False,False,2,2.0,,low_volume
+Pancreatic Cancer,SETD2,,,,,False,False,2,15.0,,low_volume
+Liver Cancer,ACVR2A,,,,,False,False,2,5.0,,low_volume
+Liver Cancer,BCOR,,,,,False,False,3,1.0,,low_volume
+Liver Cancer,BRD7,,,,,False,False,3,4.0,,low_volume
+Liver Cancer,DHX9,,,,,False,False,2,10.0,,low_volume
+Liver Cancer,EPHA2,,,,,False,False,3,33.0,0.0,non_mutation_framed
+Liver Cancer,ERBB4,,,,,False,False,2,10.0,,low_volume
+Liver Cancer,PABPC1,,,,,False,False,4,13.0,,low_volume
+Liver Cancer,PMS2,,,,,False,False,3,14.0,,low_volume
+Liver Cancer,RBM10,,,,,False,False,3,4.0,,low_volume
+Liver Cancer,ZNF429,,,,,False,False,2,1.0,,low_volume
+Stomach Cancer,CDH11,,,,,False,False,2,12.0,,low_volume
+Stomach Cancer,CSMD3,,,,,False,False,2,4.0,,low_volume
+Stomach Cancer,MAP2K7,,,,,False,False,3,3.0,,low_volume
+Stomach Cancer,PPP3CA,,,,,False,False,3,1.0,,low_volume
+Stomach Cancer,RELA,,,,,False,False,3,34.0,0.0,non_mutation_framed
+Stomach Cancer,TOP2A,,,,,False,False,2,27.0,0.0,non_mutation_framed
+Stomach Cancer,TRIM49C,,,,,False,False,3,2.0,,low_volume
+Esophageal Cancer,ARID2,,,,,False,False,3,1.0,,low_volume
+Esophageal Cancer,HLA-B,,,,,False,False,2,6.0,,low_volume
+Esophageal Cancer,RNF43,,,,,False,False,2,1.0,,low_volume
+Esophageal Cancer,TGFBR1,,,,,False,False,2,2.0,,low_volume
+Esophageal Cancer,ZNF208,,,,,False,False,2,1.0,,low_volume
+Ovarian Cancer,NF2,,,,,False,False,2,12.0,,low_volume
+Endometrial Cancer,ACVR1,,,,,False,False,2,2.0,,low_volume
+Endometrial Cancer,MECOM,,,,,False,False,2,1.0,,low_volume
+Endometrial Cancer,MYCN,,,,,False,False,2,6.0,,low_volume
+Endometrial Cancer,PBRM1,,,,,False,False,2,1.0,,low_volume
+Endometrial Cancer,SOS1,,,,,False,False,4,1.0,,low_volume
+Endometrial Cancer,SOX17,,,,,False,False,3,17.0,,low_volume
+Endometrial Cancer,WNT1,,,,,False,False,2,4.0,,low_volume
+Cervical Cancer,B2M,,,,,False,False,2,4.0,,low_volume
+Cervical Cancer,KLF5,,,,,False,False,2,16.0,,low_volume
+Cervical Cancer,MCM7,,,,,False,False,2,8.0,,low_volume
+Thyroid Cancer,DNMT3A,,,,,False,False,2,10.0,,low_volume
+Thyroid Cancer,KMT2C,,,,,False,False,2,5.0,,low_volume
+Brain Cancer,ARID1B,,,,,False,False,3,7.0,,low_volume
+Brain Cancer,ARID2,,,,,False,False,3,1.0,,low_volume
+Brain Cancer,BCORL1,,,,,False,False,2,5.0,,low_volume
+Brain Cancer,CCAR1,,,,,False,False,2,2.0,,low_volume
+Brain Cancer,CDKN2C,,,,,False,False,2,11.0,,low_volume
+Brain Cancer,CHD7,,,,,False,False,2,7.0,,low_volume
+Brain Cancer,CHRDL1,,,,,False,False,2,1.0,,low_volume
+Brain Cancer,DNMT3A,,,,,False,False,2,25.0,10.0,non_mutation_framed
+Brain Cancer,FBXW7,,,,,False,False,3,19.0,,low_volume
+Brain Cancer,H3-3A,,,,,False,False,3,10.0,,low_volume
+Brain Cancer,LDB1,,,,,False,False,4,1.0,,low_volume
+Brain Cancer,LZTR1,,,,,False,False,2,6.0,,low_volume
+Brain Cancer,MAX,,,,,False,False,2,427.0,0.0,vocabulary_artefact
+Brain Cancer,NIPBL,,,,,False,False,3,1.0,,low_volume
+Brain Cancer,TCF4,,,,,False,False,4,20.0,5.0,non_mutation_framed
+Brain Cancer,ZBTB20,,,,,False,False,4,4.0,,low_volume
+Leukemia,ARID1A,,,,,False,False,2,19.0,,low_volume
+Leukemia,BCLAF1,,,,,False,False,4,7.0,,low_volume
+Leukemia,CCND2,,,,,False,False,3,47.0,0.0,non_mutation_framed
+Leukemia,CHD2,,,,,False,False,3,9.0,,low_volume
+Leukemia,CNOT3,,,,,False,False,2,9.0,,low_volume
+Leukemia,DTX1,,,,,False,False,3,9.0,,low_volume
+Leukemia,EGR2,,,,,False,False,2,19.0,,low_volume
+Leukemia,FLG,,,,,False,False,2,6.0,,low_volume
+Leukemia,FUBP1,,,,,False,False,2,5.0,,low_volume
+Leukemia,HCAR3,,,,,False,False,4,1.0,,low_volume
+Leukemia,HLA-A,,,,,False,False,2,252.0,0.0,non_mutation_framed
+Leukemia,IRF4,,,,,False,False,3,81.0,5.0,non_mutation_framed
+Leukemia,KMT2C,,,,,False,False,3,21.0,10.0,non_mutation_framed
+Leukemia,MGA,,,,,False,False,3,14.0,,low_volume
+Leukemia,NT5C3A,,,,,False,False,4,1.0,,low_volume
+Leukemia,NXF1,,,,,False,False,5,3.0,,low_volume
+Leukemia,PCMTD1,,,,,False,False,2,1.0,,low_volume
+Leukemia,RIPK1,,,,,False,False,2,18.0,,low_volume
+Leukemia,SIRPA,,,,,False,False,3,3.0,,low_volume
+Leukemia,TBL1XR1,,,,,False,False,2,15.0,,low_volume
+Leukemia,U2AF2,,,,,False,False,3,7.0,,low_volume
+Lymphoma,ANKRD11,,,,,False,False,2,3.0,,low_volume
+Lymphoma,DOT1L,,,,,False,False,2,7.0,,low_volume
+Lymphoma,FCGR2B,,,,,False,False,2,10.0,,low_volume
+Lymphoma,GNAI2,,,,,False,False,4,3.0,,low_volume
+Lymphoma,HLA-A,,,,,False,False,4,95.0,0.0,non_mutation_framed
+Lymphoma,HLA-C,,,,,False,False,2,8.0,,low_volume
+Lymphoma,PCBP1,,,,,False,False,4,1.0,,low_volume
+Lymphoma,PRKCD,,,,,False,False,2,2.0,,low_volume
+Lymphoma,RASA2,,,,,False,False,2,1.0,,low_volume
+Lymphoma,RBM38,,,,,False,False,3,1.0,,low_volume
+Lymphoma,SIN3A,,,,,False,False,5,7.0,,low_volume
+Lymphoma,TFAP4,,,,,False,False,4,4.0,,low_volume
+Lymphoma,TMSB4X,,,,,False,False,3,4.0,,low_volume
+Lymphoma,USP7,,,,,False,False,2,4.0,,low_volume
+Lymphoma,ZFP36L1,,,,,False,False,2,2.0,,low_volume
+Myeloma,ADAMTS9,,,,,False,False,2,2.0,,low_volume
+Myeloma,EFTUD2,,,,,False,False,4,1.0,,low_volume
+Myeloma,IKBKB,,,,,False,False,3,2.0,,low_volume
+Myeloma,IRAK1,,,,,False,False,2,1.0,,low_volume
+Myeloma,PABPC1,,,,,False,False,4,1.0,,low_volume
+Myeloma,PIM1,,,,,False,False,4,6.0,,low_volume
+Myeloma,SAMHD1,,,,,False,False,2,2.0,,low_volume
+Myeloma,USP7,,,,,False,False,2,13.0,,low_volume

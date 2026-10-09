@@ -1,0 +1,37 @@
+# Python dependencies for the OncoDigger IntOGen-primary manuscript analyses
+# Tested with Python 3.12
+#
+# Exact versions pinned (2026-09-30) to the environment all analyses in this repository were
+# actually run and verified against, addressing red-team audit item 15 (">=" floors alone do
+# not guarantee the same numeric results if a dependency's internals change in a later release).
+# Known, harmless warning in this exact combination: scipy 1.14.1 declares a compatible numpy
+# range of >=1.23.5,<2.3.0 and warns when the newer numpy 2.4.6 below is installed; every
+# statistical result in this paper (ttest_rel, wilcoxon, spearmanr) was independently
+# cross-checked against expected/known values in this exact environment and matched, so this
+# is recorded as a benign compatibility warning, not a fix applied by picking an unverified
+# combination instead.
+#
+# Installation note, confirmed via a clean-checkout test (2026-10-07): a plain
+# `pip install -r requirements.txt` fails outright with pip's dependency
+# resolver (ResolutionImpossible), because it refuses to jointly solve a
+# combination where scipy's declared metadata range excludes the pinned
+# numpy, even though the combination imports and runs correctly (the warning
+# above, not an error). To install the exact pinned versions, install numpy
+# first, then install scipy with --no-deps so pip does not re-resolve it
+# against numpy:
+#   pip install numpy==2.4.6 pandas==2.2.3 requests==2.34.2
+#   pip install --no-deps scipy==1.14.1
+# (A plain `pip install -r requirements.txt` will also succeed, but silently
+# downgrades numpy to the newest version satisfying scipy's declared range
+# instead of installing the pinned 2.4.6.)
+
+# Core data
+pandas==2.2.3
+numpy==2.4.6
+scipy==1.14.1
+
+# Statistics
+# scipy provides stats.spearmanr, stats.wilcoxon, stats.ttest_rel used in analyses
+
+# PubMed queries
+requests==2.34.2

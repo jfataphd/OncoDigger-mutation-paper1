@@ -1,0 +1,28 @@
+{
+  "title": "OncoDigger Reveals Distinct Cancer-Specific Mutation Landscapes from the Published Literature",
+  "description": "Curated, reproducible companion repository for the manuscript. Contains the data, analysis scripts, vendored OncoDigger engine source, and manuscript (Markdown + PDF) needed to reproduce every reported number, table and figure, validated against IntOGen (Martinez-Jimenez et al., 2020) as the primary cancer-type driver reference standard.",
+  "creators": [
+    {
+      "name": "Fata, Jimmie E.",
+      "affiliation": "Department of Biology, College of Staten Island, City University of New York",
+      "orcid": "0000-0001-5797-6619"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": [
+    "literature mining",
+    "cancer genes",
+    "mutations",
+    "BM25",
+    "IntOGen",
+    "bioinformatics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/jfataphd/OncoDigger-mutation-paper1",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

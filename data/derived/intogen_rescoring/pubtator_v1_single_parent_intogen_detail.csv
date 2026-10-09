@@ -1,0 +1,191 @@
+cancer,rank,gene,distinct_pmids,intogen_any
+Breast Cancer,1,ERBB2,22767,True
+Breast Cancer,2,ESR1,14127,True
+Breast Cancer,3,BRCA1,6899,True
+Breast Cancer,4,NR4A1,5597,False
+Breast Cancer,5,EREG,5307,False
+Breast Cancer,6,BRCA2,4400,True
+Breast Cancer,7,TP53,3911,True
+Breast Cancer,8,PGR,3851,False
+Breast Cancer,9,AKT1,2562,True
+Breast Cancer,10,EGFR,2316,True
+Lung Cancer,1,EGFR,3947,True
+Lung Cancer,2,TP53,1571,True
+Lung Cancer,3,KRAS,1563,True
+Lung Cancer,4,ALK,985,True
+Lung Cancer,5,CD274,853,True
+Lung Cancer,6,AKT1,827,True
+Lung Cancer,7,PDCD1,461,False
+Lung Cancer,8,TGFB1,385,False
+Lung Cancer,9,NFKB1,361,False
+Lung Cancer,10,VEGFA,360,False
+Colorectal Cancer,1,KRAS,4471,True
+Colorectal Cancer,2,TP53,3103,True
+Colorectal Cancer,3,EGFR,2729,True
+Colorectal Cancer,4,CTNNB1,2711,True
+Colorectal Cancer,5,BRAF,2510,True
+Colorectal Cancer,6,AKT1,1767,True
+Colorectal Cancer,7,APC,1583,True
+Colorectal Cancer,8,CEACAM3,1506,False
+Colorectal Cancer,9,VEGFA,1212,False
+Colorectal Cancer,10,MLH1,1178,False
+Prostate Cancer,1,KLK3,6432,False
+Prostate Cancer,2,AR,5489,True
+Prostate Cancer,3,FOLH1,3355,False
+Prostate Cancer,4,NPEPPS,1503,False
+Prostate Cancer,5,AKT1,1253,True
+Prostate Cancer,6,PTEN,938,True
+Prostate Cancer,7,TP53,921,True
+Prostate Cancer,8,ERG,856,True
+Prostate Cancer,9,TMPRSS2,606,True
+Prostate Cancer,10,BRCA2,559,True
+Melanoma,1,BRAF,5057,True
+Melanoma,2,PDCD1,1394,False
+Melanoma,3,MAP2K7,975,True
+Melanoma,4,NRAS,941,True
+Melanoma,5,CDKN2A,894,True
+Melanoma,6,TYR,750,False
+Melanoma,7,MLANA,742,False
+Melanoma,8,CD274,706,True
+Melanoma,9,CD8A,642,False
+Melanoma,10,AKT1,588,True
+Bladder Cancer,1,TP53,836,True
+Bladder Cancer,2,AKT1,433,True
+Bladder Cancer,3,FGFR3,369,True
+Bladder Cancer,4,CD274,356,True
+Bladder Cancer,5,EGFR,308,True
+Bladder Cancer,6,ERBB2,280,True
+Bladder Cancer,7,CTNNB1,190,True
+Bladder Cancer,8,MTOR,186,True
+Bladder Cancer,9,CDH1,185,True
+Bladder Cancer,10,VEGFA,184,False
+Kidney Cancer,1,VHL,151,True
+Kidney Cancer,2,MTOR,109,True
+Kidney Cancer,3,FLCN,108,True
+Kidney Cancer,4,AKT1,88,True
+Kidney Cancer,5,VEGFA,67,False
+Kidney Cancer,6,TFE3,66,False
+Kidney Cancer,7,FH,65,False
+Kidney Cancer,8,IL2,65,False
+Kidney Cancer,9,TSC2,62,True
+Kidney Cancer,10,WT1,56,True
+Pancreatic Cancer,1,KRAS,1994,True
+Pancreatic Cancer,2,TP53,772,True
+Pancreatic Cancer,3,AKT1,665,True
+Pancreatic Cancer,4,EGFR,561,True
+Pancreatic Cancer,5,CDKN2A,448,True
+Pancreatic Cancer,6,TGFB1,448,False
+Pancreatic Cancer,7,NFKB1,436,False
+Pancreatic Cancer,8,SMAD4,382,True
+Pancreatic Cancer,9,BRCA2,379,True
+Pancreatic Cancer,10,MAPK1,358,True
+Liver Cancer,1,SOD1,433,False
+Liver Cancer,2,TARDBP,231,False
+Liver Cancer,3,C9ORF72,209,False
+Liver Cancer,4,FUS,118,True
+Liver Cancer,5,CTNNB1,88,True
+Liver Cancer,6,HRAS,79,True
+Liver Cancer,7,AFP,74,False
+Liver Cancer,8,MYC,52,True
+Liver Cancer,9,NR1I3,51,False
+Liver Cancer,10,TP53,41,True
+Stomach Cancer,1,ERBB2,2332,True
+Stomach Cancer,2,AKT1,1274,True
+Stomach Cancer,3,TP53,1272,True
+Stomach Cancer,4,CDH1,1257,True
+Stomach Cancer,5,CD274,797,True
+Stomach Cancer,6,CTNNB1,782,True
+Stomach Cancer,7,VEGFA,568,False
+Stomach Cancer,8,EGFR,541,True
+Stomach Cancer,9,NFKB1,504,False
+Stomach Cancer,10,CEACAM3,482,False
+Esophageal Cancer,1,TP53,398,True
+Esophageal Cancer,2,AKT1,176,True
+Esophageal Cancer,3,EGFR,141,True
+Esophageal Cancer,4,CCND1,125,True
+Esophageal Cancer,5,CD274,110,True
+Esophageal Cancer,6,ALDH2,100,True
+Esophageal Cancer,7,CTNNB1,100,True
+Esophageal Cancer,8,ERBB2,91,True
+Esophageal Cancer,9,VEGFA,88,False
+Esophageal Cancer,10,PDCD1,83,False
+Ovarian Cancer,1,BRCA1,2650,True
+Ovarian Cancer,2,MUC16,1926,False
+Ovarian Cancer,3,BRCA2,1540,True
+Ovarian Cancer,4,TP53,1364,True
+Ovarian Cancer,5,AKT1,861,True
+Ovarian Cancer,6,ERBB2,663,True
+Ovarian Cancer,7,VEGFA,482,False
+Ovarian Cancer,8,EGFR,447,True
+Ovarian Cancer,9,PARP1,436,False
+Ovarian Cancer,10,WFDC2,410,False
+Endometrial Cancer,1,TP53,876,True
+Endometrial Cancer,2,ESR1,514,True
+Endometrial Cancer,3,PTEN,465,True
+Endometrial Cancer,4,PGR,398,False
+Endometrial Cancer,5,AKT1,356,True
+Endometrial Cancer,6,CTNNB1,269,True
+Endometrial Cancer,7,MLH1,266,False
+Endometrial Cancer,8,ERBB2,259,True
+Endometrial Cancer,9,MUC16,192,False
+Endometrial Cancer,10,MTOR,182,True
+Cervical Cancer,1,TP53,717,True
+Cervical Cancer,2,AKT1,414,True
+Cervical Cancer,3,CDKN2A,328,True
+Cervical Cancer,4,CD274,251,True
+Cervical Cancer,5,CTNNB1,229,True
+Cervical Cancer,6,EGFR,226,True
+Cervical Cancer,7,VEGFA,189,False
+Cervical Cancer,8,NFKB1,182,False
+Cervical Cancer,9,MTOR,170,True
+Cervical Cancer,10,BCL2,151,True
+Thyroid Cancer,1,TG,1285,False
+Thyroid Cancer,2,BRAF,840,True
+Thyroid Cancer,3,RET,557,True
+Thyroid Cancer,4,SLC5A5,267,False
+Thyroid Cancer,5,AKT1,259,True
+Thyroid Cancer,6,TP53,239,True
+Thyroid Cancer,7,TERT,227,True
+Thyroid Cancer,8,TSHR,214,True
+Thyroid Cancer,9,PAX8,110,False
+Thyroid Cancer,10,LGALS3,103,False
+Brain Cancer,1,EGFR,480,True
+Brain Cancer,2,ERBB2,300,True
+Brain Cancer,3,TP53,254,True
+Brain Cancer,4,BRAF,183,True
+Brain Cancer,5,IDH1,124,True
+Brain Cancer,6,ALK,117,True
+Brain Cancer,7,CD274,95,True
+Brain Cancer,8,VEGFA,91,False
+Brain Cancer,9,NF1,75,True
+Brain Cancer,10,PDCD1,72,False
+Leukemia,1,ABL1,1077,True
+Leukemia,2,KMT2A,901,True
+Leukemia,3,RUNX1,683,True
+Leukemia,4,FLT3,484,True
+Leukemia,5,TP53,480,True
+Leukemia,6,BCR,472,True
+Leukemia,7,CD34,424,False
+Leukemia,8,BCL2,422,True
+Leukemia,9,MYC,337,True
+Leukemia,10,WT1,316,True
+Lymphoma,1,MYC,802,True
+Lymphoma,2,BCL2,763,True
+Lymphoma,3,KRT20,501,False
+Lymphoma,4,TNFRSF8,420,False
+Lymphoma,5,BCL6,352,True
+Lymphoma,6,TP53,308,True
+Lymphoma,7,CD19,263,False
+Lymphoma,8,CD4,262,False
+Lymphoma,9,MYD88,253,True
+Lymphoma,10,NFKB1,220,False
+Myeloma,1,IL6,938,False
+Myeloma,2,CD38,593,False
+Myeloma,3,TNFRSF17,480,False
+Myeloma,4,SDC1,440,False
+Myeloma,5,TP53,334,True
+Myeloma,6,MYC,332,True
+Myeloma,7,NFKB1,311,False
+Myeloma,8,AKT1,267,True
+Myeloma,9,BCL2,234,True
+Myeloma,10,HLA_G,228,False

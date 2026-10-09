@@ -1,0 +1,987 @@
+cancer,gene,full_corpus_postings,false_alias_excluded
+Bladder Cancer,AKAP9,1,False
+Bladder Cancer,ARHGAP35,0,False
+Bladder Cancer,ARHGAP5,1,False
+Bladder Cancer,ARHGEF10,1,False
+Bladder Cancer,ASXL1,1,False
+Bladder Cancer,ASXL2,1,False
+Bladder Cancer,ATR,16,False
+Bladder Cancer,BIRC6,1,False
+Bladder Cancer,BRD4,5,False
+Bladder Cancer,CHD2,0,False
+Bladder Cancer,CLTC,0,False
+Bladder Cancer,CSMD3,1,False
+Bladder Cancer,CYLD,6,False
+Bladder Cancer,DDB2,1,False
+Bladder Cancer,ERBB4,10,False
+Bladder Cancer,ETV6,1,False
+Bladder Cancer,FBLN2,0,False
+Bladder Cancer,FLT4,1,False
+Bladder Cancer,GNA13,1,False
+Bladder Cancer,GPAA1,0,False
+Bladder Cancer,GRIN2A,1,False
+Bladder Cancer,H3C2,0,False
+Bladder Cancer,HIP1,0,False
+Bladder Cancer,HLA-A,12,False
+Bladder Cancer,HSPG2,0,False
+Bladder Cancer,IDH2,5,False
+Bladder Cancer,IRS4,0,False
+Bladder Cancer,KAT7,0,False
+Bladder Cancer,KLF5,9,False
+Bladder Cancer,KMT2A,1,False
+Bladder Cancer,LRIG3,3,False
+Bladder Cancer,MB21D2,0,False
+Bladder Cancer,MEN1,2,False
+Bladder Cancer,MLLT6,0,False
+Bladder Cancer,MYH9,0,False
+Bladder Cancer,N4BP2,0,False
+Bladder Cancer,NACA,0,False
+Bladder Cancer,NOTCH1,21,False
+Bladder Cancer,NOTCH2,11,False
+Bladder Cancer,NSD1,3,False
+Bladder Cancer,NSD2,0,False
+Bladder Cancer,PABPC1,6,False
+Bladder Cancer,PIK3CB,2,False
+Bladder Cancer,PREX2,0,False
+Bladder Cancer,PSIP1,0,False
+Bladder Cancer,PTPN13,0,False
+Bladder Cancer,PTPRK,0,False
+Bladder Cancer,RAP1B,0,False
+Bladder Cancer,RBM10,1,False
+Bladder Cancer,RHOA,24,False
+Bladder Cancer,RNF213,1,False
+Bladder Cancer,SETD1B,0,False
+Bladder Cancer,SF3B1,3,False
+Bladder Cancer,SNX29,0,False
+Bladder Cancer,TAF15,0,False
+Bladder Cancer,TP63,24,False
+Bladder Cancer,TRIP11,0,False
+Bladder Cancer,TRRAP,0,False
+Bladder Cancer,ZFHX3,0,False
+Bladder Cancer,ZFP36L1,2,False
+Bladder Cancer,ZNF429,0,False
+Brain Cancer,ACSM3,0,False
+Brain Cancer,AR,107,False
+Brain Cancer,ARID1B,7,False
+Brain Cancer,ARID2,1,False
+Brain Cancer,AXIN1,10,False
+Brain Cancer,BCL11B,2,False
+Brain Cancer,BCORL1,5,False
+Brain Cancer,CCAR1,2,False
+Brain Cancer,CDKN2C,11,False
+Brain Cancer,CHD7,7,False
+Brain Cancer,CHRDL1,1,False
+Brain Cancer,COL1A1,22,False
+Brain Cancer,CSMD3,2,False
+Brain Cancer,CUX1,5,False
+Brain Cancer,DCAF12L2,0,False
+Brain Cancer,DDX6,5,False
+Brain Cancer,DNMT3A,25,False
+Brain Cancer,ELF4,2,False
+Brain Cancer,EP300,15,False
+Brain Cancer,EWSR1,52,False
+Brain Cancer,FAM174B,0,False
+Brain Cancer,FAT1,13,False
+Brain Cancer,FAT4,1,False
+Brain Cancer,FBXW7,19,False
+Brain Cancer,FOXO3,13,False
+Brain Cancer,H3-3A,10,False
+Brain Cancer,HIP1,1,False
+Brain Cancer,KAT6B,0,False
+Brain Cancer,KDM3B,0,False
+Brain Cancer,KNL1,2,False
+Brain Cancer,LATS2,7,False
+Brain Cancer,LDB1,1,False
+Brain Cancer,LRP1B,6,False
+Brain Cancer,LZTR1,6,False
+Brain Cancer,MAP3K1,5,False
+Brain Cancer,MAX,427,False
+Brain Cancer,MED12,3,False
+Brain Cancer,MYH11,0,False
+Brain Cancer,NCOR1,5,False
+Brain Cancer,NCOR2,5,False
+Brain Cancer,NIPBL,1,False
+Brain Cancer,NKX2-1,4,False
+Brain Cancer,NSD1,4,False
+Brain Cancer,NTRK2,33,False
+Brain Cancer,NVL,0,False
+Brain Cancer,PCM1,0,False
+Brain Cancer,PIK3CB,5,False
+Brain Cancer,PLCG1,7,False
+Brain Cancer,POT1,9,False
+Brain Cancer,QKI,15,False
+Brain Cancer,RAD50,10,False
+Brain Cancer,RNF213,4,False
+Brain Cancer,RPL5,4,False
+Brain Cancer,RUNX1,24,False
+Brain Cancer,RUNX1T1,2,False
+Brain Cancer,SIRPA,0,False
+Brain Cancer,TAL2,0,False
+Brain Cancer,TCF12,10,False
+Brain Cancer,TCF4,20,False
+Brain Cancer,TET1,13,False
+Brain Cancer,TPR,25,False
+Brain Cancer,TRIM33,2,False
+Brain Cancer,UBXN11,0,False
+Brain Cancer,WAS,68416,True
+Brain Cancer,ZBTB20,4,False
+Brain Cancer,ZEB1,60,False
+Brain Cancer,ZMYM3,3,False
+Brain Cancer,ZNF274,0,False
+Breast Cancer,ABL2,4,False
+Breast Cancer,ACVR1B,1,False
+Breast Cancer,AFDN,2,False
+Breast Cancer,AKAP9,7,False
+Breast Cancer,ALK,100,False
+Breast Cancer,ARHGAP35,0,False
+Breast Cancer,ARHGEF12,2,False
+Breast Cancer,ARID1A,66,False
+Breast Cancer,ARID1B,12,False
+Breast Cancer,ASXL1,6,False
+Breast Cancer,ATP1A1,2,False
+Breast Cancer,ATP2B3,0,False
+Breast Cancer,BIRC6,7,False
+Breast Cancer,CACNA1D,1,False
+Breast Cancer,CASP8,111,False
+Breast Cancer,CBFB,22,False
+Breast Cancer,CD209,5,False
+Breast Cancer,CDKN1B,50,False
+Breast Cancer,CLTC,3,False
+Breast Cancer,CREBBP,26,False
+Breast Cancer,CSF1R,36,False
+Breast Cancer,CSMD3,3,False
+Breast Cancer,CSPG4,15,False
+Breast Cancer,CTCF,80,False
+Breast Cancer,CUX1,7,False
+Breast Cancer,CYLD,14,False
+Breast Cancer,DDX3X,9,False
+Breast Cancer,DNMT3A,86,False
+Breast Cancer,EIF4A2,2,False
+Breast Cancer,ELN,2,False
+Breast Cancer,EPHA3,14,False
+Breast Cancer,ERBB4,118,False
+Breast Cancer,ETV1,6,False
+Breast Cancer,FAT3,11,False
+Breast Cancer,FAT4,10,False
+Breast Cancer,FOXA1,308,False
+Breast Cancer,FOXP1,23,False
+Breast Cancer,FUBP1,4,False
+Breast Cancer,H3C2,0,False
+Breast Cancer,HOXC13,4,False
+Breast Cancer,HSP90AA1,37,False
+Breast Cancer,JAK1,91,False
+Breast Cancer,KAT6B,5,False
+Breast Cancer,KDM6A,20,False
+Breast Cancer,KLF4,121,False
+Breast Cancer,KMT2D,28,False
+Breast Cancer,KMT5A,3,False
+Breast Cancer,LATS1,62,False
+Breast Cancer,LRP1B,8,False
+Breast Cancer,MAX,670,False
+Breast Cancer,MECOM,0,False
+Breast Cancer,MED23,4,False
+Breast Cancer,MEN1,25,False
+Breast Cancer,MYH11,5,False
+Breast Cancer,MYH9,18,False
+Breast Cancer,MYO5A,1,False
+Breast Cancer,NBEA,1,False
+Breast Cancer,NCOR1,40,False
+Breast Cancer,NCOR2,22,False
+Breast Cancer,NTRK1,18,False
+Breast Cancer,NUMA1,5,False
+Breast Cancer,PLAG1,5,False
+Breast Cancer,POLD1,11,False
+Breast Cancer,PPM1D,42,False
+Breast Cancer,PREX2,5,False
+Breast Cancer,PTPRD,3,False
+Breast Cancer,RGS7,1,False
+Breast Cancer,RHPN2,1,False
+Breast Cancer,RUNX1,65,False
+Breast Cancer,SETDB1,18,False
+Breast Cancer,SF3B1,23,False
+Breast Cancer,SMARCD1,4,False
+Breast Cancer,SPEN,16,False
+Breast Cancer,TBL1XR1,6,False
+Breast Cancer,TBX3,42,False
+Breast Cancer,TSC1,33,False
+Breast Cancer,UBR5,12,False
+Breast Cancer,USP6,4,False
+Breast Cancer,ZFHX3,2,False
+Breast Cancer,ZMYM3,1,False
+Breast Cancer,ZXDB,0,False
+Cervical Cancer,B2M,4,False
+Cervical Cancer,CDK12,2,False
+Cervical Cancer,CLIP1,0,False
+Cervical Cancer,CTNNA1,0,False
+Cervical Cancer,CYSLTR2,0,False
+Cervical Cancer,EIF3E,0,False
+Cervical Cancer,ERCC3,0,False
+Cervical Cancer,KLF5,16,False
+Cervical Cancer,MAP3K1,0,False
+Cervical Cancer,MCM7,8,False
+Cervical Cancer,MED12,0,False
+Cervical Cancer,NBEA,0,False
+Cervical Cancer,NF2,2,False
+Cervical Cancer,NSD1,0,False
+Cervical Cancer,SIRPA,0,False
+Cervical Cancer,SND1,3,False
+Cervical Cancer,TGFBR2,10,False
+Cervical Cancer,TP63,15,False
+Cervical Cancer,ZNF521,0,False
+Colorectal Cancer,ACVR1B,5,False
+Colorectal Cancer,ACVR2A,22,False
+Colorectal Cancer,AFDN,1,False
+Colorectal Cancer,AMER1,13,False
+Colorectal Cancer,ANK1,2,False
+Colorectal Cancer,AR,283,False
+Colorectal Cancer,ARID1B,6,False
+Colorectal Cancer,ASXL1,9,False
+Colorectal Cancer,BCL9,30,False
+Colorectal Cancer,BCL9L,12,False
+Colorectal Cancer,BCOR,10,False
+Colorectal Cancer,BCORL1,0,False
+Colorectal Cancer,BIRC6,6,False
+Colorectal Cancer,CARD11,4,False
+Colorectal Cancer,CDH11,6,False
+Colorectal Cancer,CEP89,0,False
+Colorectal Cancer,CHD4,8,False
+Colorectal Cancer,CSMD3,5,False
+Colorectal Cancer,CTNNA1,11,False
+Colorectal Cancer,CYLD,16,False
+Colorectal Cancer,DCAF12L2,1,False
+Colorectal Cancer,DICER1,18,False
+Colorectal Cancer,DUSP16,0,False
+Colorectal Cancer,ELF3,8,False
+Colorectal Cancer,EP300,31,False
+Colorectal Cancer,EPHA7,9,False
+Colorectal Cancer,ERBB3,79,False
+Colorectal Cancer,ETV1,6,False
+Colorectal Cancer,GRIN2A,5,False
+Colorectal Cancer,HLA-A,75,False
+Colorectal Cancer,ING1,3,False
+Colorectal Cancer,MAP2K4,9,False
+Colorectal Cancer,MAP3K1,11,False
+Colorectal Cancer,MYH9,13,False
+Colorectal Cancer,NBEA,1,False
+Colorectal Cancer,NCOR2,2,False
+Colorectal Cancer,NFATC2,7,False
+Colorectal Cancer,NIN,3,False
+Colorectal Cancer,NOTCH1,143,False
+Colorectal Cancer,PARP4,2,False
+Colorectal Cancer,PBRM1,4,False
+Colorectal Cancer,PCBP1,7,False
+Colorectal Cancer,PIK3R1,33,False
+Colorectal Cancer,PPP2R1A,4,False
+Colorectal Cancer,PREX2,2,False
+Colorectal Cancer,PRKD1,2,False
+Colorectal Cancer,RBM10,4,False
+Colorectal Cancer,RNF6,6,False
+Colorectal Cancer,ROBO2,4,False
+Colorectal Cancer,RRN3,0,False
+Colorectal Cancer,RSPO2,18,False
+Colorectal Cancer,SETDB1,14,False
+Colorectal Cancer,SIRPA,4,False
+Colorectal Cancer,SLC34A2,4,False
+Colorectal Cancer,SMARCA4,27,False
+Colorectal Cancer,TAF1L,1,False
+Colorectal Cancer,TBX3,3,False
+Colorectal Cancer,TET1,38,False
+Colorectal Cancer,TGIF1,4,False
+Colorectal Cancer,TSC1,13,False
+Colorectal Cancer,TSHR,3,False
+Colorectal Cancer,USP6,2,False
+Endometrial Cancer,ABL1,1,False
+Endometrial Cancer,ABL2,0,False
+Endometrial Cancer,ACVR1,2,False
+Endometrial Cancer,ACVR2A,3,False
+Endometrial Cancer,AKAP9,0,False
+Endometrial Cancer,ATF7IP,0,False
+Endometrial Cancer,BCLAF1,0,False
+Endometrial Cancer,BIRC6,0,False
+Endometrial Cancer,CDC73,0,False
+Endometrial Cancer,CDH10,2,False
+Endometrial Cancer,EIF1AX,3,False
+Endometrial Cancer,FAM135B,0,False
+Endometrial Cancer,FLT4,1,False
+Endometrial Cancer,HIP1,0,False
+Endometrial Cancer,ING1,0,False
+Endometrial Cancer,INPPL1,0,False
+Endometrial Cancer,KMT2C,2,False
+Endometrial Cancer,LSM14A,0,False
+Endometrial Cancer,LZTR1,0,False
+Endometrial Cancer,MAP3K1,1,False
+Endometrial Cancer,MECOM,1,False
+Endometrial Cancer,MYCN,6,False
+Endometrial Cancer,NCKIPSD,0,False
+Endometrial Cancer,NSD1,0,False
+Endometrial Cancer,PBRM1,1,False
+Endometrial Cancer,PDGFRB,3,False
+Endometrial Cancer,POLQ,1,False
+Endometrial Cancer,PTPN13,0,False
+Endometrial Cancer,RBM39,0,False
+Endometrial Cancer,RNF213,1,False
+Endometrial Cancer,ROBO2,0,False
+Endometrial Cancer,RRAS2,0,False
+Endometrial Cancer,SETDB1,0,False
+Endometrial Cancer,SOS1,1,False
+Endometrial Cancer,SOX17,17,False
+Endometrial Cancer,STAG2,0,False
+Endometrial Cancer,U2AF1,0,False
+Endometrial Cancer,WNT1,4,False
+Endometrial Cancer,ZBTB7B,0,False
+Esophageal Cancer,AKAP9,1,False
+Esophageal Cancer,ARID2,1,False
+Esophageal Cancer,ASXL1,2,False
+Esophageal Cancer,CANT1,0,False
+Esophageal Cancer,CBL,1,False
+Esophageal Cancer,CLIP1,1,False
+Esophageal Cancer,CTNND2,4,False
+Esophageal Cancer,EPHA3,2,False
+Esophageal Cancer,GRM3,1,False
+Esophageal Cancer,H3C2,0,False
+Esophageal Cancer,HLA-A,18,False
+Esophageal Cancer,HLA-B,6,False
+Esophageal Cancer,IL7R,2,False
+Esophageal Cancer,KAT6A,0,False
+Esophageal Cancer,KMT2A,1,False
+Esophageal Cancer,MAP2K4,2,False
+Esophageal Cancer,MSN,2,False
+Esophageal Cancer,MYH9,6,False
+Esophageal Cancer,NBEA,0,False
+Esophageal Cancer,NCOA2,0,False
+Esophageal Cancer,NCOR2,0,False
+Esophageal Cancer,NRG1,4,False
+Esophageal Cancer,NSD1,1,False
+Esophageal Cancer,NTRK3,1,False
+Esophageal Cancer,NUMA1,1,False
+Esophageal Cancer,NUTM1,1,False
+Esophageal Cancer,POLD1,1,False
+Esophageal Cancer,PREX2,0,False
+Esophageal Cancer,PTPRT,2,False
+Esophageal Cancer,RAP1GDS1,0,False
+Esophageal Cancer,RNF213,0,False
+Esophageal Cancer,RNF43,1,False
+Esophageal Cancer,ROBO2,0,False
+Esophageal Cancer,SETD1B,1,False
+Esophageal Cancer,TEC,8,False
+Esophageal Cancer,TGFBR1,2,False
+Esophageal Cancer,ZBTB16,1,False
+Esophageal Cancer,ZNF208,1,False
+Esophageal Cancer,ZNF521,0,False
+Kidney Cancer,AKAP9,2,False
+Kidney Cancer,AMER1,6,False
+Kidney Cancer,ARHGAP35,1,False
+Kidney Cancer,ARHGEF10L,0,False
+Kidney Cancer,ARHGEF12,1,False
+Kidney Cancer,ARID1B,2,False
+Kidney Cancer,ARID2,4,False
+Kidney Cancer,ATG7,11,False
+Kidney Cancer,BIRC6,0,False
+Kidney Cancer,BRD4,12,False
+Kidney Cancer,CACNA1D,0,False
+Kidney Cancer,CDK12,1,False
+Kidney Cancer,CHD2,0,False
+Kidney Cancer,CHD4,1,False
+Kidney Cancer,CLTC,6,False
+Kidney Cancer,CREBBP,1,False
+Kidney Cancer,CYLD,4,False
+Kidney Cancer,DNMT3A,17,False
+Kidney Cancer,ERBB4,13,False
+Kidney Cancer,FAT1,2,False
+Kidney Cancer,FAT3,0,False
+Kidney Cancer,FLT4,7,False
+Kidney Cancer,GRM3,1,False
+Kidney Cancer,LRP1B,3,False
+Kidney Cancer,MAP3K1,2,False
+Kidney Cancer,MLLT1,4,False
+Kidney Cancer,MSN,2,False
+Kidney Cancer,NRG1,3,False
+Kidney Cancer,NUP214,1,False
+Kidney Cancer,PCBP1,0,False
+Kidney Cancer,PLCG1,0,False
+Kidney Cancer,PRDM2,0,False
+Kidney Cancer,PTPRK,0,False
+Kidney Cancer,RANBP2,0,False
+Kidney Cancer,RAP1GDS1,0,False
+Kidney Cancer,RNF213,3,False
+Kidney Cancer,ROBO2,0,False
+Kidney Cancer,SGK1,7,False
+Kidney Cancer,SPEN,2,False
+Kidney Cancer,STAG2,1,False
+Kidney Cancer,TET1,8,False
+Kidney Cancer,TGFBR2,5,False
+Kidney Cancer,TRRAP,2,False
+Kidney Cancer,UBR5,1,False
+Leukemia,ACSL3,1,False
+Leukemia,APC,134,False
+Leukemia,ARHGAP35,0,False
+Leukemia,ARID1A,19,False
+Leukemia,ATRX,12,False
+Leukemia,BCLAF1,7,False
+Leukemia,BTG1,48,False
+Leukemia,BTG2,12,False
+Leukemia,CCND2,47,False
+Leukemia,CCNT1,0,False
+Leukemia,CHD2,9,False
+Leukemia,CHD4,8,False
+Leukemia,CNOT3,9,False
+Leukemia,DDB2,6,False
+Leukemia,DTX1,9,False
+Leukemia,EGR2,19,False
+Leukemia,ELF4,3,False
+Leukemia,ETV5,10,False
+Leukemia,FAT3,3,False
+Leukemia,FGD5,0,False
+Leukemia,FLG,6,False
+Leukemia,FOXO3,28,False
+Leukemia,FUBP1,5,False
+Leukemia,GATA3,76,False
+Leukemia,H4C9,0,False
+Leukemia,HCAR3,1,False
+Leukemia,HLA-A,252,False
+Leukemia,IRF4,81,False
+Leukemia,KLF4,54,False
+Leukemia,KMT2C,21,False
+Leukemia,LRP1B,7,False
+Leukemia,LYN,223,False
+Leukemia,MAML2,7,False
+Leukemia,MAPK1,23,False
+Leukemia,MGA,14,False
+Leukemia,MUC6,0,False
+Leukemia,NCAPH,0,False
+Leukemia,NCOR1,7,False
+Leukemia,NFKBIE,15,False
+Leukemia,NKTR,0,False
+Leukemia,NT5C3A,1,False
+Leukemia,NTRK2,7,False
+Leukemia,NXF1,3,False
+Leukemia,PCMTD1,1,False
+Leukemia,PRDM1,14,False
+Leukemia,PTK6,0,False
+Leukemia,RIPK1,18,False
+Leukemia,ROBO2,1,False
+Leukemia,SALL4,28,False
+Leukemia,SETDB1,10,False
+Leukemia,SIRPA,3,False
+Leukemia,SLC34A2,0,False
+Leukemia,TBL1XR1,15,False
+Leukemia,THRAP3,1,False
+Leukemia,TNC,24,False
+Leukemia,U2AF2,7,False
+Leukemia,UBR5,0,False
+Leukemia,USP6,2,False
+Leukemia,ZCRB1,0,False
+Leukemia,ZMYM3,8,False
+Liver Cancer,ACVR2A,5,False
+Liver Cancer,AFF4,0,False
+Liver Cancer,AKAP9,0,False
+Liver Cancer,ANK1,1,False
+Liver Cancer,ARAF,9,False
+Liver Cancer,ASXL1,3,False
+Liver Cancer,BCOR,1,False
+Liver Cancer,BIRC6,2,False
+Liver Cancer,BRD7,4,False
+Liver Cancer,CACNA1D,0,False
+Liver Cancer,CARD11,1,False
+Liver Cancer,CDH11,3,False
+Liver Cancer,CDKN1B,19,False
+Liver Cancer,CIC,14,False
+Liver Cancer,CLTC,5,False
+Liver Cancer,CLTCL1,1,False
+Liver Cancer,CSMD3,0,False
+Liver Cancer,CTNNA2,0,False
+Liver Cancer,DCC,31,False
+Liver Cancer,DDR2,13,False
+Liver Cancer,DHX9,10,False
+Liver Cancer,DNMT3A,63,False
+Liver Cancer,ELF3,5,False
+Liver Cancer,EP300,17,False
+Liver Cancer,EPHA2,33,False
+Liver Cancer,EPHA7,1,False
+Liver Cancer,ERBB3,38,False
+Liver Cancer,ERBB4,10,False
+Liver Cancer,FAT3,1,False
+Liver Cancer,FBLN2,2,False
+Liver Cancer,FLT4,9,False
+Liver Cancer,FUS,25,False
+Liver Cancer,GMPS,10,False
+Liver Cancer,GPC5,3,False
+Liver Cancer,GRIN2A,1,False
+Liver Cancer,HNRNPA2B1,17,False
+Liver Cancer,IKZF3,0,False
+Liver Cancer,IL7R,7,False
+Liver Cancer,KDM6A,8,False
+Liver Cancer,KLF4,87,False
+Liver Cancer,KMT2A,2,False
+Liver Cancer,KNL1,1,False
+Liver Cancer,LEF1,41,False
+Liver Cancer,LZTR1,5,False
+Liver Cancer,MAP2K4,3,False
+Liver Cancer,MAP3K1,5,False
+Liver Cancer,MAPK1,35,False
+Liver Cancer,MUC6,16,False
+Liver Cancer,MYH11,0,False
+Liver Cancer,MYO5A,1,False
+Liver Cancer,N4BP2,0,False
+Liver Cancer,NBEA,1,False
+Liver Cancer,NCOR1,6,False
+Liver Cancer,NCOR2,2,False
+Liver Cancer,NPM1,20,False
+Liver Cancer,PABPC1,13,False
+Liver Cancer,PIK3R1,17,False
+Liver Cancer,PMS2,14,False
+Liver Cancer,PRDM2,6,False
+Liver Cancer,PREX2,6,False
+Liver Cancer,PRKD1,1,False
+Liver Cancer,PTCH1,23,False
+Liver Cancer,PTPRC,6,False
+Liver Cancer,PTPRT,6,False
+Liver Cancer,RANBP2,7,False
+Liver Cancer,RBM10,4,False
+Liver Cancer,RGPD3,0,False
+Liver Cancer,RNF213,3,False
+Liver Cancer,RNF43,10,False
+Liver Cancer,ROBO2,4,False
+Liver Cancer,RPL22,0,False
+Liver Cancer,RUNX1T1,5,False
+Liver Cancer,SDHA,7,False
+Liver Cancer,SETD2,10,False
+Liver Cancer,SETDB1,18,False
+Liver Cancer,TAL1,6,False
+Liver Cancer,TET1,30,False
+Liver Cancer,TFG,3,False
+Liver Cancer,TOP1,11,False
+Liver Cancer,TPR,11,False
+Liver Cancer,TRRAP,1,False
+Liver Cancer,U2AF1,0,False
+Liver Cancer,USP6,1,False
+Liver Cancer,USP8,3,False
+Liver Cancer,USP9X,9,False
+Liver Cancer,WNK2,3,False
+Liver Cancer,ZFHX3,2,False
+Liver Cancer,ZNF429,1,False
+Liver Cancer,ZNF521,0,False
+Lung Cancer,ACVR1B,4,False
+Lung Cancer,AFF3,2,False
+Lung Cancer,ANK1,1,False
+Lung Cancer,AR,179,False
+Lung Cancer,ARAF,9,False
+Lung Cancer,ARHGAP35,3,False
+Lung Cancer,ARHGEF10,0,False
+Lung Cancer,ARID2,21,False
+Lung Cancer,ARNT,12,False
+Lung Cancer,ATF7IP,1,False
+Lung Cancer,B2M,26,False
+Lung Cancer,BAZ1A,1,False
+Lung Cancer,BCOR,8,False
+Lung Cancer,BCR,27,False
+Lung Cancer,BIRC3,16,False
+Lung Cancer,BIRC6,9,False
+Lung Cancer,CBLB,6,False
+Lung Cancer,CD209,6,False
+Lung Cancer,CDH10,3,False
+Lung Cancer,CDH11,6,False
+Lung Cancer,CIC,41,False
+Lung Cancer,CMTR2,1,False
+Lung Cancer,CREBBP,31,False
+Lung Cancer,CRLF2,0,False
+Lung Cancer,CTNNA2,1,False
+Lung Cancer,CTNND2,4,False
+Lung Cancer,CUX1,5,False
+Lung Cancer,CYLD,18,False
+Lung Cancer,DCAF12L2,0,False
+Lung Cancer,DROSHA,20,False
+Lung Cancer,EBF1,3,False
+Lung Cancer,EP300,45,False
+Lung Cancer,EPHA7,8,False
+Lung Cancer,ESR1,58,False
+Lung Cancer,FAM135B,3,False
+Lung Cancer,FAT3,11,False
+Lung Cancer,FAT4,8,False
+Lung Cancer,FBXW7,50,False
+Lung Cancer,FGFR2,83,False
+Lung Cancer,FLCN,6,False
+Lung Cancer,FLT4,14,False
+Lung Cancer,FOXO1,90,False
+Lung Cancer,GNAQ,10,False
+Lung Cancer,GNAS,31,False
+Lung Cancer,HGF,360,False
+Lung Cancer,HLA-A,73,False
+Lung Cancer,KDM5C,3,False
+Lung Cancer,KDM6A,13,False
+Lung Cancer,KLF5,29,False
+Lung Cancer,LATS2,57,False
+Lung Cancer,LIFR,12,False
+Lung Cancer,MACC1,18,False
+Lung Cancer,MAML2,18,False
+Lung Cancer,MB21D2,0,False
+Lung Cancer,MGA,18,False
+Lung Cancer,MUC6,28,False
+Lung Cancer,MYH9,14,False
+Lung Cancer,NBEA,1,False
+Lung Cancer,NCOA2,5,False
+Lung Cancer,NCOR1,6,False
+Lung Cancer,NFKBIE,0,False
+Lung Cancer,NIPBL,3,False
+Lung Cancer,NOTCH2,40,False
+Lung Cancer,NRK,2,False
+Lung Cancer,NSD1,5,False
+Lung Cancer,NSD3,12,False
+Lung Cancer,NUP98,0,False
+Lung Cancer,PABPC1,8,False
+Lung Cancer,PARP4,3,False
+Lung Cancer,PBRM1,24,False
+Lung Cancer,PER3,6,False
+Lung Cancer,PHF6,0,False
+Lung Cancer,PIK3R1,31,False
+Lung Cancer,POLQ,8,False
+Lung Cancer,PPM1D,7,False
+Lung Cancer,PPP2R1A,4,False
+Lung Cancer,PSPC1,0,False
+Lung Cancer,PTPRK,5,False
+Lung Cancer,RAD21,5,False
+Lung Cancer,RANBP2,3,False
+Lung Cancer,RBM15,23,False
+Lung Cancer,RGPD3,0,False
+Lung Cancer,RGS7,1,False
+Lung Cancer,RHPN2,3,False
+Lung Cancer,RNF213,4,False
+Lung Cancer,RNF43,6,False
+Lung Cancer,RPL5,7,False
+Lung Cancer,RUNX1T1,2,False
+Lung Cancer,SETD1B,1,False
+Lung Cancer,SLC34A2,23,False
+Lung Cancer,SMAD4,152,False
+Lung Cancer,SPEN,7,False
+Lung Cancer,STAG2,5,False
+Lung Cancer,SUSD2,4,False
+Lung Cancer,TFRC,25,False
+Lung Cancer,TNC,32,False
+Lung Cancer,TRRAP,2,False
+Lung Cancer,TSC1,83,False
+Lung Cancer,TSC2,108,False
+Lung Cancer,U2AF1,11,False
+Lung Cancer,USP6,3,False
+Lung Cancer,USP8,13,False
+Lung Cancer,VAV1,9,False
+Lung Cancer,ZEB1,292,False
+Lung Cancer,ZMYM3,0,False
+Lung Cancer,ZNF395,2,False
+Lung Cancer,ZNF521,1,False
+Lung Cancer,ZNF750,2,False
+Lymphoma,ANKRD11,3,False
+Lymphoma,BCL11A,31,False
+Lymphoma,CASP8,12,False
+Lymphoma,CCR7,99,False
+Lymphoma,CDK12,4,False
+Lymphoma,CDKN2C,6,False
+Lymphoma,DGCR8,3,False
+Lymphoma,DOT1L,7,False
+Lymphoma,FAT3,0,False
+Lymphoma,FCGR2B,10,False
+Lymphoma,FHIT,15,False
+Lymphoma,GNAI2,3,False
+Lymphoma,H3C2,0,False
+Lymphoma,HLA-A,95,False
+Lymphoma,HLA-C,8,False
+Lymphoma,IKZF3,11,False
+Lymphoma,NCOR1,5,False
+Lymphoma,NFKB2,12,False
+Lymphoma,NSD1,1,False
+Lymphoma,PABPC1,3,False
+Lymphoma,PCBP1,1,False
+Lymphoma,PHF6,2,False
+Lymphoma,PREX2,0,False
+Lymphoma,PRKCB,7,False
+Lymphoma,PRKCD,2,False
+Lymphoma,PTPRC,0,False
+Lymphoma,RASA2,1,False
+Lymphoma,RBM38,1,False
+Lymphoma,ROBO2,2,False
+Lymphoma,RPL10,1,False
+Lymphoma,SIN3A,7,False
+Lymphoma,SIRPA,2,False
+Lymphoma,SPOP,2,False
+Lymphoma,TBX3,1,False
+Lymphoma,TFAP4,4,False
+Lymphoma,TMSB4X,4,False
+Lymphoma,TNC,6,False
+Lymphoma,USP7,4,False
+Lymphoma,ZFHX3,1,False
+Lymphoma,ZFP36L1,2,False
+Melanoma,AFF1,0,False
+Melanoma,AKAP9,2,False
+Melanoma,ATR,43,False
+Melanoma,B2M,30,False
+Melanoma,BCLAF1,0,False
+Melanoma,BRD7,1,False
+Melanoma,CADM2,1,False
+Melanoma,CDK12,2,False
+Melanoma,CNOT9,0,False
+Melanoma,COL1A1,11,False
+Melanoma,COL6A3,2,False
+Melanoma,CSMD3,1,False
+Melanoma,CTNNA2,0,False
+Melanoma,CTNND2,0,False
+Melanoma,CUX1,0,False
+Melanoma,CYP2C8,2,False
+Melanoma,DDX3X,5,False
+Melanoma,DICER1,2,False
+Melanoma,ELL,0,False
+Melanoma,ERCC3,3,False
+Melanoma,ESR1,6,False
+Melanoma,FAT1,5,False
+Melanoma,FAT3,2,False
+Melanoma,GRM3,7,False
+Melanoma,HSP90AB1,4,False
+Melanoma,IKZF1,2,False
+Melanoma,KLF6,5,False
+Melanoma,KMT2D,6,False
+Melanoma,LIFR,2,False
+Melanoma,MDGA2,0,False
+Melanoma,MECOM,1,False
+Melanoma,MLLT3,1,False
+Melanoma,MYH11,2,False
+Melanoma,NACA,1,False
+Melanoma,NBEA,0,False
+Melanoma,NF2,15,False
+Melanoma,NSD1,2,False
+Melanoma,PDCD1LG2,5,False
+Melanoma,PLAG1,1,False
+Melanoma,PLXNC1,3,False
+Melanoma,POLQ,2,False
+Melanoma,PPP2R1A,5,False
+Melanoma,PTPN6,3,False
+Melanoma,PTPRB,2,False
+Melanoma,PTPRC,7,False
+Melanoma,QKI,0,False
+Melanoma,RGPD3,0,False
+Melanoma,RGS7,2,False
+Melanoma,RHOA,102,False
+Melanoma,ROBO2,1,False
+Melanoma,RPL5,5,False
+Melanoma,RUNX1T1,0,False
+Melanoma,SETD2,1,False
+Melanoma,TP63,4,False
+Melanoma,TRRAP,3,False
+Melanoma,UBR5,2,False
+Melanoma,WT1,29,False
+Myeloma,ADAMTS9,2,False
+Myeloma,AR,9,False
+Myeloma,ARHGAP5,0,False
+Myeloma,BTG1,1,False
+Myeloma,COL1A1,1,False
+Myeloma,EFTUD2,1,False
+Myeloma,IKBKB,2,False
+Myeloma,IRAK1,1,False
+Myeloma,KDM5C,1,False
+Myeloma,MAP3K1,1,False
+Myeloma,PABPC1,1,False
+Myeloma,PARP4,0,False
+Myeloma,PIM1,6,False
+Myeloma,PRDM16,0,False
+Myeloma,RPL10,0,False
+Myeloma,RPS3A,0,False
+Myeloma,SAMHD1,2,False
+Myeloma,USP7,13,False
+Myeloma,USP8,1,False
+Myeloma,ZEB1,2,False
+Myeloma,ZFHX3,1,False
+Ovarian Cancer,ACKR3,2,False
+Ovarian Cancer,ARHGAP35,1,False
+Ovarian Cancer,ARID2,1,False
+Ovarian Cancer,CARD11,4,False
+Ovarian Cancer,CREBBP,11,False
+Ovarian Cancer,CTNND2,0,False
+Ovarian Cancer,ELL,1,False
+Ovarian Cancer,FAT1,2,False
+Ovarian Cancer,FGFR1,26,False
+Ovarian Cancer,GPC5,1,False
+Ovarian Cancer,JAK1,18,False
+Ovarian Cancer,KDM5C,2,False
+Ovarian Cancer,KMT2A,4,False
+Ovarian Cancer,KMT2C,7,False
+Ovarian Cancer,LATS1,13,False
+Ovarian Cancer,LRP1B,9,False
+Ovarian Cancer,MYH9,6,False
+Ovarian Cancer,NBEA,1,False
+Ovarian Cancer,NF2,12,False
+Ovarian Cancer,NOTCH1,83,False
+Ovarian Cancer,NUTM1,2,False
+Ovarian Cancer,PREX2,1,False
+Ovarian Cancer,PTPRB,0,False
+Ovarian Cancer,PTPRD,1,False
+Ovarian Cancer,PTPRT,1,False
+Ovarian Cancer,ROS1,5,False
+Ovarian Cancer,SETD1B,2,False
+Ovarian Cancer,STAT5B,6,False
+Ovarian Cancer,TNC,4,False
+Ovarian Cancer,WWTR1,3,False
+Ovarian Cancer,ZNF521,2,False
+Pancreatic Cancer,ACVR2A,1,False
+Pancreatic Cancer,ALPK1,0,False
+Pancreatic Cancer,ARHGAP5,1,False
+Pancreatic Cancer,ARID1B,8,False
+Pancreatic Cancer,ARID2,7,False
+Pancreatic Cancer,BCOR,2,False
+Pancreatic Cancer,BCORL1,0,False
+Pancreatic Cancer,CDH10,2,False
+Pancreatic Cancer,COL1A1,23,False
+Pancreatic Cancer,COL6A6,0,False
+Pancreatic Cancer,CSMD3,0,False
+Pancreatic Cancer,CTNNA2,2,False
+Pancreatic Cancer,CTNND2,0,False
+Pancreatic Cancer,CUX1,5,False
+Pancreatic Cancer,CXCR4,194,False
+Pancreatic Cancer,DROSHA,4,False
+Pancreatic Cancer,FAM135B,1,False
+Pancreatic Cancer,FAT3,1,False
+Pancreatic Cancer,FBLN2,0,False
+Pancreatic Cancer,FCRL4,0,False
+Pancreatic Cancer,FMN2,2,False
+Pancreatic Cancer,IRS4,2,False
+Pancreatic Cancer,KDM5C,2,False
+Pancreatic Cancer,KMT2A,7,False
+Pancreatic Cancer,LATS1,16,False
+Pancreatic Cancer,LPA,33,False
+Pancreatic Cancer,LRP1B,4,False
+Pancreatic Cancer,MAP2K4,9,False
+Pancreatic Cancer,MARK2,1,False
+Pancreatic Cancer,NCOA1,0,False
+Pancreatic Cancer,NF2,5,False
+Pancreatic Cancer,NFATC2,10,False
+Pancreatic Cancer,PEG3,1,False
+Pancreatic Cancer,PTPN3,2,False
+Pancreatic Cancer,PTPRD,2,False
+Pancreatic Cancer,PTPRT,0,False
+Pancreatic Cancer,SETD1B,0,False
+Pancreatic Cancer,SETD2,15,False
+Pancreatic Cancer,SETDB1,2,False
+Pancreatic Cancer,SMARCA4,12,False
+Pancreatic Cancer,U2AF1,2,False
+Pancreatic Cancer,WT1,35,False
+Pancreatic Cancer,ZNF521,3,False
+Prostate Cancer,ACVR2A,1,False
+Prostate Cancer,ANK1,0,False
+Prostate Cancer,ARID1A,8,False
+Prostate Cancer,ARID1B,0,False
+Prostate Cancer,BCLAF1,1,False
+Prostate Cancer,BMP6,8,False
+Prostate Cancer,BRD4,75,False
+Prostate Cancer,CAMTA1,0,False
+Prostate Cancer,CASZ1,1,False
+Prostate Cancer,CLTCL1,0,False
+Prostate Cancer,CNOT3,1,False
+Prostate Cancer,CSMD3,1,False
+Prostate Cancer,CTNNA2,0,False
+Prostate Cancer,DCAF12L2,0,False
+Prostate Cancer,DCC,10,False
+Prostate Cancer,EIF1AX,0,False
+Prostate Cancer,EPHA3,16,False
+Prostate Cancer,EPS15,0,False
+Prostate Cancer,ERBB3,49,False
+Prostate Cancer,ERBB4,17,False
+Prostate Cancer,FAM174B,1,False
+Prostate Cancer,FAT1,4,False
+Prostate Cancer,FAT3,2,False
+Prostate Cancer,FAT4,1,False
+Prostate Cancer,FBLN2,0,False
+Prostate Cancer,FGD1,1,False
+Prostate Cancer,FOXP1,16,False
+Prostate Cancer,HRAS,18,False
+Prostate Cancer,IL6ST,4,False
+Prostate Cancer,KAT6B,1,False
+Prostate Cancer,LRP1B,8,False
+Prostate Cancer,LZTR1,1,False
+Prostate Cancer,MECOM,0,False
+Prostate Cancer,MGA,1,False
+Prostate Cancer,MYEOV,1,False
+Prostate Cancer,MYH11,7,False
+Prostate Cancer,NCOR1,15,False
+Prostate Cancer,NCOR2,7,False
+Prostate Cancer,NOTCH2,13,False
+Prostate Cancer,PAX5,8,False
+Prostate Cancer,PIK3CB,13,False
+Prostate Cancer,PREX2,3,False
+Prostate Cancer,PRKCB,2,False
+Prostate Cancer,PRKD1,6,False
+Prostate Cancer,RBFOX1,0,False
+Prostate Cancer,RHOA,99,False
+Prostate Cancer,RNF213,0,False
+Prostate Cancer,ROBO2,2,False
+Prostate Cancer,ROS1,3,False
+Prostate Cancer,RUNX1T1,1,False
+Prostate Cancer,SF3B1,3,False
+Prostate Cancer,SMAD4,69,False
+Prostate Cancer,SOX21,0,False
+Prostate Cancer,SPEN,2,False
+Prostate Cancer,SUZ12,20,False
+Prostate Cancer,TFRC,10,False
+Prostate Cancer,U2AF1,2,False
+Prostate Cancer,USP6,0,False
+Prostate Cancer,USP9X,6,False
+Prostate Cancer,ZBTB16,12,False
+Prostate Cancer,ZMYM2,0,False
+Prostate Cancer,ZMYM3,1,False
+Prostate Cancer,ZNF429,0,False
+Stomach Cancer,ACVR2A,3,False
+Stomach Cancer,AR,48,False
+Stomach Cancer,ARID1B,4,False
+Stomach Cancer,BAP1,8,False
+Stomach Cancer,BCL9,4,False
+Stomach Cancer,BCLAF1,1,False
+Stomach Cancer,CACNA1D,2,False
+Stomach Cancer,CD209,0,False
+Stomach Cancer,CDH11,12,False
+Stomach Cancer,CSMD3,4,False
+Stomach Cancer,EPHA3,2,False
+Stomach Cancer,FAT3,1,False
+Stomach Cancer,GSK3B,5,False
+Stomach Cancer,IL7R,4,False
+Stomach Cancer,ITGAV,9,False
+Stomach Cancer,MAP2K7,3,False
+Stomach Cancer,NBEA,2,False
+Stomach Cancer,NCOA2,1,False
+Stomach Cancer,NIN,10,False
+Stomach Cancer,NRG1,5,False
+Stomach Cancer,NTRK3,4,False
+Stomach Cancer,PBRM1,7,False
+Stomach Cancer,PIK3R1,15,False
+Stomach Cancer,PPP3CA,1,False
+Stomach Cancer,PRKCB,2,False
+Stomach Cancer,PWWP2A,0,False
+Stomach Cancer,RECQL4,3,False
+Stomach Cancer,RELA,34,False
+Stomach Cancer,ROS1,10,False
+Stomach Cancer,SETD1B,1,False
+Stomach Cancer,TGFBR2,26,False
+Stomach Cancer,TOP2A,27,False
+Stomach Cancer,TRIM49C,2,False
+Stomach Cancer,U2AF1,1,False
+Stomach Cancer,UBR5,4,False
+Stomach Cancer,ZCCHC8,0,False
+Stomach Cancer,ZNF814,0,False
+Thyroid Cancer,AFF3,1,False
+Thyroid Cancer,ARHGAP5,0,False
+Thyroid Cancer,ARID1B,2,False
+Thyroid Cancer,ARID2,4,False
+Thyroid Cancer,BCR,27,False
+Thyroid Cancer,COL2A1,0,False
+Thyroid Cancer,CREBBP,3,False
+Thyroid Cancer,CUX1,1,False
+Thyroid Cancer,DNMT3A,10,False
+Thyroid Cancer,FAM135B,0,False
+Thyroid Cancer,FAT3,0,False
+Thyroid Cancer,FAT4,1,False
+Thyroid Cancer,HIF1A,4,False
+Thyroid Cancer,KMT2C,5,False
+Thyroid Cancer,LRP1B,4,False
+Thyroid Cancer,MAP3K1,3,False
+Thyroid Cancer,PABPC1,0,False
+Thyroid Cancer,PDCD1LG2,3,False
+Thyroid Cancer,PICALM,0,False
+Thyroid Cancer,PPP2R1A,0,False
+Thyroid Cancer,PTCH1,4,False
+Thyroid Cancer,STAG2,3,False
+Thyroid Cancer,USP9X,1,False
+Thyroid Cancer,ZFHX3,1,False

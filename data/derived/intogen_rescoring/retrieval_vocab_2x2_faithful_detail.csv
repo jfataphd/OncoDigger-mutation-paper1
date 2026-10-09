@@ -1,0 +1,761 @@
+cell,cancer,rank,gene,count
+cell3_pool_dirty,Bladder Cancer,1,FGFR3,277
+cell3_pool_dirty,Bladder Cancer,2,TP53,202
+cell3_pool_dirty,Bladder Cancer,3,TERT,120
+cell3_pool_dirty,Bladder Cancer,4,PIK3CA,101
+cell3_pool_dirty,Bladder Cancer,5,CD274,64
+cell3_pool_dirty,Bladder Cancer,6,RB1,55
+cell3_pool_dirty,Bladder Cancer,7,ERBB2,54
+cell3_pool_dirty,Bladder Cancer,8,ARID1A,43
+cell3_pool_dirty,Bladder Cancer,9,KRAS,40
+cell3_pool_dirty,Bladder Cancer,10,KDM6A,38
+cell4_pool_clean,Bladder Cancer,1,FGFR3,277
+cell4_pool_clean,Bladder Cancer,2,TP53,202
+cell4_pool_clean,Bladder Cancer,3,TERT,120
+cell4_pool_clean,Bladder Cancer,4,PIK3CA,101
+cell4_pool_clean,Bladder Cancer,5,CD274,64
+cell4_pool_clean,Bladder Cancer,6,RB1,55
+cell4_pool_clean,Bladder Cancer,7,ERBB2,54
+cell4_pool_clean,Bladder Cancer,8,ARID1A,43
+cell4_pool_clean,Bladder Cancer,9,KRAS,40
+cell4_pool_clean,Bladder Cancer,10,KDM6A,38
+cell1_fullcorpus_dirty,Bladder Cancer,1,TNFRSF11A,1026
+cell1_fullcorpus_dirty,Bladder Cancer,2,CD274,837
+cell1_fullcorpus_dirty,Bladder Cancer,3,FGFR3,592
+cell1_fullcorpus_dirty,Bladder Cancer,4,MET,560
+cell1_fullcorpus_dirty,Bladder Cancer,5,NODAL,512
+cell1_fullcorpus_dirty,Bladder Cancer,6,PDCD1,512
+cell1_fullcorpus_dirty,Bladder Cancer,7,PIK3CA,492
+cell1_fullcorpus_dirty,Bladder Cancer,8,NDE1,430
+cell1_fullcorpus_dirty,Bladder Cancer,9,EGFR,424
+cell1_fullcorpus_dirty,Bladder Cancer,10,TP53,422
+cell2_fullcorpus_clean,Bladder Cancer,1,TNFRSF11A,1026
+cell2_fullcorpus_clean,Bladder Cancer,2,CD274,837
+cell2_fullcorpus_clean,Bladder Cancer,3,FGFR3,592
+cell2_fullcorpus_clean,Bladder Cancer,4,MET,560
+cell2_fullcorpus_clean,Bladder Cancer,5,EGFR,550
+cell2_fullcorpus_clean,Bladder Cancer,6,NODAL,512
+cell2_fullcorpus_clean,Bladder Cancer,7,PDCD1,512
+cell2_fullcorpus_clean,Bladder Cancer,8,PIK3CA,492
+cell2_fullcorpus_clean,Bladder Cancer,9,NDE1,430
+cell2_fullcorpus_clean,Bladder Cancer,10,TP53,422
+cell3_pool_dirty,Esophageal Cancer,1,TP53,214
+cell3_pool_dirty,Esophageal Cancer,2,PIK3CA,82
+cell3_pool_dirty,Esophageal Cancer,3,EGFR,79
+cell3_pool_dirty,Esophageal Cancer,4,CDKN2A,64
+cell3_pool_dirty,Esophageal Cancer,5,ERBB2,51
+cell3_pool_dirty,Esophageal Cancer,6,KRAS,51
+cell3_pool_dirty,Esophageal Cancer,7,CD274,40
+cell3_pool_dirty,Esophageal Cancer,8,KIT,39
+cell3_pool_dirty,Esophageal Cancer,9,NOTCH1,36
+cell3_pool_dirty,Esophageal Cancer,10,CCND1,33
+cell4_pool_clean,Esophageal Cancer,1,TP53,214
+cell4_pool_clean,Esophageal Cancer,2,EGFR,84
+cell4_pool_clean,Esophageal Cancer,3,PIK3CA,82
+cell4_pool_clean,Esophageal Cancer,4,CDKN2A,64
+cell4_pool_clean,Esophageal Cancer,5,ERBB2,51
+cell4_pool_clean,Esophageal Cancer,6,KRAS,51
+cell4_pool_clean,Esophageal Cancer,7,CD274,40
+cell4_pool_clean,Esophageal Cancer,8,KIT,39
+cell4_pool_clean,Esophageal Cancer,9,NOTCH1,36
+cell4_pool_clean,Esophageal Cancer,10,CCND1,33
+cell1_fullcorpus_dirty,Esophageal Cancer,1,NODAL,1028
+cell1_fullcorpus_dirty,Esophageal Cancer,2,TNFRSF11A,958
+cell1_fullcorpus_dirty,Esophageal Cancer,3,ERBB2,685
+cell1_fullcorpus_dirty,Esophageal Cancer,4,MET,633
+cell1_fullcorpus_dirty,Esophageal Cancer,5,ESD,617
+cell1_fullcorpus_dirty,Esophageal Cancer,6,CD274,595
+cell1_fullcorpus_dirty,Esophageal Cancer,7,PDCD1,519
+cell1_fullcorpus_dirty,Esophageal Cancer,8,NDE1,500
+cell1_fullcorpus_dirty,Esophageal Cancer,9,EGFR,498
+cell1_fullcorpus_dirty,Esophageal Cancer,10,HGD,485
+cell2_fullcorpus_clean,Esophageal Cancer,1,NODAL,1028
+cell2_fullcorpus_clean,Esophageal Cancer,2,TNFRSF11A,958
+cell2_fullcorpus_clean,Esophageal Cancer,3,EGFR,731
+cell2_fullcorpus_clean,Esophageal Cancer,4,ERBB2,685
+cell2_fullcorpus_clean,Esophageal Cancer,5,MET,633
+cell2_fullcorpus_clean,Esophageal Cancer,6,ESD,617
+cell2_fullcorpus_clean,Esophageal Cancer,7,CD274,595
+cell2_fullcorpus_clean,Esophageal Cancer,8,PDCD1,519
+cell2_fullcorpus_clean,Esophageal Cancer,9,NDE1,500
+cell2_fullcorpus_clean,Esophageal Cancer,10,HGD,485
+cell3_pool_dirty,Endometrial Cancer,1,PTEN,251
+cell3_pool_dirty,Endometrial Cancer,2,PIK3CA,187
+cell3_pool_dirty,Endometrial Cancer,3,TP53,177
+cell3_pool_dirty,Endometrial Cancer,4,POLE,161
+cell3_pool_dirty,Endometrial Cancer,5,MLH1,160
+cell3_pool_dirty,Endometrial Cancer,6,KRAS,135
+cell3_pool_dirty,Endometrial Cancer,7,MSH2,124
+cell3_pool_dirty,Endometrial Cancer,8,CTNNB1,122
+cell3_pool_dirty,Endometrial Cancer,9,MSH6,115
+cell3_pool_dirty,Endometrial Cancer,10,ARID1A,90
+cell4_pool_clean,Endometrial Cancer,1,PTEN,251
+cell4_pool_clean,Endometrial Cancer,2,PIK3CA,187
+cell4_pool_clean,Endometrial Cancer,3,TP53,177
+cell4_pool_clean,Endometrial Cancer,4,POLE,161
+cell4_pool_clean,Endometrial Cancer,5,MLH1,160
+cell4_pool_clean,Endometrial Cancer,6,KRAS,135
+cell4_pool_clean,Endometrial Cancer,7,MSH2,124
+cell4_pool_clean,Endometrial Cancer,8,CTNNB1,122
+cell4_pool_clean,Endometrial Cancer,9,MSH6,115
+cell4_pool_clean,Endometrial Cancer,10,ARID1A,90
+cell1_fullcorpus_dirty,Endometrial Cancer,1,PTEN,761
+cell1_fullcorpus_dirty,Endometrial Cancer,2,PGR,620
+cell1_fullcorpus_dirty,Endometrial Cancer,3,NODAL,593
+cell1_fullcorpus_dirty,Endometrial Cancer,4,TNFRSF11A,592
+cell1_fullcorpus_dirty,Endometrial Cancer,5,PIK3CA,581
+cell1_fullcorpus_dirty,Endometrial Cancer,6,MLH1,579
+cell1_fullcorpus_dirty,Endometrial Cancer,7,MET,489
+cell1_fullcorpus_dirty,Endometrial Cancer,8,MUC16,487
+cell1_fullcorpus_dirty,Endometrial Cancer,9,POLE,470
+cell1_fullcorpus_dirty,Endometrial Cancer,10,SHE,446
+cell2_fullcorpus_clean,Endometrial Cancer,1,PTEN,761
+cell2_fullcorpus_clean,Endometrial Cancer,2,PGR,620
+cell2_fullcorpus_clean,Endometrial Cancer,3,NODAL,593
+cell2_fullcorpus_clean,Endometrial Cancer,4,TNFRSF11A,592
+cell2_fullcorpus_clean,Endometrial Cancer,5,PIK3CA,581
+cell2_fullcorpus_clean,Endometrial Cancer,6,MLH1,579
+cell2_fullcorpus_clean,Endometrial Cancer,7,MET,489
+cell2_fullcorpus_clean,Endometrial Cancer,8,MUC16,487
+cell2_fullcorpus_clean,Endometrial Cancer,9,POLE,470
+cell2_fullcorpus_clean,Endometrial Cancer,10,SHE,446
+cell3_pool_dirty,Myeloma,1,TP53,118
+cell3_pool_dirty,Myeloma,2,NRAS,81
+cell3_pool_dirty,Myeloma,3,BRAF,65
+cell3_pool_dirty,Myeloma,4,KRAS,62
+cell3_pool_dirty,Myeloma,5,MYC,56
+cell3_pool_dirty,Myeloma,6,IGH,55
+cell3_pool_dirty,Myeloma,7,FGFR3,38
+cell3_pool_dirty,Myeloma,8,SDC1,34
+cell3_pool_dirty,Myeloma,9,DIS3,33
+cell3_pool_dirty,Myeloma,10,CCND1,27
+cell4_pool_clean,Myeloma,1,TP53,118
+cell4_pool_clean,Myeloma,2,NRAS,81
+cell4_pool_clean,Myeloma,3,BRAF,65
+cell4_pool_clean,Myeloma,4,KRAS,62
+cell4_pool_clean,Myeloma,5,MYC,56
+cell4_pool_clean,Myeloma,6,IGH,55
+cell4_pool_clean,Myeloma,7,FGFR3,38
+cell4_pool_clean,Myeloma,8,SDC1,34
+cell4_pool_clean,Myeloma,9,DIS3,33
+cell4_pool_clean,Myeloma,10,CCND1,27
+cell1_fullcorpus_dirty,Myeloma,1,CD38,1056
+cell1_fullcorpus_dirty,Myeloma,2,IL6,974
+cell1_fullcorpus_dirty,Myeloma,3,SDC1,845
+cell1_fullcorpus_dirty,Myeloma,4,CD34,776
+cell1_fullcorpus_dirty,Myeloma,5,BCL2,533
+cell1_fullcorpus_dirty,Myeloma,6,MYC,512
+cell1_fullcorpus_dirty,Myeloma,7,TNF,440
+cell1_fullcorpus_dirty,Myeloma,8,TNFRSF10B,422
+cell1_fullcorpus_dirty,Myeloma,9,ALB,392
+cell1_fullcorpus_dirty,Myeloma,10,IGH,373
+cell2_fullcorpus_clean,Myeloma,1,CD38,1056
+cell2_fullcorpus_clean,Myeloma,2,IL6,974
+cell2_fullcorpus_clean,Myeloma,3,SDC1,845
+cell2_fullcorpus_clean,Myeloma,4,CD34,776
+cell2_fullcorpus_clean,Myeloma,5,BCL2,533
+cell2_fullcorpus_clean,Myeloma,6,MYC,512
+cell2_fullcorpus_clean,Myeloma,7,TNF,440
+cell2_fullcorpus_clean,Myeloma,8,TNFRSF10B,422
+cell2_fullcorpus_clean,Myeloma,9,ALB,392
+cell2_fullcorpus_clean,Myeloma,10,IGH,373
+cell3_pool_dirty,Thyroid Cancer,1,BRAF,563
+cell3_pool_dirty,Thyroid Cancer,2,RET,337
+cell3_pool_dirty,Thyroid Cancer,3,TERT,189
+cell3_pool_dirty,Thyroid Cancer,4,NRAS,140
+cell3_pool_dirty,Thyroid Cancer,5,KRAS,89
+cell3_pool_dirty,Thyroid Cancer,6,HRAS,84
+cell3_pool_dirty,Thyroid Cancer,7,PIK3CA,55
+cell3_pool_dirty,Thyroid Cancer,8,TP53,53
+cell3_pool_dirty,Thyroid Cancer,9,PAX8,43
+cell3_pool_dirty,Thyroid Cancer,10,PTEN,40
+cell4_pool_clean,Thyroid Cancer,1,BRAF,563
+cell4_pool_clean,Thyroid Cancer,2,RET,337
+cell4_pool_clean,Thyroid Cancer,3,TERT,189
+cell4_pool_clean,Thyroid Cancer,4,NRAS,140
+cell4_pool_clean,Thyroid Cancer,5,KRAS,89
+cell4_pool_clean,Thyroid Cancer,6,HRAS,84
+cell4_pool_clean,Thyroid Cancer,7,PIK3CA,55
+cell4_pool_clean,Thyroid Cancer,8,TP53,53
+cell4_pool_clean,Thyroid Cancer,9,PAX8,43
+cell4_pool_clean,Thyroid Cancer,10,PTEN,40
+cell1_fullcorpus_dirty,Thyroid Cancer,1,TG,3319
+cell1_fullcorpus_dirty,Thyroid Cancer,2,BRAF,2627
+cell1_fullcorpus_dirty,Thyroid Cancer,3,RET,2098
+cell1_fullcorpus_dirty,Thyroid Cancer,4,NODAL,1149
+cell1_fullcorpus_dirty,Thyroid Cancer,5,AKT1S1,969
+cell1_fullcorpus_dirty,Thyroid Cancer,6,MET,682
+cell1_fullcorpus_dirty,Thyroid Cancer,7,SHE,584
+cell1_fullcorpus_dirty,Thyroid Cancer,8,PIK3CA,556
+cell1_fullcorpus_dirty,Thyroid Cancer,9,TERT,503
+cell1_fullcorpus_dirty,Thyroid Cancer,10,TNFRSF11A,486
+cell2_fullcorpus_clean,Thyroid Cancer,1,TG,3319
+cell2_fullcorpus_clean,Thyroid Cancer,2,BRAF,2627
+cell2_fullcorpus_clean,Thyroid Cancer,3,RET,2098
+cell2_fullcorpus_clean,Thyroid Cancer,4,NODAL,1149
+cell2_fullcorpus_clean,Thyroid Cancer,5,AKT1S1,969
+cell2_fullcorpus_clean,Thyroid Cancer,6,MET,682
+cell2_fullcorpus_clean,Thyroid Cancer,7,SHE,584
+cell2_fullcorpus_clean,Thyroid Cancer,8,PIK3CA,556
+cell2_fullcorpus_clean,Thyroid Cancer,9,TERT,503
+cell2_fullcorpus_clean,Thyroid Cancer,10,TNFRSF11A,486
+cell3_pool_dirty,Breast Cancer,1,BRCA1,527
+cell3_pool_dirty,Breast Cancer,2,BRCA2,431
+cell3_pool_dirty,Breast Cancer,3,PIK3CA,198
+cell3_pool_dirty,Breast Cancer,4,ERBB2,170
+cell3_pool_dirty,Breast Cancer,5,TP53,145
+cell3_pool_dirty,Breast Cancer,6,PALB2,65
+cell3_pool_dirty,Breast Cancer,7,PTEN,54
+cell3_pool_dirty,Breast Cancer,8,ESR1,50
+cell3_pool_dirty,Breast Cancer,9,CHEK2,46
+cell3_pool_dirty,Breast Cancer,10,ATM,44
+cell4_pool_clean,Breast Cancer,1,BRCA1,527
+cell4_pool_clean,Breast Cancer,2,BRCA2,431
+cell4_pool_clean,Breast Cancer,3,PIK3CA,198
+cell4_pool_clean,Breast Cancer,4,ERBB2,170
+cell4_pool_clean,Breast Cancer,5,TP53,145
+cell4_pool_clean,Breast Cancer,6,EGFR,66
+cell4_pool_clean,Breast Cancer,7,PALB2,65
+cell4_pool_clean,Breast Cancer,8,PTEN,54
+cell4_pool_clean,Breast Cancer,9,ESR1,50
+cell4_pool_clean,Breast Cancer,10,CHEK2,46
+cell1_fullcorpus_dirty,Breast Cancer,1,ERBB2,28142
+cell1_fullcorpus_dirty,Breast Cancer,2,MB,15008
+cell1_fullcorpus_dirty,Breast Cancer,3,PGR,8103
+cell1_fullcorpus_dirty,Breast Cancer,4,BRCA1,7989
+cell1_fullcorpus_dirty,Breast Cancer,5,NODAL,5250
+cell1_fullcorpus_dirty,Breast Cancer,6,CYP19A1,4882
+cell1_fullcorpus_dirty,Breast Cancer,7,PIK3CA,4759
+cell1_fullcorpus_dirty,Breast Cancer,8,BRCA2,4641
+cell1_fullcorpus_dirty,Breast Cancer,9,MET,4142
+cell1_fullcorpus_dirty,Breast Cancer,10,TNFRSF11A,3850
+cell2_fullcorpus_clean,Breast Cancer,1,ERBB2,28143
+cell2_fullcorpus_clean,Breast Cancer,2,EGFR,12398
+cell2_fullcorpus_clean,Breast Cancer,3,PGR,8103
+cell2_fullcorpus_clean,Breast Cancer,4,BRCA1,7989
+cell2_fullcorpus_clean,Breast Cancer,5,NODAL,5250
+cell2_fullcorpus_clean,Breast Cancer,6,CYP19A1,4882
+cell2_fullcorpus_clean,Breast Cancer,7,PIK3CA,4759
+cell2_fullcorpus_clean,Breast Cancer,8,BRCA2,4641
+cell2_fullcorpus_clean,Breast Cancer,9,MET,4142
+cell2_fullcorpus_clean,Breast Cancer,10,TNFRSF11A,3850
+cell3_pool_dirty,Lung Cancer,1,EGFR,760
+cell3_pool_dirty,Lung Cancer,2,KRAS,234
+cell3_pool_dirty,Lung Cancer,3,TP53,110
+cell3_pool_dirty,Lung Cancer,4,BRAF,100
+cell3_pool_dirty,Lung Cancer,5,ALK,99
+cell3_pool_dirty,Lung Cancer,6,PIK3CA,78
+cell3_pool_dirty,Lung Cancer,7,ERBB2,66
+cell3_pool_dirty,Lung Cancer,8,MET,65
+cell3_pool_dirty,Lung Cancer,9,CD274,61
+cell3_pool_dirty,Lung Cancer,10,ROS1,36
+cell4_pool_clean,Lung Cancer,1,EGFR,777
+cell4_pool_clean,Lung Cancer,2,KRAS,234
+cell4_pool_clean,Lung Cancer,3,TP53,110
+cell4_pool_clean,Lung Cancer,4,BRAF,100
+cell4_pool_clean,Lung Cancer,5,ALK,99
+cell4_pool_clean,Lung Cancer,6,PIK3CA,78
+cell4_pool_clean,Lung Cancer,7,ERBB2,66
+cell4_pool_clean,Lung Cancer,8,MET,65
+cell4_pool_clean,Lung Cancer,9,CD274,61
+cell4_pool_clean,Lung Cancer,10,ROS1,36
+cell1_fullcorpus_dirty,Lung Cancer,1,EGFR,16318
+cell1_fullcorpus_dirty,Lung Cancer,2,CD274,5984
+cell1_fullcorpus_dirty,Lung Cancer,3,ALK,4535
+cell1_fullcorpus_dirty,Lung Cancer,4,MET,4486
+cell1_fullcorpus_dirty,Lung Cancer,5,KRAS,4319
+cell1_fullcorpus_dirty,Lung Cancer,6,PDCD1,4075
+cell1_fullcorpus_dirty,Lung Cancer,7,TNFRSF11A,3910
+cell1_fullcorpus_dirty,Lung Cancer,8,AKT1S1,3512
+cell1_fullcorpus_dirty,Lung Cancer,9,PIK3CA,2968
+cell1_fullcorpus_dirty,Lung Cancer,10,NDE1,2891
+cell2_fullcorpus_clean,Lung Cancer,1,EGFR,17751
+cell2_fullcorpus_clean,Lung Cancer,2,CD274,5984
+cell2_fullcorpus_clean,Lung Cancer,3,ALK,4535
+cell2_fullcorpus_clean,Lung Cancer,4,MET,4486
+cell2_fullcorpus_clean,Lung Cancer,5,KRAS,4319
+cell2_fullcorpus_clean,Lung Cancer,6,PDCD1,4075
+cell2_fullcorpus_clean,Lung Cancer,7,TNFRSF11A,3910
+cell2_fullcorpus_clean,Lung Cancer,8,AKT1S1,3512
+cell2_fullcorpus_clean,Lung Cancer,9,PIK3CA,2968
+cell2_fullcorpus_clean,Lung Cancer,10,NDE1,2891
+cell3_pool_dirty,Colorectal Cancer,1,KRAS,436
+cell3_pool_dirty,Colorectal Cancer,2,BRAF,289
+cell3_pool_dirty,Colorectal Cancer,3,EGFR,155
+cell3_pool_dirty,Colorectal Cancer,4,APC,152
+cell3_pool_dirty,Colorectal Cancer,5,MLH1,151
+cell3_pool_dirty,Colorectal Cancer,6,MSH2,137
+cell3_pool_dirty,Colorectal Cancer,7,PIK3CA,130
+cell3_pool_dirty,Colorectal Cancer,8,NRAS,128
+cell3_pool_dirty,Colorectal Cancer,9,TP53,97
+cell3_pool_dirty,Colorectal Cancer,10,MSH6,80
+cell4_pool_clean,Colorectal Cancer,1,KRAS,436
+cell4_pool_clean,Colorectal Cancer,2,BRAF,289
+cell4_pool_clean,Colorectal Cancer,3,EGFR,191
+cell4_pool_clean,Colorectal Cancer,4,APC,152
+cell4_pool_clean,Colorectal Cancer,5,MLH1,151
+cell4_pool_clean,Colorectal Cancer,6,MSH2,137
+cell4_pool_clean,Colorectal Cancer,7,PIK3CA,130
+cell4_pool_clean,Colorectal Cancer,8,NRAS,128
+cell4_pool_clean,Colorectal Cancer,9,TP53,97
+cell4_pool_clean,Colorectal Cancer,10,MSH6,80
+cell1_fullcorpus_dirty,Colorectal Cancer,1,KRAS,5005
+cell1_fullcorpus_dirty,Colorectal Cancer,2,APC,4143
+cell1_fullcorpus_dirty,Colorectal Cancer,3,BRAF,3616
+cell1_fullcorpus_dirty,Colorectal Cancer,4,EGFR,3573
+cell1_fullcorpus_dirty,Colorectal Cancer,5,MLH1,3103
+cell1_fullcorpus_dirty,Colorectal Cancer,6,MET,2800
+cell1_fullcorpus_dirty,Colorectal Cancer,7,TNFRSF11A,2765
+cell1_fullcorpus_dirty,Colorectal Cancer,8,PIK3CA,2709
+cell1_fullcorpus_dirty,Colorectal Cancer,9,MSH2,2546
+cell1_fullcorpus_dirty,Colorectal Cancer,10,NDE1,2411
+cell2_fullcorpus_clean,Colorectal Cancer,1,KRAS,5005
+cell2_fullcorpus_clean,Colorectal Cancer,2,EGFR,4359
+cell2_fullcorpus_clean,Colorectal Cancer,3,APC,4143
+cell2_fullcorpus_clean,Colorectal Cancer,4,BRAF,3616
+cell2_fullcorpus_clean,Colorectal Cancer,5,MLH1,3103
+cell2_fullcorpus_clean,Colorectal Cancer,6,MET,2800
+cell2_fullcorpus_clean,Colorectal Cancer,7,TNFRSF11A,2765
+cell2_fullcorpus_clean,Colorectal Cancer,8,PIK3CA,2709
+cell2_fullcorpus_clean,Colorectal Cancer,9,MSH2,2546
+cell2_fullcorpus_clean,Colorectal Cancer,10,NDE1,2411
+cell3_pool_dirty,Prostate Cancer,1,BRCA2,233
+cell3_pool_dirty,Prostate Cancer,2,AR,213
+cell3_pool_dirty,Prostate Cancer,3,BRCA1,191
+cell3_pool_dirty,Prostate Cancer,4,TP53,118
+cell3_pool_dirty,Prostate Cancer,5,ATM,103
+cell3_pool_dirty,Prostate Cancer,6,PTEN,86
+cell3_pool_dirty,Prostate Cancer,7,SPOP,82
+cell3_pool_dirty,Prostate Cancer,8,PARP1,77
+cell3_pool_dirty,Prostate Cancer,9,CHEK2,54
+cell3_pool_dirty,Prostate Cancer,10,ERG,51
+cell4_pool_clean,Prostate Cancer,1,BRCA2,233
+cell4_pool_clean,Prostate Cancer,2,AR,213
+cell4_pool_clean,Prostate Cancer,3,BRCA1,191
+cell4_pool_clean,Prostate Cancer,4,TP53,118
+cell4_pool_clean,Prostate Cancer,5,ATM,103
+cell4_pool_clean,Prostate Cancer,6,PTEN,86
+cell4_pool_clean,Prostate Cancer,7,SPOP,82
+cell4_pool_clean,Prostate Cancer,8,PARP1,77
+cell4_pool_clean,Prostate Cancer,9,CHEK2,54
+cell4_pool_clean,Prostate Cancer,10,ERG,51
+cell1_fullcorpus_dirty,Prostate Cancer,1,AR,9038
+cell1_fullcorpus_dirty,Prostate Cancer,2,MSMP,4672
+cell1_fullcorpus_dirty,Prostate Cancer,3,FOLH1,4540
+cell1_fullcorpus_dirty,Prostate Cancer,4,AMACR,2473
+cell1_fullcorpus_dirty,Prostate Cancer,5,TNFRSF11A,2085
+cell1_fullcorpus_dirty,Prostate Cancer,6,MET,2018
+cell1_fullcorpus_dirty,Prostate Cancer,7,BCR,1776
+cell1_fullcorpus_dirty,Prostate Cancer,8,PTEN,1707
+cell1_fullcorpus_dirty,Prostate Cancer,9,NDE1,1684
+cell1_fullcorpus_dirty,Prostate Cancer,10,SLC33A1,1656
+cell2_fullcorpus_clean,Prostate Cancer,1,AR,9038
+cell2_fullcorpus_clean,Prostate Cancer,2,MSMP,4672
+cell2_fullcorpus_clean,Prostate Cancer,3,FOLH1,4540
+cell2_fullcorpus_clean,Prostate Cancer,4,AMACR,2473
+cell2_fullcorpus_clean,Prostate Cancer,5,TNFRSF11A,2085
+cell2_fullcorpus_clean,Prostate Cancer,6,MET,2018
+cell2_fullcorpus_clean,Prostate Cancer,7,BCR,1776
+cell2_fullcorpus_clean,Prostate Cancer,8,PTEN,1707
+cell2_fullcorpus_clean,Prostate Cancer,9,NDE1,1684
+cell2_fullcorpus_clean,Prostate Cancer,10,SLC33A1,1656
+cell3_pool_dirty,Melanoma,1,BRAF,530
+cell3_pool_dirty,Melanoma,2,NRAS,291
+cell3_pool_dirty,Melanoma,3,CDKN2A,166
+cell3_pool_dirty,Melanoma,4,KIT,145
+cell3_pool_dirty,Melanoma,5,GNAQ,82
+cell3_pool_dirty,Melanoma,6,TERT,77
+cell3_pool_dirty,Melanoma,7,BAP1,72
+cell3_pool_dirty,Melanoma,8,GNA11,70
+cell3_pool_dirty,Melanoma,9,CDK4,61
+cell3_pool_dirty,Melanoma,10,SF3B1,48
+cell4_pool_clean,Melanoma,1,BRAF,530
+cell4_pool_clean,Melanoma,2,NRAS,291
+cell4_pool_clean,Melanoma,3,CDKN2A,166
+cell4_pool_clean,Melanoma,4,KIT,145
+cell4_pool_clean,Melanoma,5,GNAQ,82
+cell4_pool_clean,Melanoma,6,TERT,77
+cell4_pool_clean,Melanoma,7,BAP1,72
+cell4_pool_clean,Melanoma,8,GNA11,70
+cell4_pool_clean,Melanoma,9,CDK4,61
+cell4_pool_clean,Melanoma,10,SF3B1,48
+cell1_fullcorpus_dirty,Melanoma,1,BRAF,5183
+cell1_fullcorpus_dirty,Melanoma,2,PDCD1,2859
+cell1_fullcorpus_dirty,Melanoma,3,TYR,2054
+cell1_fullcorpus_dirty,Melanoma,4,CD4,1792
+cell1_fullcorpus_dirty,Melanoma,5,CTLA4,1515
+cell1_fullcorpus_dirty,Melanoma,6,CD274,1454
+cell1_fullcorpus_dirty,Melanoma,7,NODAL,1381
+cell1_fullcorpus_dirty,Melanoma,8,F10,1360
+cell1_fullcorpus_dirty,Melanoma,9,IL2,1360
+cell1_fullcorpus_dirty,Melanoma,10,MLANA,1357
+cell2_fullcorpus_clean,Melanoma,1,BRAF,5183
+cell2_fullcorpus_clean,Melanoma,2,PDCD1,2859
+cell2_fullcorpus_clean,Melanoma,3,TYR,2054
+cell2_fullcorpus_clean,Melanoma,4,CD4,1792
+cell2_fullcorpus_clean,Melanoma,5,CTLA4,1515
+cell2_fullcorpus_clean,Melanoma,6,CD274,1454
+cell2_fullcorpus_clean,Melanoma,7,NODAL,1381
+cell2_fullcorpus_clean,Melanoma,8,F10,1360
+cell2_fullcorpus_clean,Melanoma,9,IL2,1360
+cell2_fullcorpus_clean,Melanoma,10,MLANA,1357
+cell3_pool_dirty,Kidney Cancer,1,VHL,252
+cell3_pool_dirty,Kidney Cancer,2,WT1,119
+cell3_pool_dirty,Kidney Cancer,3,FH,88
+cell3_pool_dirty,Kidney Cancer,4,PBRM1,85
+cell3_pool_dirty,Kidney Cancer,5,SETD2,80
+cell3_pool_dirty,Kidney Cancer,6,BAP1,76
+cell3_pool_dirty,Kidney Cancer,7,MTOR,65
+cell3_pool_dirty,Kidney Cancer,8,TP53,58
+cell3_pool_dirty,Kidney Cancer,9,TSC2,51
+cell3_pool_dirty,Kidney Cancer,10,FLCN,47
+cell4_pool_clean,Kidney Cancer,1,VHL,252
+cell4_pool_clean,Kidney Cancer,2,WT1,119
+cell4_pool_clean,Kidney Cancer,3,FH,88
+cell4_pool_clean,Kidney Cancer,4,PBRM1,85
+cell4_pool_clean,Kidney Cancer,5,SETD2,80
+cell4_pool_clean,Kidney Cancer,6,BAP1,76
+cell4_pool_clean,Kidney Cancer,7,MTOR,65
+cell4_pool_clean,Kidney Cancer,8,TP53,58
+cell4_pool_clean,Kidney Cancer,9,TSC2,51
+cell4_pool_clean,Kidney Cancer,10,FLCN,47
+cell1_fullcorpus_dirty,Kidney Cancer,1,VHL,1574
+cell1_fullcorpus_dirty,Kidney Cancer,2,MTOR,1166
+cell1_fullcorpus_dirty,Kidney Cancer,3,TNFRSF11A,1164
+cell1_fullcorpus_dirty,Kidney Cancer,4,EGFR,957
+cell1_fullcorpus_dirty,Kidney Cancer,5,CA5A,915
+cell1_fullcorpus_dirty,Kidney Cancer,6,MET,873
+cell1_fullcorpus_dirty,Kidney Cancer,7,IL2,847
+cell1_fullcorpus_dirty,Kidney Cancer,8,PDCD1,688
+cell1_fullcorpus_dirty,Kidney Cancer,9,CD274,652
+cell1_fullcorpus_dirty,Kidney Cancer,10,PRCC,633
+cell2_fullcorpus_clean,Kidney Cancer,1,VHL,1574
+cell2_fullcorpus_clean,Kidney Cancer,2,MTOR,1166
+cell2_fullcorpus_clean,Kidney Cancer,3,TNFRSF11A,1164
+cell2_fullcorpus_clean,Kidney Cancer,4,EGFR,1016
+cell2_fullcorpus_clean,Kidney Cancer,5,CA5A,915
+cell2_fullcorpus_clean,Kidney Cancer,6,MET,873
+cell2_fullcorpus_clean,Kidney Cancer,7,IL2,847
+cell2_fullcorpus_clean,Kidney Cancer,8,PDCD1,688
+cell2_fullcorpus_clean,Kidney Cancer,9,CD274,652
+cell2_fullcorpus_clean,Kidney Cancer,10,PRCC,633
+cell3_pool_dirty,Pancreatic Cancer,1,KRAS,367
+cell3_pool_dirty,Pancreatic Cancer,2,TP53,145
+cell3_pool_dirty,Pancreatic Cancer,3,BRCA2,126
+cell3_pool_dirty,Pancreatic Cancer,4,BRCA1,104
+cell3_pool_dirty,Pancreatic Cancer,5,CDKN2A,104
+cell3_pool_dirty,Pancreatic Cancer,6,SMAD4,95
+cell3_pool_dirty,Pancreatic Cancer,7,GNAS,60
+cell3_pool_dirty,Pancreatic Cancer,8,MEN1,59
+cell3_pool_dirty,Pancreatic Cancer,9,PIK3CA,51
+cell3_pool_dirty,Pancreatic Cancer,10,EGFR,46
+cell4_pool_clean,Pancreatic Cancer,1,KRAS,367
+cell4_pool_clean,Pancreatic Cancer,2,TP53,145
+cell4_pool_clean,Pancreatic Cancer,3,BRCA2,126
+cell4_pool_clean,Pancreatic Cancer,4,BRCA1,104
+cell4_pool_clean,Pancreatic Cancer,5,CDKN2A,104
+cell4_pool_clean,Pancreatic Cancer,6,SMAD4,95
+cell4_pool_clean,Pancreatic Cancer,7,GNAS,60
+cell4_pool_clean,Pancreatic Cancer,8,MEN1,59
+cell4_pool_clean,Pancreatic Cancer,9,PIK3CA,51
+cell4_pool_clean,Pancreatic Cancer,10,EGFR,49
+cell1_fullcorpus_dirty,Pancreatic Cancer,1,KRAS,2724
+cell1_fullcorpus_dirty,Pancreatic Cancer,2,INS,2200
+cell1_fullcorpus_dirty,Pancreatic Cancer,3,NDE1,1293
+cell1_fullcorpus_dirty,Pancreatic Cancer,4,SST,1273
+cell1_fullcorpus_dirty,Pancreatic Cancer,5,SPINK5,1192
+cell1_fullcorpus_dirty,Pancreatic Cancer,6,MIA,1093
+cell1_fullcorpus_dirty,Pancreatic Cancer,7,TNFRSF11A,1084
+cell1_fullcorpus_dirty,Pancreatic Cancer,8,MET,999
+cell1_fullcorpus_dirty,Pancreatic Cancer,9,GEM,942
+cell1_fullcorpus_dirty,Pancreatic Cancer,10,PIK3CA,895
+cell2_fullcorpus_clean,Pancreatic Cancer,1,KRAS,2724
+cell2_fullcorpus_clean,Pancreatic Cancer,2,INS,2200
+cell2_fullcorpus_clean,Pancreatic Cancer,3,NDE1,1293
+cell2_fullcorpus_clean,Pancreatic Cancer,4,SST,1273
+cell2_fullcorpus_clean,Pancreatic Cancer,5,SPINK5,1192
+cell2_fullcorpus_clean,Pancreatic Cancer,6,MIA,1093
+cell2_fullcorpus_clean,Pancreatic Cancer,7,TNFRSF11A,1084
+cell2_fullcorpus_clean,Pancreatic Cancer,8,MET,999
+cell2_fullcorpus_clean,Pancreatic Cancer,9,EGFR,992
+cell2_fullcorpus_clean,Pancreatic Cancer,10,GEM,942
+cell3_pool_dirty,Liver Cancer,1,TP53,150
+cell3_pool_dirty,Liver Cancer,2,CTNNB1,143
+cell3_pool_dirty,Liver Cancer,3,KRAS,110
+cell3_pool_dirty,Liver Cancer,4,BRAF,77
+cell3_pool_dirty,Liver Cancer,5,TERT,69
+cell3_pool_dirty,Liver Cancer,6,EGFR,62
+cell3_pool_dirty,Liver Cancer,7,PIK3CA,50
+cell3_pool_dirty,Liver Cancer,8,NRAS,44
+cell3_pool_dirty,Liver Cancer,9,APC,34
+cell3_pool_dirty,Liver Cancer,10,AFP,30
+cell4_pool_clean,Liver Cancer,1,TP53,150
+cell4_pool_clean,Liver Cancer,2,CTNNB1,143
+cell4_pool_clean,Liver Cancer,3,KRAS,110
+cell4_pool_clean,Liver Cancer,4,BRAF,77
+cell4_pool_clean,Liver Cancer,5,TERT,69
+cell4_pool_clean,Liver Cancer,6,EGFR,68
+cell4_pool_clean,Liver Cancer,7,PIK3CA,50
+cell4_pool_clean,Liver Cancer,8,NRAS,44
+cell4_pool_clean,Liver Cancer,9,APC,34
+cell4_pool_clean,Liver Cancer,10,AFP,30
+cell1_fullcorpus_dirty,Liver Cancer,1,AFP,7728
+cell1_fullcorpus_dirty,Liver Cancer,2,ALB,2993
+cell1_fullcorpus_dirty,Liver Cancer,3,NDE1,2690
+cell1_fullcorpus_dirty,Liver Cancer,4,TNFRSF11A,2446
+cell1_fullcorpus_dirty,Liver Cancer,5,SLC33A1,2260
+cell1_fullcorpus_dirty,Liver Cancer,6,MIR7-3HG,2152
+cell1_fullcorpus_dirty,Liver Cancer,7,AKT1S1,2025
+cell1_fullcorpus_dirty,Liver Cancer,8,BCL2,1984
+cell1_fullcorpus_dirty,Liver Cancer,9,PIK3CA,1918
+cell1_fullcorpus_dirty,Liver Cancer,10,CASP3,1904
+cell2_fullcorpus_clean,Liver Cancer,1,AFP,7728
+cell2_fullcorpus_clean,Liver Cancer,2,ALB,2993
+cell2_fullcorpus_clean,Liver Cancer,3,NDE1,2690
+cell2_fullcorpus_clean,Liver Cancer,4,TNFRSF11A,2446
+cell2_fullcorpus_clean,Liver Cancer,5,SLC33A1,2260
+cell2_fullcorpus_clean,Liver Cancer,6,MIR7-3HG,2152
+cell2_fullcorpus_clean,Liver Cancer,7,AKT1S1,2025
+cell2_fullcorpus_clean,Liver Cancer,8,BCL2,1984
+cell2_fullcorpus_clean,Liver Cancer,9,PIK3CA,1918
+cell2_fullcorpus_clean,Liver Cancer,10,CASP3,1904
+cell3_pool_dirty,Stomach Cancer,1,CDH1,192
+cell3_pool_dirty,Stomach Cancer,2,TP53,150
+cell3_pool_dirty,Stomach Cancer,3,PIK3CA,92
+cell3_pool_dirty,Stomach Cancer,4,KRAS,82
+cell3_pool_dirty,Stomach Cancer,5,APC,71
+cell3_pool_dirty,Stomach Cancer,6,CTNNB1,63
+cell3_pool_dirty,Stomach Cancer,7,KIT,61
+cell3_pool_dirty,Stomach Cancer,8,ERBB2,58
+cell3_pool_dirty,Stomach Cancer,9,ARID1A,54
+cell3_pool_dirty,Stomach Cancer,10,BRAF,45
+cell4_pool_clean,Stomach Cancer,1,CDH1,192
+cell4_pool_clean,Stomach Cancer,2,TP53,150
+cell4_pool_clean,Stomach Cancer,3,PIK3CA,92
+cell4_pool_clean,Stomach Cancer,4,KRAS,82
+cell4_pool_clean,Stomach Cancer,5,APC,71
+cell4_pool_clean,Stomach Cancer,6,CTNNB1,63
+cell4_pool_clean,Stomach Cancer,7,KIT,61
+cell4_pool_clean,Stomach Cancer,8,ERBB2,58
+cell4_pool_clean,Stomach Cancer,9,ARID1A,54
+cell4_pool_clean,Stomach Cancer,10,EGFR,52
+cell1_fullcorpus_dirty,Stomach Cancer,1,ERBB2,2127
+cell1_fullcorpus_dirty,Stomach Cancer,2,ESD,1416
+cell1_fullcorpus_dirty,Stomach Cancer,3,NDE1,1343
+cell1_fullcorpus_dirty,Stomach Cancer,4,PIK3CA,1265
+cell1_fullcorpus_dirty,Stomach Cancer,5,TNFRSF11A,1261
+cell1_fullcorpus_dirty,Stomach Cancer,6,BCL2,1168
+cell1_fullcorpus_dirty,Stomach Cancer,7,NODAL,1138
+cell1_fullcorpus_dirty,Stomach Cancer,8,MET,1099
+cell1_fullcorpus_dirty,Stomach Cancer,9,CD274,1011
+cell1_fullcorpus_dirty,Stomach Cancer,10,KIT,999
+cell2_fullcorpus_clean,Stomach Cancer,1,ERBB2,2127
+cell2_fullcorpus_clean,Stomach Cancer,2,EGFR,1453
+cell2_fullcorpus_clean,Stomach Cancer,3,ESD,1416
+cell2_fullcorpus_clean,Stomach Cancer,4,NDE1,1343
+cell2_fullcorpus_clean,Stomach Cancer,5,PIK3CA,1265
+cell2_fullcorpus_clean,Stomach Cancer,6,TNFRSF11A,1261
+cell2_fullcorpus_clean,Stomach Cancer,7,BCL2,1168
+cell2_fullcorpus_clean,Stomach Cancer,8,NODAL,1138
+cell2_fullcorpus_clean,Stomach Cancer,9,MET,1099
+cell2_fullcorpus_clean,Stomach Cancer,10,CD274,1011
+cell3_pool_dirty,Ovarian Cancer,1,BRCA1,585
+cell3_pool_dirty,Ovarian Cancer,2,BRCA2,466
+cell3_pool_dirty,Ovarian Cancer,3,TP53,120
+cell3_pool_dirty,Ovarian Cancer,4,KRAS,79
+cell3_pool_dirty,Ovarian Cancer,5,PIK3CA,74
+cell3_pool_dirty,Ovarian Cancer,6,PTEN,57
+cell3_pool_dirty,Ovarian Cancer,7,BRAF,53
+cell3_pool_dirty,Ovarian Cancer,8,CTNNB1,39
+cell3_pool_dirty,Ovarian Cancer,9,PARP1,38
+cell3_pool_dirty,Ovarian Cancer,10,RAD51C,36
+cell4_pool_clean,Ovarian Cancer,1,BRCA1,585
+cell4_pool_clean,Ovarian Cancer,2,BRCA2,466
+cell4_pool_clean,Ovarian Cancer,3,TP53,120
+cell4_pool_clean,Ovarian Cancer,4,KRAS,79
+cell4_pool_clean,Ovarian Cancer,5,PIK3CA,74
+cell4_pool_clean,Ovarian Cancer,6,PTEN,57
+cell4_pool_clean,Ovarian Cancer,7,BRAF,53
+cell4_pool_clean,Ovarian Cancer,8,CTNNB1,39
+cell4_pool_clean,Ovarian Cancer,9,PARP1,38
+cell4_pool_clean,Ovarian Cancer,10,RAD51C,36
+cell1_fullcorpus_dirty,Ovarian Cancer,1,BRCA1,4155
+cell1_fullcorpus_dirty,Ovarian Cancer,2,MUC16,3854
+cell1_fullcorpus_dirty,Ovarian Cancer,3,BRCA2,2568
+cell1_fullcorpus_dirty,Ovarian Cancer,4,NBR1,2029
+cell1_fullcorpus_dirty,Ovarian Cancer,5,PARP1,1774
+cell1_fullcorpus_dirty,Ovarian Cancer,6,SHE,1385
+cell1_fullcorpus_dirty,Ovarian Cancer,7,PIK3CA,1307
+cell1_fullcorpus_dirty,Ovarian Cancer,8,NDE1,1215
+cell1_fullcorpus_dirty,Ovarian Cancer,9,TNFRSF11A,1101
+cell1_fullcorpus_dirty,Ovarian Cancer,10,MET,980
+cell2_fullcorpus_clean,Ovarian Cancer,1,BRCA1,4155
+cell2_fullcorpus_clean,Ovarian Cancer,2,MUC16,3854
+cell2_fullcorpus_clean,Ovarian Cancer,3,BRCA2,2568
+cell2_fullcorpus_clean,Ovarian Cancer,4,NBR1,2029
+cell2_fullcorpus_clean,Ovarian Cancer,5,PARP1,1774
+cell2_fullcorpus_clean,Ovarian Cancer,6,SHE,1385
+cell2_fullcorpus_clean,Ovarian Cancer,7,PIK3CA,1307
+cell2_fullcorpus_clean,Ovarian Cancer,8,NDE1,1215
+cell2_fullcorpus_clean,Ovarian Cancer,9,TNFRSF11A,1101
+cell2_fullcorpus_clean,Ovarian Cancer,10,MET,980
+cell3_pool_dirty,Cervical Cancer,1,PIK3CA,138
+cell3_pool_dirty,Cervical Cancer,2,TP53,83
+cell3_pool_dirty,Cervical Cancer,3,KRAS,57
+cell3_pool_dirty,Cervical Cancer,4,PTEN,41
+cell3_pool_dirty,Cervical Cancer,5,ERBB2,38
+cell3_pool_dirty,Cervical Cancer,6,STK11,36
+cell3_pool_dirty,Cervical Cancer,7,EGFR,34
+cell3_pool_dirty,Cervical Cancer,8,MTOR,30
+cell3_pool_dirty,Cervical Cancer,9,CD274,29
+cell3_pool_dirty,Cervical Cancer,10,ARID1A,22
+cell4_pool_clean,Cervical Cancer,1,PIK3CA,138
+cell4_pool_clean,Cervical Cancer,2,TP53,83
+cell4_pool_clean,Cervical Cancer,3,KRAS,57
+cell4_pool_clean,Cervical Cancer,4,PTEN,41
+cell4_pool_clean,Cervical Cancer,5,EGFR,39
+cell4_pool_clean,Cervical Cancer,6,ERBB2,38
+cell4_pool_clean,Cervical Cancer,7,STK11,36
+cell4_pool_clean,Cervical Cancer,8,MTOR,30
+cell4_pool_clean,Cervical Cancer,9,CD274,29
+cell4_pool_clean,Cervical Cancer,10,ARID1A,22
+cell1_fullcorpus_dirty,Cervical Cancer,1,NODAL,791
+cell1_fullcorpus_dirty,Cervical Cancer,2,TNFRSF11A,786
+cell1_fullcorpus_dirty,Cervical Cancer,3,MET,781
+cell1_fullcorpus_dirty,Cervical Cancer,4,EGR3,687
+cell1_fullcorpus_dirty,Cervical Cancer,5,BCL2,669
+cell1_fullcorpus_dirty,Cervical Cancer,6,AMACR,649
+cell1_fullcorpus_dirty,Cervical Cancer,7,KIT,646
+cell1_fullcorpus_dirty,Cervical Cancer,8,CD4,625
+cell1_fullcorpus_dirty,Cervical Cancer,9,LATS1,571
+cell1_fullcorpus_dirty,Cervical Cancer,10,CASP3,540
+cell2_fullcorpus_clean,Cervical Cancer,1,NODAL,791
+cell2_fullcorpus_clean,Cervical Cancer,2,TNFRSF11A,786
+cell2_fullcorpus_clean,Cervical Cancer,3,MET,781
+cell2_fullcorpus_clean,Cervical Cancer,4,EGR3,687
+cell2_fullcorpus_clean,Cervical Cancer,5,BCL2,669
+cell2_fullcorpus_clean,Cervical Cancer,6,AMACR,649
+cell2_fullcorpus_clean,Cervical Cancer,7,KIT,646
+cell2_fullcorpus_clean,Cervical Cancer,8,CD4,625
+cell2_fullcorpus_clean,Cervical Cancer,9,LATS1,571
+cell2_fullcorpus_clean,Cervical Cancer,10,CASP3,540
+cell3_pool_dirty,Brain Cancer,1,IDH1,270
+cell3_pool_dirty,Brain Cancer,2,EGFR,185
+cell3_pool_dirty,Brain Cancer,3,TP53,144
+cell3_pool_dirty,Brain Cancer,4,BRAF,115
+cell3_pool_dirty,Brain Cancer,5,TERT,107
+cell3_pool_dirty,Brain Cancer,6,IDH2,89
+cell3_pool_dirty,Brain Cancer,7,MGMT,69
+cell3_pool_dirty,Brain Cancer,8,PTEN,55
+cell3_pool_dirty,Brain Cancer,9,ATRX,49
+cell3_pool_dirty,Brain Cancer,10,PIK3CA,44
+cell4_pool_clean,Brain Cancer,1,IDH1,270
+cell4_pool_clean,Brain Cancer,2,EGFR,188
+cell4_pool_clean,Brain Cancer,3,TP53,144
+cell4_pool_clean,Brain Cancer,4,BRAF,115
+cell4_pool_clean,Brain Cancer,5,TERT,107
+cell4_pool_clean,Brain Cancer,6,IDH2,89
+cell4_pool_clean,Brain Cancer,7,MGMT,69
+cell4_pool_clean,Brain Cancer,8,PTEN,55
+cell4_pool_clean,Brain Cancer,9,ATRX,49
+cell4_pool_clean,Brain Cancer,10,PIK3CA,44
+cell1_fullcorpus_dirty,Brain Cancer,1,EGFR,2636
+cell1_fullcorpus_dirty,Brain Cancer,2,AKT1S1,2487
+cell1_fullcorpus_dirty,Brain Cancer,3,MGMT,2214
+cell1_fullcorpus_dirty,Brain Cancer,4,PRL,1901
+cell1_fullcorpus_dirty,Brain Cancer,5,TNFRSF11A,1844
+cell1_fullcorpus_dirty,Brain Cancer,6,MKI67,1838
+cell1_fullcorpus_dirty,Brain Cancer,7,MET,1836
+cell1_fullcorpus_dirty,Brain Cancer,8,IDH1,1773
+cell1_fullcorpus_dirty,Brain Cancer,9,SHE,1519
+cell1_fullcorpus_dirty,Brain Cancer,10,C3ORF62,1516
+cell2_fullcorpus_clean,Brain Cancer,1,EGFR,3223
+cell2_fullcorpus_clean,Brain Cancer,2,AKT1S1,2487
+cell2_fullcorpus_clean,Brain Cancer,3,MGMT,2214
+cell2_fullcorpus_clean,Brain Cancer,4,PRL,1901
+cell2_fullcorpus_clean,Brain Cancer,5,TNFRSF11A,1844
+cell2_fullcorpus_clean,Brain Cancer,6,MKI67,1838
+cell2_fullcorpus_clean,Brain Cancer,7,MET,1836
+cell2_fullcorpus_clean,Brain Cancer,8,IDH1,1773
+cell2_fullcorpus_clean,Brain Cancer,9,SHE,1519
+cell2_fullcorpus_clean,Brain Cancer,10,C3ORF62,1516
+cell3_pool_dirty,Leukemia,1,FLT3,291
+cell3_pool_dirty,Leukemia,2,NPM1,189
+cell3_pool_dirty,Leukemia,3,BCR,143
+cell3_pool_dirty,Leukemia,4,DNMT3A,125
+cell3_pool_dirty,Leukemia,5,TP53,115
+cell3_pool_dirty,Leukemia,6,CEBPA,105
+cell3_pool_dirty,Leukemia,7,NRAS,101
+cell3_pool_dirty,Leukemia,8,RUNX1,100
+cell3_pool_dirty,Leukemia,9,TET2,86
+cell3_pool_dirty,Leukemia,10,IDH1,82
+cell4_pool_clean,Leukemia,1,FLT3,291
+cell4_pool_clean,Leukemia,2,NPM1,189
+cell4_pool_clean,Leukemia,3,BCR,143
+cell4_pool_clean,Leukemia,4,DNMT3A,125
+cell4_pool_clean,Leukemia,5,TP53,115
+cell4_pool_clean,Leukemia,6,CEBPA,105
+cell4_pool_clean,Leukemia,7,NRAS,101
+cell4_pool_clean,Leukemia,8,RUNX1,100
+cell4_pool_clean,Leukemia,9,TET2,86
+cell4_pool_clean,Leukemia,10,IDH1,82
+cell1_fullcorpus_dirty,Leukemia,1,BCR,7624
+cell1_fullcorpus_dirty,Leukemia,2,CD48,4287
+cell1_fullcorpus_dirty,Leukemia,3,FLT3,3943
+cell1_fullcorpus_dirty,Leukemia,4,BCL2,3641
+cell1_fullcorpus_dirty,Leukemia,5,CD34,3433
+cell1_fullcorpus_dirty,Leukemia,6,ABL1,2471
+cell1_fullcorpus_dirty,Leukemia,7,CD19,2219
+cell1_fullcorpus_dirty,Leukemia,8,TP53,2043
+cell1_fullcorpus_dirty,Leukemia,9,CD4,1955
+cell1_fullcorpus_dirty,Leukemia,10,KIT,1841
+cell2_fullcorpus_clean,Leukemia,1,BCR,7624
+cell2_fullcorpus_clean,Leukemia,2,CD48,4287
+cell2_fullcorpus_clean,Leukemia,3,FLT3,3943
+cell2_fullcorpus_clean,Leukemia,4,BCL2,3641
+cell2_fullcorpus_clean,Leukemia,5,CD34,3433
+cell2_fullcorpus_clean,Leukemia,6,ABL1,2471
+cell2_fullcorpus_clean,Leukemia,7,CD19,2219
+cell2_fullcorpus_clean,Leukemia,8,TP53,2043
+cell2_fullcorpus_clean,Leukemia,9,CD4,1955
+cell2_fullcorpus_clean,Leukemia,10,KIT,1841
+cell3_pool_dirty,Lymphoma,1,MYD88,169
+cell3_pool_dirty,Lymphoma,2,TP53,156
+cell3_pool_dirty,Lymphoma,3,BCL2,91
+cell3_pool_dirty,Lymphoma,4,MYC,91
+cell3_pool_dirty,Lymphoma,5,CD79B,68
+cell3_pool_dirty,Lymphoma,6,KMT2D,68
+cell3_pool_dirty,Lymphoma,7,EZH2,60
+cell3_pool_dirty,Lymphoma,8,BCL6,54
+cell3_pool_dirty,Lymphoma,9,TET2,54
+cell3_pool_dirty,Lymphoma,10,NODAL,51
+cell4_pool_clean,Lymphoma,1,MYD88,169
+cell4_pool_clean,Lymphoma,2,TP53,156
+cell4_pool_clean,Lymphoma,3,BCL2,91
+cell4_pool_clean,Lymphoma,4,MYC,91
+cell4_pool_clean,Lymphoma,5,CD79B,68
+cell4_pool_clean,Lymphoma,6,KMT2D,68
+cell4_pool_clean,Lymphoma,7,EZH2,60
+cell4_pool_clean,Lymphoma,8,BCL6,54
+cell4_pool_clean,Lymphoma,9,TET2,54
+cell4_pool_clean,Lymphoma,10,NODAL,51
+cell1_fullcorpus_dirty,Lymphoma,1,DDIT3,3961
+cell1_fullcorpus_dirty,Lymphoma,2,BCL2,3505
+cell1_fullcorpus_dirty,Lymphoma,3,CD4,2937
+cell1_fullcorpus_dirty,Lymphoma,4,MYC,2809
+cell1_fullcorpus_dirty,Lymphoma,5,NODAL,2592
+cell1_fullcorpus_dirty,Lymphoma,6,TNFRSF10B,2350
+cell1_fullcorpus_dirty,Lymphoma,7,CD19,1892
+cell1_fullcorpus_dirty,Lymphoma,8,TSPYL2,1600
+cell1_fullcorpus_dirty,Lymphoma,9,SHE,1479
+cell1_fullcorpus_dirty,Lymphoma,10,IGH,1406
+cell2_fullcorpus_clean,Lymphoma,1,DDIT3,3961
+cell2_fullcorpus_clean,Lymphoma,2,BCL2,3505
+cell2_fullcorpus_clean,Lymphoma,3,CD4,2937
+cell2_fullcorpus_clean,Lymphoma,4,MYC,2809
+cell2_fullcorpus_clean,Lymphoma,5,NODAL,2592
+cell2_fullcorpus_clean,Lymphoma,6,TNFRSF10B,2350
+cell2_fullcorpus_clean,Lymphoma,7,CD19,1892
+cell2_fullcorpus_clean,Lymphoma,8,TSPYL2,1600
+cell2_fullcorpus_clean,Lymphoma,9,SHE,1479
+cell2_fullcorpus_clean,Lymphoma,10,IGH,1406

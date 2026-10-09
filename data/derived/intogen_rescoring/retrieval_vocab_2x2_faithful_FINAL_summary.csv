@@ -1,0 +1,7 @@
+scope,cell,any_cancer,exact_concordance,n
+all_19_pool,cell3_pool_dirty,174/190,146/190,190
+all_19_pool,cell4_pool_clean,174/190,145/190,190
+5cancer_sample,cell1_fullcorpus_dirty,21/50,9/50,50
+5cancer_sample,cell2_fullcorpus_clean,21/50,9/50,50
+5cancer_sample,cell3_pool_dirty_matched,44/50,35/50,50
+5cancer_sample,cell4_pool_clean_matched,44/50,35/50,50

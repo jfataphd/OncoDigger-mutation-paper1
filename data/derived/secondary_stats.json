@@ -1,0 +1,122 @@
+{
+  "p10": {
+    "hits": 177,
+    "n": 190,
+    "mean": 0.9315789473684211,
+    "wilson_lo": 0.8864705098673485,
+    "wilson_hi": 0.95958172759765,
+    "median": 1.0,
+    "perfect": [
+      "Bladder Cancer",
+      "Breast Cancer",
+      "Cervical Cancer",
+      "Esophageal Cancer",
+      "Leukemia",
+      "Liver Cancer",
+      "Lung Cancer",
+      "Lymphoma",
+      "Pancreatic Cancer",
+      "Stomach Cancer",
+      "Thyroid Cancer"
+    ],
+    "per_cancer": {
+      "Bladder Cancer": 1.0,
+      "Brain Cancer": 0.9,
+      "Breast Cancer": 1.0,
+      "Cervical Cancer": 1.0,
+      "Colorectal Cancer": 0.7,
+      "Endometrial Cancer": 0.7,
+      "Esophageal Cancer": 1.0,
+      "Kidney Cancer": 0.9,
+      "Leukemia": 1.0,
+      "Liver Cancer": 1.0,
+      "Lung Cancer": 1.0,
+      "Lymphoma": 1.0,
+      "Melanoma": 0.9,
+      "Myeloma": 0.8,
+      "Ovarian Cancer": 0.9,
+      "Pancreatic Cancer": 1.0,
+      "Prostate Cancer": 0.9,
+      "Stomach Cancer": 1.0,
+      "Thyroid Cancer": 1.0
+    }
+  },
+  "rank_auc": {
+    "mean": 0.6805718699166701,
+    "min": 0.5183823529411764,
+    "max": 0.7982456140350878,
+    "per_cancer": {
+      "Bladder Cancer": 0.7738927738927739,
+      "Brain Cancer": 0.5183823529411764,
+      "Breast Cancer": 0.6423611111111112,
+      "Cervical Cancer": 0.6611295681063123,
+      "Colorectal Cancer": 0.5772058823529411,
+      "Endometrial Cancer": 0.6361746361746361,
+      "Esophageal Cancer": 0.7982456140350878,
+      "Kidney Cancer": 0.71875,
+      "Leukemia": 0.7282608695652174,
+      "Liver Cancer": 0.7006237006237006,
+      "Lung Cancer": 0.6838095238095239,
+      "Lymphoma": 0.760797342192691,
+      "Melanoma": 0.7609649122807017,
+      "Myeloma": 0.6247619047619047,
+      "Ovarian Cancer": 0.6042780748663101,
+      "Pancreatic Cancer": 0.6590476190476191,
+      "Prostate Cancer": 0.6383701188455009,
+      "Stomach Cancer": 0.780952380952381,
+      "Thyroid Cancer": 0.6628571428571428
+    }
+  },
+  "rank_spearman": {
+    "rho_min_abs": 0.029710368957417965,
+    "rho_max_abs": 0.44608730453532613,
+    "all_negative": true,
+    "n_negative": 19,
+    "bonferroni_sig": [
+      [
+        "Esophageal Cancer",
+        0.025378984747262356
+      ],
+      [
+        "Stomach Cancer",
+        0.02216847889042269
+      ]
+    ]
+  },
+  "tiers": {
+    "established": {
+      "hits": 177,
+      "n": 190,
+      "rate": 0.9315789473684211
+    },
+    "emerging": {
+      "hits": 145,
+      "n": 190,
+      "rate": 0.7631578947368421
+    },
+    "discovery": {
+      "hits": 134,
+      "n": 190,
+      "rate": 0.7052631578947368
+    },
+    "extended": {
+      "hits": 238,
+      "n": 380,
+      "rate": 0.6263157894736842
+    }
+  },
+  "top10_pairwise_jaccard_mean": 0.1885139460366227,
+  "corpus_size": {
+    "spearman_rho": 0.17582787637108663,
+    "perm_p": 0.4719,
+    "kendall_tau_b": 0.14179499323255426,
+    "kendall_p": 0.45061620968373794,
+    "min_p10": 0.7,
+    "cancers_min_p10": [
+      "Colorectal Cancer",
+      "Endometrial Cancer"
+    ],
+    "coverage_min": 0.003999024238085907,
+    "coverage_max": 0.045291906336337694
+  }
+}

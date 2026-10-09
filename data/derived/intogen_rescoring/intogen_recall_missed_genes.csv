@@ -1,0 +1,987 @@
+cancer,gene
+Bladder Cancer,AKAP9
+Bladder Cancer,ARHGAP35
+Bladder Cancer,ARHGAP5
+Bladder Cancer,ARHGEF10
+Bladder Cancer,ASXL1
+Bladder Cancer,ASXL2
+Bladder Cancer,ATR
+Bladder Cancer,BIRC6
+Bladder Cancer,BRD4
+Bladder Cancer,CHD2
+Bladder Cancer,CLTC
+Bladder Cancer,CSMD3
+Bladder Cancer,CYLD
+Bladder Cancer,DDB2
+Bladder Cancer,ERBB4
+Bladder Cancer,ETV6
+Bladder Cancer,FBLN2
+Bladder Cancer,FLT4
+Bladder Cancer,GNA13
+Bladder Cancer,GPAA1
+Bladder Cancer,GRIN2A
+Bladder Cancer,H3C2
+Bladder Cancer,HIP1
+Bladder Cancer,HLA-A
+Bladder Cancer,HSPG2
+Bladder Cancer,IDH2
+Bladder Cancer,IRS4
+Bladder Cancer,KAT7
+Bladder Cancer,KLF5
+Bladder Cancer,KMT2A
+Bladder Cancer,LRIG3
+Bladder Cancer,MB21D2
+Bladder Cancer,MEN1
+Bladder Cancer,MLLT6
+Bladder Cancer,MYH9
+Bladder Cancer,N4BP2
+Bladder Cancer,NACA
+Bladder Cancer,NOTCH1
+Bladder Cancer,NOTCH2
+Bladder Cancer,NSD1
+Bladder Cancer,NSD2
+Bladder Cancer,PABPC1
+Bladder Cancer,PIK3CB
+Bladder Cancer,PREX2
+Bladder Cancer,PSIP1
+Bladder Cancer,PTPN13
+Bladder Cancer,PTPRK
+Bladder Cancer,RAP1B
+Bladder Cancer,RBM10
+Bladder Cancer,RHOA
+Bladder Cancer,RNF213
+Bladder Cancer,SETD1B
+Bladder Cancer,SF3B1
+Bladder Cancer,SNX29
+Bladder Cancer,TAF15
+Bladder Cancer,TP63
+Bladder Cancer,TRIP11
+Bladder Cancer,TRRAP
+Bladder Cancer,ZFHX3
+Bladder Cancer,ZFP36L1
+Bladder Cancer,ZNF429
+Brain Cancer,ACSM3
+Brain Cancer,AR
+Brain Cancer,ARID1B
+Brain Cancer,ARID2
+Brain Cancer,AXIN1
+Brain Cancer,BCL11B
+Brain Cancer,BCORL1
+Brain Cancer,CCAR1
+Brain Cancer,CDKN2C
+Brain Cancer,CHD7
+Brain Cancer,CHRDL1
+Brain Cancer,COL1A1
+Brain Cancer,CSMD3
+Brain Cancer,CUX1
+Brain Cancer,DCAF12L2
+Brain Cancer,DDX6
+Brain Cancer,DNMT3A
+Brain Cancer,ELF4
+Brain Cancer,EP300
+Brain Cancer,EWSR1
+Brain Cancer,FAM174B
+Brain Cancer,FAT1
+Brain Cancer,FAT4
+Brain Cancer,FBXW7
+Brain Cancer,FOXO3
+Brain Cancer,H3-3A
+Brain Cancer,HIP1
+Brain Cancer,KAT6B
+Brain Cancer,KDM3B
+Brain Cancer,KNL1
+Brain Cancer,LATS2
+Brain Cancer,LDB1
+Brain Cancer,LRP1B
+Brain Cancer,LZTR1
+Brain Cancer,MAP3K1
+Brain Cancer,MAX
+Brain Cancer,MED12
+Brain Cancer,MYH11
+Brain Cancer,NCOR1
+Brain Cancer,NCOR2
+Brain Cancer,NIPBL
+Brain Cancer,NKX2-1
+Brain Cancer,NSD1
+Brain Cancer,NTRK2
+Brain Cancer,NVL
+Brain Cancer,PCM1
+Brain Cancer,PIK3CB
+Brain Cancer,PLCG1
+Brain Cancer,POT1
+Brain Cancer,QKI
+Brain Cancer,RAD50
+Brain Cancer,RNF213
+Brain Cancer,RPL5
+Brain Cancer,RUNX1
+Brain Cancer,RUNX1T1
+Brain Cancer,SIRPA
+Brain Cancer,TAL2
+Brain Cancer,TCF12
+Brain Cancer,TCF4
+Brain Cancer,TET1
+Brain Cancer,TPR
+Brain Cancer,TRIM33
+Brain Cancer,UBXN11
+Brain Cancer,WAS
+Brain Cancer,ZBTB20
+Brain Cancer,ZEB1
+Brain Cancer,ZMYM3
+Brain Cancer,ZNF274
+Breast Cancer,ABL2
+Breast Cancer,ACVR1B
+Breast Cancer,AFDN
+Breast Cancer,AKAP9
+Breast Cancer,ALK
+Breast Cancer,ARHGAP35
+Breast Cancer,ARHGEF12
+Breast Cancer,ARID1A
+Breast Cancer,ARID1B
+Breast Cancer,ASXL1
+Breast Cancer,ATP1A1
+Breast Cancer,ATP2B3
+Breast Cancer,BIRC6
+Breast Cancer,CACNA1D
+Breast Cancer,CASP8
+Breast Cancer,CBFB
+Breast Cancer,CD209
+Breast Cancer,CDKN1B
+Breast Cancer,CLTC
+Breast Cancer,CREBBP
+Breast Cancer,CSF1R
+Breast Cancer,CSMD3
+Breast Cancer,CSPG4
+Breast Cancer,CTCF
+Breast Cancer,CUX1
+Breast Cancer,CYLD
+Breast Cancer,DDX3X
+Breast Cancer,DNMT3A
+Breast Cancer,EIF4A2
+Breast Cancer,ELN
+Breast Cancer,EPHA3
+Breast Cancer,ERBB4
+Breast Cancer,ETV1
+Breast Cancer,FAT3
+Breast Cancer,FAT4
+Breast Cancer,FOXA1
+Breast Cancer,FOXP1
+Breast Cancer,FUBP1
+Breast Cancer,H3C2
+Breast Cancer,HOXC13
+Breast Cancer,HSP90AA1
+Breast Cancer,JAK1
+Breast Cancer,KAT6B
+Breast Cancer,KDM6A
+Breast Cancer,KLF4
+Breast Cancer,KMT2D
+Breast Cancer,KMT5A
+Breast Cancer,LATS1
+Breast Cancer,LRP1B
+Breast Cancer,MAX
+Breast Cancer,MECOM
+Breast Cancer,MED23
+Breast Cancer,MEN1
+Breast Cancer,MYH11
+Breast Cancer,MYH9
+Breast Cancer,MYO5A
+Breast Cancer,NBEA
+Breast Cancer,NCOR1
+Breast Cancer,NCOR2
+Breast Cancer,NTRK1
+Breast Cancer,NUMA1
+Breast Cancer,PLAG1
+Breast Cancer,POLD1
+Breast Cancer,PPM1D
+Breast Cancer,PREX2
+Breast Cancer,PTPRD
+Breast Cancer,RGS7
+Breast Cancer,RHPN2
+Breast Cancer,RUNX1
+Breast Cancer,SETDB1
+Breast Cancer,SF3B1
+Breast Cancer,SMARCD1
+Breast Cancer,SPEN
+Breast Cancer,TBL1XR1
+Breast Cancer,TBX3
+Breast Cancer,TSC1
+Breast Cancer,UBR5
+Breast Cancer,USP6
+Breast Cancer,ZFHX3
+Breast Cancer,ZMYM3
+Breast Cancer,ZXDB
+Cervical Cancer,B2M
+Cervical Cancer,CDK12
+Cervical Cancer,CLIP1
+Cervical Cancer,CTNNA1
+Cervical Cancer,CYSLTR2
+Cervical Cancer,EIF3E
+Cervical Cancer,ERCC3
+Cervical Cancer,KLF5
+Cervical Cancer,MAP3K1
+Cervical Cancer,MCM7
+Cervical Cancer,MED12
+Cervical Cancer,NBEA
+Cervical Cancer,NF2
+Cervical Cancer,NSD1
+Cervical Cancer,SIRPA
+Cervical Cancer,SND1
+Cervical Cancer,TGFBR2
+Cervical Cancer,TP63
+Cervical Cancer,ZNF521
+Colorectal Cancer,ACVR1B
+Colorectal Cancer,ACVR2A
+Colorectal Cancer,AFDN
+Colorectal Cancer,AMER1
+Colorectal Cancer,ANK1
+Colorectal Cancer,AR
+Colorectal Cancer,ARID1B
+Colorectal Cancer,ASXL1
+Colorectal Cancer,BCL9
+Colorectal Cancer,BCL9L
+Colorectal Cancer,BCOR
+Colorectal Cancer,BCORL1
+Colorectal Cancer,BIRC6
+Colorectal Cancer,CARD11
+Colorectal Cancer,CDH11
+Colorectal Cancer,CEP89
+Colorectal Cancer,CHD4
+Colorectal Cancer,CSMD3
+Colorectal Cancer,CTNNA1
+Colorectal Cancer,CYLD
+Colorectal Cancer,DCAF12L2
+Colorectal Cancer,DICER1
+Colorectal Cancer,DUSP16
+Colorectal Cancer,ELF3
+Colorectal Cancer,EP300
+Colorectal Cancer,EPHA7
+Colorectal Cancer,ERBB3
+Colorectal Cancer,ETV1
+Colorectal Cancer,GRIN2A
+Colorectal Cancer,HLA-A
+Colorectal Cancer,ING1
+Colorectal Cancer,MAP2K4
+Colorectal Cancer,MAP3K1
+Colorectal Cancer,MYH9
+Colorectal Cancer,NBEA
+Colorectal Cancer,NCOR2
+Colorectal Cancer,NFATC2
+Colorectal Cancer,NIN
+Colorectal Cancer,NOTCH1
+Colorectal Cancer,PARP4
+Colorectal Cancer,PBRM1
+Colorectal Cancer,PCBP1
+Colorectal Cancer,PIK3R1
+Colorectal Cancer,PPP2R1A
+Colorectal Cancer,PREX2
+Colorectal Cancer,PRKD1
+Colorectal Cancer,RBM10
+Colorectal Cancer,RNF6
+Colorectal Cancer,ROBO2
+Colorectal Cancer,RRN3
+Colorectal Cancer,RSPO2
+Colorectal Cancer,SETDB1
+Colorectal Cancer,SIRPA
+Colorectal Cancer,SLC34A2
+Colorectal Cancer,SMARCA4
+Colorectal Cancer,TAF1L
+Colorectal Cancer,TBX3
+Colorectal Cancer,TET1
+Colorectal Cancer,TGIF1
+Colorectal Cancer,TSC1
+Colorectal Cancer,TSHR
+Colorectal Cancer,USP6
+Endometrial Cancer,ABL1
+Endometrial Cancer,ABL2
+Endometrial Cancer,ACVR1
+Endometrial Cancer,ACVR2A
+Endometrial Cancer,AKAP9
+Endometrial Cancer,ATF7IP
+Endometrial Cancer,BCLAF1
+Endometrial Cancer,BIRC6
+Endometrial Cancer,CDC73
+Endometrial Cancer,CDH10
+Endometrial Cancer,EIF1AX
+Endometrial Cancer,FAM135B
+Endometrial Cancer,FLT4
+Endometrial Cancer,HIP1
+Endometrial Cancer,ING1
+Endometrial Cancer,INPPL1
+Endometrial Cancer,KMT2C
+Endometrial Cancer,LSM14A
+Endometrial Cancer,LZTR1
+Endometrial Cancer,MAP3K1
+Endometrial Cancer,MECOM
+Endometrial Cancer,MYCN
+Endometrial Cancer,NCKIPSD
+Endometrial Cancer,NSD1
+Endometrial Cancer,PBRM1
+Endometrial Cancer,PDGFRB
+Endometrial Cancer,POLQ
+Endometrial Cancer,PTPN13
+Endometrial Cancer,RBM39
+Endometrial Cancer,RNF213
+Endometrial Cancer,ROBO2
+Endometrial Cancer,RRAS2
+Endometrial Cancer,SETDB1
+Endometrial Cancer,SOS1
+Endometrial Cancer,SOX17
+Endometrial Cancer,STAG2
+Endometrial Cancer,U2AF1
+Endometrial Cancer,WNT1
+Endometrial Cancer,ZBTB7B
+Esophageal Cancer,AKAP9
+Esophageal Cancer,ARID2
+Esophageal Cancer,ASXL1
+Esophageal Cancer,CANT1
+Esophageal Cancer,CBL
+Esophageal Cancer,CLIP1
+Esophageal Cancer,CTNND2
+Esophageal Cancer,EPHA3
+Esophageal Cancer,GRM3
+Esophageal Cancer,H3C2
+Esophageal Cancer,HLA-A
+Esophageal Cancer,HLA-B
+Esophageal Cancer,IL7R
+Esophageal Cancer,KAT6A
+Esophageal Cancer,KMT2A
+Esophageal Cancer,MAP2K4
+Esophageal Cancer,MSN
+Esophageal Cancer,MYH9
+Esophageal Cancer,NBEA
+Esophageal Cancer,NCOA2
+Esophageal Cancer,NCOR2
+Esophageal Cancer,NRG1
+Esophageal Cancer,NSD1
+Esophageal Cancer,NTRK3
+Esophageal Cancer,NUMA1
+Esophageal Cancer,NUTM1
+Esophageal Cancer,POLD1
+Esophageal Cancer,PREX2
+Esophageal Cancer,PTPRT
+Esophageal Cancer,RAP1GDS1
+Esophageal Cancer,RNF213
+Esophageal Cancer,RNF43
+Esophageal Cancer,ROBO2
+Esophageal Cancer,SETD1B
+Esophageal Cancer,TEC
+Esophageal Cancer,TGFBR1
+Esophageal Cancer,ZBTB16
+Esophageal Cancer,ZNF208
+Esophageal Cancer,ZNF521
+Kidney Cancer,AKAP9
+Kidney Cancer,AMER1
+Kidney Cancer,ARHGAP35
+Kidney Cancer,ARHGEF10L
+Kidney Cancer,ARHGEF12
+Kidney Cancer,ARID1B
+Kidney Cancer,ARID2
+Kidney Cancer,ATG7
+Kidney Cancer,BIRC6
+Kidney Cancer,BRD4
+Kidney Cancer,CACNA1D
+Kidney Cancer,CDK12
+Kidney Cancer,CHD2
+Kidney Cancer,CHD4
+Kidney Cancer,CLTC
+Kidney Cancer,CREBBP
+Kidney Cancer,CYLD
+Kidney Cancer,DNMT3A
+Kidney Cancer,ERBB4
+Kidney Cancer,FAT1
+Kidney Cancer,FAT3
+Kidney Cancer,FLT4
+Kidney Cancer,GRM3
+Kidney Cancer,LRP1B
+Kidney Cancer,MAP3K1
+Kidney Cancer,MLLT1
+Kidney Cancer,MSN
+Kidney Cancer,NRG1
+Kidney Cancer,NUP214
+Kidney Cancer,PCBP1
+Kidney Cancer,PLCG1
+Kidney Cancer,PRDM2
+Kidney Cancer,PTPRK
+Kidney Cancer,RANBP2
+Kidney Cancer,RAP1GDS1
+Kidney Cancer,RNF213
+Kidney Cancer,ROBO2
+Kidney Cancer,SGK1
+Kidney Cancer,SPEN
+Kidney Cancer,STAG2
+Kidney Cancer,TET1
+Kidney Cancer,TGFBR2
+Kidney Cancer,TRRAP
+Kidney Cancer,UBR5
+Leukemia,ACSL3
+Leukemia,APC
+Leukemia,ARHGAP35
+Leukemia,ARID1A
+Leukemia,ATRX
+Leukemia,BCLAF1
+Leukemia,BTG1
+Leukemia,BTG2
+Leukemia,CCND2
+Leukemia,CCNT1
+Leukemia,CHD2
+Leukemia,CHD4
+Leukemia,CNOT3
+Leukemia,DDB2
+Leukemia,DTX1
+Leukemia,EGR2
+Leukemia,ELF4
+Leukemia,ETV5
+Leukemia,FAT3
+Leukemia,FGD5
+Leukemia,FLG
+Leukemia,FOXO3
+Leukemia,FUBP1
+Leukemia,GATA3
+Leukemia,H4C9
+Leukemia,HCAR3
+Leukemia,HLA-A
+Leukemia,IRF4
+Leukemia,KLF4
+Leukemia,KMT2C
+Leukemia,LRP1B
+Leukemia,LYN
+Leukemia,MAML2
+Leukemia,MAPK1
+Leukemia,MGA
+Leukemia,MUC6
+Leukemia,NCAPH
+Leukemia,NCOR1
+Leukemia,NFKBIE
+Leukemia,NKTR
+Leukemia,NT5C3A
+Leukemia,NTRK2
+Leukemia,NXF1
+Leukemia,PCMTD1
+Leukemia,PRDM1
+Leukemia,PTK6
+Leukemia,RIPK1
+Leukemia,ROBO2
+Leukemia,SALL4
+Leukemia,SETDB1
+Leukemia,SIRPA
+Leukemia,SLC34A2
+Leukemia,TBL1XR1
+Leukemia,THRAP3
+Leukemia,TNC
+Leukemia,U2AF2
+Leukemia,UBR5
+Leukemia,USP6
+Leukemia,ZCRB1
+Leukemia,ZMYM3
+Liver Cancer,ACVR2A
+Liver Cancer,AFF4
+Liver Cancer,AKAP9
+Liver Cancer,ANK1
+Liver Cancer,ARAF
+Liver Cancer,ASXL1
+Liver Cancer,BCOR
+Liver Cancer,BIRC6
+Liver Cancer,BRD7
+Liver Cancer,CACNA1D
+Liver Cancer,CARD11
+Liver Cancer,CDH11
+Liver Cancer,CDKN1B
+Liver Cancer,CIC
+Liver Cancer,CLTC
+Liver Cancer,CLTCL1
+Liver Cancer,CSMD3
+Liver Cancer,CTNNA2
+Liver Cancer,DCC
+Liver Cancer,DDR2
+Liver Cancer,DHX9
+Liver Cancer,DNMT3A
+Liver Cancer,ELF3
+Liver Cancer,EP300
+Liver Cancer,EPHA2
+Liver Cancer,EPHA7
+Liver Cancer,ERBB3
+Liver Cancer,ERBB4
+Liver Cancer,FAT3
+Liver Cancer,FBLN2
+Liver Cancer,FLT4
+Liver Cancer,FUS
+Liver Cancer,GMPS
+Liver Cancer,GPC5
+Liver Cancer,GRIN2A
+Liver Cancer,HNRNPA2B1
+Liver Cancer,IKZF3
+Liver Cancer,IL7R
+Liver Cancer,KDM6A
+Liver Cancer,KLF4
+Liver Cancer,KMT2A
+Liver Cancer,KNL1
+Liver Cancer,LEF1
+Liver Cancer,LZTR1
+Liver Cancer,MAP2K4
+Liver Cancer,MAP3K1
+Liver Cancer,MAPK1
+Liver Cancer,MUC6
+Liver Cancer,MYH11
+Liver Cancer,MYO5A
+Liver Cancer,N4BP2
+Liver Cancer,NBEA
+Liver Cancer,NCOR1
+Liver Cancer,NCOR2
+Liver Cancer,NPM1
+Liver Cancer,PABPC1
+Liver Cancer,PIK3R1
+Liver Cancer,PMS2
+Liver Cancer,PRDM2
+Liver Cancer,PREX2
+Liver Cancer,PRKD1
+Liver Cancer,PTCH1
+Liver Cancer,PTPRC
+Liver Cancer,PTPRT
+Liver Cancer,RANBP2
+Liver Cancer,RBM10
+Liver Cancer,RGPD3
+Liver Cancer,RNF213
+Liver Cancer,RNF43
+Liver Cancer,ROBO2
+Liver Cancer,RPL22
+Liver Cancer,RUNX1T1
+Liver Cancer,SDHA
+Liver Cancer,SETD2
+Liver Cancer,SETDB1
+Liver Cancer,TAL1
+Liver Cancer,TET1
+Liver Cancer,TFG
+Liver Cancer,TOP1
+Liver Cancer,TPR
+Liver Cancer,TRRAP
+Liver Cancer,U2AF1
+Liver Cancer,USP6
+Liver Cancer,USP8
+Liver Cancer,USP9X
+Liver Cancer,WNK2
+Liver Cancer,ZFHX3
+Liver Cancer,ZNF429
+Liver Cancer,ZNF521
+Lung Cancer,ACVR1B
+Lung Cancer,AFF3
+Lung Cancer,ANK1
+Lung Cancer,AR
+Lung Cancer,ARAF
+Lung Cancer,ARHGAP35
+Lung Cancer,ARHGEF10
+Lung Cancer,ARID2
+Lung Cancer,ARNT
+Lung Cancer,ATF7IP
+Lung Cancer,B2M
+Lung Cancer,BAZ1A
+Lung Cancer,BCOR
+Lung Cancer,BCR
+Lung Cancer,BIRC3
+Lung Cancer,BIRC6
+Lung Cancer,CBLB
+Lung Cancer,CD209
+Lung Cancer,CDH10
+Lung Cancer,CDH11
+Lung Cancer,CIC
+Lung Cancer,CMTR2
+Lung Cancer,CREBBP
+Lung Cancer,CRLF2
+Lung Cancer,CTNNA2
+Lung Cancer,CTNND2
+Lung Cancer,CUX1
+Lung Cancer,CYLD
+Lung Cancer,DCAF12L2
+Lung Cancer,DROSHA
+Lung Cancer,EBF1
+Lung Cancer,EP300
+Lung Cancer,EPHA7
+Lung Cancer,ESR1
+Lung Cancer,FAM135B
+Lung Cancer,FAT3
+Lung Cancer,FAT4
+Lung Cancer,FBXW7
+Lung Cancer,FGFR2
+Lung Cancer,FLCN
+Lung Cancer,FLT4
+Lung Cancer,FOXO1
+Lung Cancer,GNAQ
+Lung Cancer,GNAS
+Lung Cancer,HGF
+Lung Cancer,HLA-A
+Lung Cancer,KDM5C
+Lung Cancer,KDM6A
+Lung Cancer,KLF5
+Lung Cancer,LATS2
+Lung Cancer,LIFR
+Lung Cancer,MACC1
+Lung Cancer,MAML2
+Lung Cancer,MB21D2
+Lung Cancer,MGA
+Lung Cancer,MUC6
+Lung Cancer,MYH9
+Lung Cancer,NBEA
+Lung Cancer,NCOA2
+Lung Cancer,NCOR1
+Lung Cancer,NFKBIE
+Lung Cancer,NIPBL
+Lung Cancer,NOTCH2
+Lung Cancer,NRK
+Lung Cancer,NSD1
+Lung Cancer,NSD3
+Lung Cancer,NUP98
+Lung Cancer,PABPC1
+Lung Cancer,PARP4
+Lung Cancer,PBRM1
+Lung Cancer,PER3
+Lung Cancer,PHF6
+Lung Cancer,PIK3R1
+Lung Cancer,POLQ
+Lung Cancer,PPM1D
+Lung Cancer,PPP2R1A
+Lung Cancer,PSPC1
+Lung Cancer,PTPRK
+Lung Cancer,RAD21
+Lung Cancer,RANBP2
+Lung Cancer,RBM15
+Lung Cancer,RGPD3
+Lung Cancer,RGS7
+Lung Cancer,RHPN2
+Lung Cancer,RNF213
+Lung Cancer,RNF43
+Lung Cancer,RPL5
+Lung Cancer,RUNX1T1
+Lung Cancer,SETD1B
+Lung Cancer,SLC34A2
+Lung Cancer,SMAD4
+Lung Cancer,SPEN
+Lung Cancer,STAG2
+Lung Cancer,SUSD2
+Lung Cancer,TFRC
+Lung Cancer,TNC
+Lung Cancer,TRRAP
+Lung Cancer,TSC1
+Lung Cancer,TSC2
+Lung Cancer,U2AF1
+Lung Cancer,USP6
+Lung Cancer,USP8
+Lung Cancer,VAV1
+Lung Cancer,ZEB1
+Lung Cancer,ZMYM3
+Lung Cancer,ZNF395
+Lung Cancer,ZNF521
+Lung Cancer,ZNF750
+Lymphoma,ANKRD11
+Lymphoma,BCL11A
+Lymphoma,CASP8
+Lymphoma,CCR7
+Lymphoma,CDK12
+Lymphoma,CDKN2C
+Lymphoma,DGCR8
+Lymphoma,DOT1L
+Lymphoma,FAT3
+Lymphoma,FCGR2B
+Lymphoma,FHIT
+Lymphoma,GNAI2
+Lymphoma,H3C2
+Lymphoma,HLA-A
+Lymphoma,HLA-C
+Lymphoma,IKZF3
+Lymphoma,NCOR1
+Lymphoma,NFKB2
+Lymphoma,NSD1
+Lymphoma,PABPC1
+Lymphoma,PCBP1
+Lymphoma,PHF6
+Lymphoma,PREX2
+Lymphoma,PRKCB
+Lymphoma,PRKCD
+Lymphoma,PTPRC
+Lymphoma,RASA2
+Lymphoma,RBM38
+Lymphoma,ROBO2
+Lymphoma,RPL10
+Lymphoma,SIN3A
+Lymphoma,SIRPA
+Lymphoma,SPOP
+Lymphoma,TBX3
+Lymphoma,TFAP4
+Lymphoma,TMSB4X
+Lymphoma,TNC
+Lymphoma,USP7
+Lymphoma,ZFHX3
+Lymphoma,ZFP36L1
+Melanoma,AFF1
+Melanoma,AKAP9
+Melanoma,ATR
+Melanoma,B2M
+Melanoma,BCLAF1
+Melanoma,BRD7
+Melanoma,CADM2
+Melanoma,CDK12
+Melanoma,CNOT9
+Melanoma,COL1A1
+Melanoma,COL6A3
+Melanoma,CSMD3
+Melanoma,CTNNA2
+Melanoma,CTNND2
+Melanoma,CUX1
+Melanoma,CYP2C8
+Melanoma,DDX3X
+Melanoma,DICER1
+Melanoma,ELL
+Melanoma,ERCC3
+Melanoma,ESR1
+Melanoma,FAT1
+Melanoma,FAT3
+Melanoma,GRM3
+Melanoma,HSP90AB1
+Melanoma,IKZF1
+Melanoma,KLF6
+Melanoma,KMT2D
+Melanoma,LIFR
+Melanoma,MDGA2
+Melanoma,MECOM
+Melanoma,MLLT3
+Melanoma,MYH11
+Melanoma,NACA
+Melanoma,NBEA
+Melanoma,NF2
+Melanoma,NSD1
+Melanoma,PDCD1LG2
+Melanoma,PLAG1
+Melanoma,PLXNC1
+Melanoma,POLQ
+Melanoma,PPP2R1A
+Melanoma,PTPN6
+Melanoma,PTPRB
+Melanoma,PTPRC
+Melanoma,QKI
+Melanoma,RGPD3
+Melanoma,RGS7
+Melanoma,RHOA
+Melanoma,ROBO2
+Melanoma,RPL5
+Melanoma,RUNX1T1
+Melanoma,SETD2
+Melanoma,TP63
+Melanoma,TRRAP
+Melanoma,UBR5
+Melanoma,WT1
+Myeloma,ADAMTS9
+Myeloma,AR
+Myeloma,ARHGAP5
+Myeloma,BTG1
+Myeloma,COL1A1
+Myeloma,EFTUD2
+Myeloma,IKBKB
+Myeloma,IRAK1
+Myeloma,KDM5C
+Myeloma,MAP3K1
+Myeloma,PABPC1
+Myeloma,PARP4
+Myeloma,PIM1
+Myeloma,PRDM16
+Myeloma,RPL10
+Myeloma,RPS3A
+Myeloma,SAMHD1
+Myeloma,USP7
+Myeloma,USP8
+Myeloma,ZEB1
+Myeloma,ZFHX3
+Ovarian Cancer,ACKR3
+Ovarian Cancer,ARHGAP35
+Ovarian Cancer,ARID2
+Ovarian Cancer,CARD11
+Ovarian Cancer,CREBBP
+Ovarian Cancer,CTNND2
+Ovarian Cancer,ELL
+Ovarian Cancer,FAT1
+Ovarian Cancer,FGFR1
+Ovarian Cancer,GPC5
+Ovarian Cancer,JAK1
+Ovarian Cancer,KDM5C
+Ovarian Cancer,KMT2A
+Ovarian Cancer,KMT2C
+Ovarian Cancer,LATS1
+Ovarian Cancer,LRP1B
+Ovarian Cancer,MYH9
+Ovarian Cancer,NBEA
+Ovarian Cancer,NF2
+Ovarian Cancer,NOTCH1
+Ovarian Cancer,NUTM1
+Ovarian Cancer,PREX2
+Ovarian Cancer,PTPRB
+Ovarian Cancer,PTPRD
+Ovarian Cancer,PTPRT
+Ovarian Cancer,ROS1
+Ovarian Cancer,SETD1B
+Ovarian Cancer,STAT5B
+Ovarian Cancer,TNC
+Ovarian Cancer,WWTR1
+Ovarian Cancer,ZNF521
+Pancreatic Cancer,ACVR2A
+Pancreatic Cancer,ALPK1
+Pancreatic Cancer,ARHGAP5
+Pancreatic Cancer,ARID1B
+Pancreatic Cancer,ARID2
+Pancreatic Cancer,BCOR
+Pancreatic Cancer,BCORL1
+Pancreatic Cancer,CDH10
+Pancreatic Cancer,COL1A1
+Pancreatic Cancer,COL6A6
+Pancreatic Cancer,CSMD3
+Pancreatic Cancer,CTNNA2
+Pancreatic Cancer,CTNND2
+Pancreatic Cancer,CUX1
+Pancreatic Cancer,CXCR4
+Pancreatic Cancer,DROSHA
+Pancreatic Cancer,FAM135B
+Pancreatic Cancer,FAT3
+Pancreatic Cancer,FBLN2
+Pancreatic Cancer,FCRL4
+Pancreatic Cancer,FMN2
+Pancreatic Cancer,IRS4
+Pancreatic Cancer,KDM5C
+Pancreatic Cancer,KMT2A
+Pancreatic Cancer,LATS1
+Pancreatic Cancer,LPA
+Pancreatic Cancer,LRP1B
+Pancreatic Cancer,MAP2K4
+Pancreatic Cancer,MARK2
+Pancreatic Cancer,NCOA1
+Pancreatic Cancer,NF2
+Pancreatic Cancer,NFATC2
+Pancreatic Cancer,PEG3
+Pancreatic Cancer,PTPN3
+Pancreatic Cancer,PTPRD
+Pancreatic Cancer,PTPRT
+Pancreatic Cancer,SETD1B
+Pancreatic Cancer,SETD2
+Pancreatic Cancer,SETDB1
+Pancreatic Cancer,SMARCA4
+Pancreatic Cancer,U2AF1
+Pancreatic Cancer,WT1
+Pancreatic Cancer,ZNF521
+Prostate Cancer,ACVR2A
+Prostate Cancer,ANK1
+Prostate Cancer,ARID1A
+Prostate Cancer,ARID1B
+Prostate Cancer,BCLAF1
+Prostate Cancer,BMP6
+Prostate Cancer,BRD4
+Prostate Cancer,CAMTA1
+Prostate Cancer,CASZ1
+Prostate Cancer,CLTCL1
+Prostate Cancer,CNOT3
+Prostate Cancer,CSMD3
+Prostate Cancer,CTNNA2
+Prostate Cancer,DCAF12L2
+Prostate Cancer,DCC
+Prostate Cancer,EIF1AX
+Prostate Cancer,EPHA3
+Prostate Cancer,EPS15
+Prostate Cancer,ERBB3
+Prostate Cancer,ERBB4
+Prostate Cancer,FAM174B
+Prostate Cancer,FAT1
+Prostate Cancer,FAT3
+Prostate Cancer,FAT4
+Prostate Cancer,FBLN2
+Prostate Cancer,FGD1
+Prostate Cancer,FOXP1
+Prostate Cancer,HRAS
+Prostate Cancer,IL6ST
+Prostate Cancer,KAT6B
+Prostate Cancer,LRP1B
+Prostate Cancer,LZTR1
+Prostate Cancer,MECOM
+Prostate Cancer,MGA
+Prostate Cancer,MYEOV
+Prostate Cancer,MYH11
+Prostate Cancer,NCOR1
+Prostate Cancer,NCOR2
+Prostate Cancer,NOTCH2
+Prostate Cancer,PAX5
+Prostate Cancer,PIK3CB
+Prostate Cancer,PREX2
+Prostate Cancer,PRKCB
+Prostate Cancer,PRKD1
+Prostate Cancer,RBFOX1
+Prostate Cancer,RHOA
+Prostate Cancer,RNF213
+Prostate Cancer,ROBO2
+Prostate Cancer,ROS1
+Prostate Cancer,RUNX1T1
+Prostate Cancer,SF3B1
+Prostate Cancer,SMAD4
+Prostate Cancer,SOX21
+Prostate Cancer,SPEN
+Prostate Cancer,SUZ12
+Prostate Cancer,TFRC
+Prostate Cancer,U2AF1
+Prostate Cancer,USP6
+Prostate Cancer,USP9X
+Prostate Cancer,ZBTB16
+Prostate Cancer,ZMYM2
+Prostate Cancer,ZMYM3
+Prostate Cancer,ZNF429
+Stomach Cancer,ACVR2A
+Stomach Cancer,AR
+Stomach Cancer,ARID1B
+Stomach Cancer,BAP1
+Stomach Cancer,BCL9
+Stomach Cancer,BCLAF1
+Stomach Cancer,CACNA1D
+Stomach Cancer,CD209
+Stomach Cancer,CDH11
+Stomach Cancer,CSMD3
+Stomach Cancer,EPHA3
+Stomach Cancer,FAT3
+Stomach Cancer,GSK3B
+Stomach Cancer,IL7R
+Stomach Cancer,ITGAV
+Stomach Cancer,MAP2K7
+Stomach Cancer,NBEA
+Stomach Cancer,NCOA2
+Stomach Cancer,NIN
+Stomach Cancer,NRG1
+Stomach Cancer,NTRK3
+Stomach Cancer,PBRM1
+Stomach Cancer,PIK3R1
+Stomach Cancer,PPP3CA
+Stomach Cancer,PRKCB
+Stomach Cancer,PWWP2A
+Stomach Cancer,RECQL4
+Stomach Cancer,RELA
+Stomach Cancer,ROS1
+Stomach Cancer,SETD1B
+Stomach Cancer,TGFBR2
+Stomach Cancer,TOP2A
+Stomach Cancer,TRIM49C
+Stomach Cancer,U2AF1
+Stomach Cancer,UBR5
+Stomach Cancer,ZCCHC8
+Stomach Cancer,ZNF814
+Thyroid Cancer,AFF3
+Thyroid Cancer,ARHGAP5
+Thyroid Cancer,ARID1B
+Thyroid Cancer,ARID2
+Thyroid Cancer,BCR
+Thyroid Cancer,COL2A1
+Thyroid Cancer,CREBBP
+Thyroid Cancer,CUX1
+Thyroid Cancer,DNMT3A
+Thyroid Cancer,FAM135B
+Thyroid Cancer,FAT3
+Thyroid Cancer,FAT4
+Thyroid Cancer,HIF1A
+Thyroid Cancer,KMT2C
+Thyroid Cancer,LRP1B
+Thyroid Cancer,MAP3K1
+Thyroid Cancer,PABPC1
+Thyroid Cancer,PDCD1LG2
+Thyroid Cancer,PICALM
+Thyroid Cancer,PPP2R1A
+Thyroid Cancer,PTCH1
+Thyroid Cancer,STAG2
+Thyroid Cancer,USP9X
+Thyroid Cancer,ZFHX3

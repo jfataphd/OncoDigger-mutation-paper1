@@ -1,0 +1,1741 @@
+cancer,gene,engine_rank,supporting_papers,corpus_papers,relevance_score,surfaced_at_all
+Breast Cancer,ABL2,,,,,False
+Breast Cancer,ACVR1B,,,,,False
+Breast Cancer,AFDN,,,,,False
+Breast Cancer,AKAP9,,,,,False
+Breast Cancer,AKT1,11,37,503,27.046,True
+Breast Cancer,ALK,,,,,False
+Breast Cancer,AR,63,7,1172,1.102,True
+Breast Cancer,ARHGAP35,,,,,False
+Breast Cancer,ARHGEF12,,,,,False
+Breast Cancer,ARID1A,,,,,False
+Breast Cancer,ARID1B,,,,,False
+Breast Cancer,ASXL1,,,,,False
+Breast Cancer,ATM,12,44,986,26.54,True
+Breast Cancer,ATP1A1,,,,,False
+Breast Cancer,ATP2B3,,,,,False
+Breast Cancer,BAP1,91,3,29,0.609,True
+Breast Cancer,BIRC6,,,,,False
+Breast Cancer,BRAF,20,17,136,9.215,True
+Breast Cancer,BRCA1,1,527,7,989.63,True
+Breast Cancer,BRCA2,2,431,4456,458.228,True
+Breast Cancer,CACNA1D,,,,,False
+Breast Cancer,CASP8,,,,,False
+Breast Cancer,CBFB,,,,,False
+Breast Cancer,CD209,,,,,False
+Breast Cancer,CDH1,18,21,602,10.4,True
+Breast Cancer,CDKN1B,,,,,False
+Breast Cancer,CDKN2A,26,9,6,5.687,True
+Breast Cancer,CHEK2,7,46,121,50.304,True
+Breast Cancer,CLTC,,,,,False
+Breast Cancer,CREBBP,,,,,False
+Breast Cancer,CSF1R,,,,,False
+Breast Cancer,CSMD3,,,,,False
+Breast Cancer,CSPG4,,,,,False
+Breast Cancer,CTCF,,,,,False
+Breast Cancer,CUX1,,,,,False
+Breast Cancer,CYLD,,,,,False
+Breast Cancer,DDX3X,,,,,False
+Breast Cancer,DNMT3A,,,,,False
+Breast Cancer,EGFR,10,66,3436,31.355,True
+Breast Cancer,EIF4A2,,,,,False
+Breast Cancer,ELN,,,,,False
+Breast Cancer,EP300,122,2,43,0.25,True
+Breast Cancer,EPHA3,,,,,False
+Breast Cancer,ERBB2,4,170,2068,199.742,True
+Breast Cancer,ERBB3,38,9,239,2.689,True
+Breast Cancer,ERBB4,,,,,False
+Breast Cancer,ESR1,8,50,1263,45.828,True
+Breast Cancer,ETV1,,,,,False
+Breast Cancer,FAT1,100,2,19,0.541,True
+Breast Cancer,FAT3,,,,,False
+Breast Cancer,FAT4,,,,,False
+Breast Cancer,FBXW7,114,2,58,0.309,True
+Breast Cancer,FGFR2,137,2,273,0.122,True
+Breast Cancer,FOXA1,,,,,False
+Breast Cancer,FOXP1,,,,,False
+Breast Cancer,FUBP1,,,,,False
+Breast Cancer,GATA3,25,14,508,6.281,True
+Breast Cancer,GNAS,65,4,24,1.072,True
+Breast Cancer,H3C2,,,,,False
+Breast Cancer,HOXC13,,,,,False
+Breast Cancer,HRAS,82,4,87,0.712,True
+Breast Cancer,HSP90AA1,,,,,False
+Breast Cancer,JAK1,,,,,False
+Breast Cancer,JAK2,123,3,266,0.232,True
+Breast Cancer,KAT6B,,,,,False
+Breast Cancer,KDM6A,,,,,False
+Breast Cancer,KDR,109,3,82,0.368,True
+Breast Cancer,KLF4,,,,,False
+Breast Cancer,KMT2C,88,3,53,0.66,True
+Breast Cancer,KMT2D,,,,,False
+Breast Cancer,KMT5A,,,,,False
+Breast Cancer,KRAS,29,13,270,5.028,True
+Breast Cancer,LATS1,,,,,False
+Breast Cancer,LRP1B,,,,,False
+Breast Cancer,MAP2K4,45,3,12,2.2,True
+Breast Cancer,MAP3K1,42,6,126,2.486,True
+Breast Cancer,MAX,,,,,False
+Breast Cancer,MECOM,,,,,False
+Breast Cancer,MED23,,,,,False
+Breast Cancer,MEN1,,,,,False
+Breast Cancer,MTOR,35,18,2115,3.2,True
+Breast Cancer,MYH11,,,,,False
+Breast Cancer,MYH9,,,,,False
+Breast Cancer,MYO5A,,,,,False
+Breast Cancer,NBEA,,,,,False
+Breast Cancer,NCOR1,,,,,False
+Breast Cancer,NCOR2,,,,,False
+Breast Cancer,NF1,48,5,163,2.023,True
+Breast Cancer,NOTCH1,98,4,272,0.554,True
+Breast Cancer,NOTCH2,77,3,54,0.819,True
+Breast Cancer,NTRK1,,,,,False
+Breast Cancer,NUMA1,,,,,False
+Breast Cancer,PIK3CA,3,198,1445,260.146,True
+Breast Cancer,PIK3R1,36,7,72,3.022,True
+Breast Cancer,PLAG1,,,,,False
+Breast Cancer,POLD1,,,,,False
+Breast Cancer,PPM1D,,,,,False
+Breast Cancer,PREX2,,,,,False
+Breast Cancer,PTEN,9,54,1475,31.502,True
+Breast Cancer,PTPRD,,,,,False
+Breast Cancer,RB1,34,9,243,3.396,True
+Breast Cancer,RGS7,,,,,False
+Breast Cancer,RHPN2,,,,,False
+Breast Cancer,RUNX1,,,,,False
+Breast Cancer,SETDB1,,,,,False
+Breast Cancer,SF3B1,,,,,False
+Breast Cancer,SMAD4,133,2,121,0.159,True
+Breast Cancer,SMARCD1,,,,,False
+Breast Cancer,SPEN,,,,,False
+Breast Cancer,TBL1XR1,,,,,False
+Breast Cancer,TBX3,,,,,False
+Breast Cancer,TP53,5,145,1985,157.332,True
+Breast Cancer,TSC1,,,,,False
+Breast Cancer,UBR5,,,,,False
+Breast Cancer,USP6,,,,,False
+Breast Cancer,ZFHX3,,,,,False
+Breast Cancer,ZMYM3,,,,,False
+Breast Cancer,ZXDB,,,,,False
+Lung Cancer,ACVR1B,,,,,False
+Lung Cancer,AFF3,,,,,False
+Lung Cancer,ALK,8,99,4134,43.037,True
+Lung Cancer,ANK1,,,,,False
+Lung Cancer,APC,95,4,389,0.261,True
+Lung Cancer,AR,,,,,False
+Lung Cancer,ARAF,,,,,False
+Lung Cancer,ARHGAP35,,,,,False
+Lung Cancer,ARHGEF10,,,,,False
+Lung Cancer,ARID1A,118,2,83,0.151,True
+Lung Cancer,ARID1B,93,2,19,0.272,True
+Lung Cancer,ARID2,,,,,False
+Lung Cancer,ARNT,,,,,False
+Lung Cancer,ATF7IP,,,,,False
+Lung Cancer,ATM,34,9,342,1.798,True
+Lung Cancer,B2M,,,,,False
+Lung Cancer,BAZ1A,,,,,False
+Lung Cancer,BCOR,,,,,False
+Lung Cancer,BCR,,,,,False
+Lung Cancer,BIRC3,,,,,False
+Lung Cancer,BIRC6,,,,,False
+Lung Cancer,BRAF,5,100,1413,74.748,True
+Lung Cancer,BRCA2,26,9,134,2.868,True
+Lung Cancer,CBLB,,,,,False
+Lung Cancer,CD209,,,,,False
+Lung Cancer,CDH10,,,,,False
+Lung Cancer,CDH11,,,,,False
+Lung Cancer,CDKN2A,40,5,30,1.403,True
+Lung Cancer,CIC,,,,,False
+Lung Cancer,CMTR2,,,,,False
+Lung Cancer,CREBBP,,,,,False
+Lung Cancer,CRLF2,,,,,False
+Lung Cancer,CSMD3,45,3,14,1.102,True
+Lung Cancer,CTNNA2,,,,,False
+Lung Cancer,CTNNB1,44,6,136,1.17,True
+Lung Cancer,CTNND2,,,,,False
+Lung Cancer,CUL3,56,4,27,0.777,True
+Lung Cancer,CUX1,,,,,False
+Lung Cancer,CYLD,,,,,False
+Lung Cancer,DCAF12L2,,,,,False
+Lung Cancer,DROSHA,,,,,False
+Lung Cancer,EBF1,,,,,False
+Lung Cancer,EGFR,1,777,15097,729.259,True
+Lung Cancer,EP300,,,,,False
+Lung Cancer,EPHA7,,,,,False
+Lung Cancer,ERBB2,7,66,620,43.176,True
+Lung Cancer,ESR1,,,,,False
+Lung Cancer,FAM135B,,,,,False
+Lung Cancer,FAT1,68,2,26,0.514,True
+Lung Cancer,FAT3,,,,,False
+Lung Cancer,FAT4,,,,,False
+Lung Cancer,FBXW7,,,,,False
+Lung Cancer,FGFR2,,,,,False
+Lung Cancer,FGFR3,104,2,81,0.194,True
+Lung Cancer,FLCN,,,,,False
+Lung Cancer,FLT4,,,,,False
+Lung Cancer,FOXO1,,,,,False
+Lung Cancer,GNAQ,,,,,False
+Lung Cancer,GNAS,,,,,False
+Lung Cancer,HGF,,,,,False
+Lung Cancer,HLA-A,,,,,False
+Lung Cancer,HRAS,83,3,86,0.412,True
+Lung Cancer,JAK2,86,4,224,0.371,True
+Lung Cancer,KDM5C,,,,,False
+Lung Cancer,KDM6A,,,,,False
+Lung Cancer,KDR,101,2,86,0.199,True
+Lung Cancer,KEAP1,14,23,394,13.54,True
+Lung Cancer,KLF5,,,,,False
+Lung Cancer,KMT2C,33,3,22,1.885,True
+Lung Cancer,KMT2D,80,3,43,0.418,True
+Lung Cancer,KRAS,2,234,4045,198.233,True
+Lung Cancer,LATS2,,,,,False
+Lung Cancer,LIFR,,,,,False
+Lung Cancer,LRP1B,110,2,55,0.176,True
+Lung Cancer,MACC1,,,,,False
+Lung Cancer,MAML2,,,,,False
+Lung Cancer,MAP2K1,28,7,52,2.659,True
+Lung Cancer,MB21D2,,,,,False
+Lung Cancer,MET,10,65,3967,19.089,True
+Lung Cancer,MGA,,,,,False
+Lung Cancer,MUC6,,,,,False
+Lung Cancer,MYH9,,,,,False
+Lung Cancer,NBEA,,,,,False
+Lung Cancer,NCOA2,,,,,False
+Lung Cancer,NCOR1,,,,,False
+Lung Cancer,NF1,30,8,122,2.489,True
+Lung Cancer,NFE2L2,25,9,89,2.947,True
+Lung Cancer,NFKBIE,,,,,False
+Lung Cancer,NIPBL,,,,,False
+Lung Cancer,NOTCH1,84,4,218,0.385,True
+Lung Cancer,NOTCH2,,,,,False
+Lung Cancer,NRAS,12,26,254,16.279,True
+Lung Cancer,NRK,,,,,False
+Lung Cancer,NSD1,,,,,False
+Lung Cancer,NSD3,,,,,False
+Lung Cancer,NUP98,,,,,False
+Lung Cancer,PABPC1,,,,,False
+Lung Cancer,PARP4,,,,,False
+Lung Cancer,PBRM1,,,,,False
+Lung Cancer,PDGFRA,58,4,69,0.701,True
+Lung Cancer,PER3,,,,,False
+Lung Cancer,PHF6,,,,,False
+Lung Cancer,PIK3CA,6,78,647,65.299,True
+Lung Cancer,PIK3R1,,,,,False
+Lung Cancer,POLQ,,,,,False
+Lung Cancer,PPM1D,,,,,False
+Lung Cancer,PPP2R1A,,,,,False
+Lung Cancer,PSPC1,,,,,False
+Lung Cancer,PTEN,22,18,825,4.412,True
+Lung Cancer,PTPRK,,,,,False
+Lung Cancer,RAD21,,,,,False
+Lung Cancer,RANBP2,,,,,False
+Lung Cancer,RASA1,66,3,10,0.566,True
+Lung Cancer,RB1,38,9,409,1.562,True
+Lung Cancer,RBM10,55,4,51,0.815,True
+Lung Cancer,RBM15,,,,,False
+Lung Cancer,RET,21,19,811,4.675,True
+Lung Cancer,RGPD3,,,,,False
+Lung Cancer,RGS7,,,,,False
+Lung Cancer,RHPN2,,,,,False
+Lung Cancer,RNF213,,,,,False
+Lung Cancer,RNF43,,,,,False
+Lung Cancer,RPL5,,,,,False
+Lung Cancer,RUNX1T1,,,,,False
+Lung Cancer,SETD1B,,,,,False
+Lung Cancer,SETD2,100,2,45,0.224,True
+Lung Cancer,SLC34A2,,,,,False
+Lung Cancer,SMAD4,,,,,False
+Lung Cancer,SMARCA4,23,9,76,4.23,True
+Lung Cancer,SPEN,,,,,False
+Lung Cancer,STAG2,,,,,False
+Lung Cancer,STK11,9,27,346,23.097,True
+Lung Cancer,SUSD2,,,,,False
+Lung Cancer,TFRC,,,,,False
+Lung Cancer,TNC,,,,,False
+Lung Cancer,TP53,3,110,1882,83.814,True
+Lung Cancer,TRRAP,,,,,False
+Lung Cancer,TSC1,,,,,False
+Lung Cancer,TSC2,,,,,False
+Lung Cancer,U2AF1,,,,,False
+Lung Cancer,USP6,,,,,False
+Lung Cancer,USP8,,,,,False
+Lung Cancer,VAV1,,,,,False
+Lung Cancer,ZEB1,,,,,False
+Lung Cancer,ZMYM3,,,,,False
+Lung Cancer,ZNF395,,,,,False
+Lung Cancer,ZNF521,,,,,False
+Lung Cancer,ZNF750,,,,,False
+Colorectal Cancer,ACVR1B,,,,,False
+Colorectal Cancer,ACVR2A,,,,,False
+Colorectal Cancer,AFDN,,,,,False
+Colorectal Cancer,AKT1,38,8,211,2.682,True
+Colorectal Cancer,AMER1,,,,,False
+Colorectal Cancer,ANK1,,,,,False
+Colorectal Cancer,APC,9,152,4022,75.627,True
+Colorectal Cancer,AR,,,,,False
+Colorectal Cancer,ARID1A,53,5,91,1.023,True
+Colorectal Cancer,ARID1B,,,,,False
+Colorectal Cancer,ASXL1,,,,,False
+Colorectal Cancer,ATM,29,9,282,3.744,True
+Colorectal Cancer,BCL9,,,,,False
+Colorectal Cancer,BCL9L,,,,,False
+Colorectal Cancer,BCOR,,,,,False
+Colorectal Cancer,BCORL1,,,,,False
+Colorectal Cancer,BIRC6,,,,,False
+Colorectal Cancer,BRAF,2,289,3503,307.014,True
+Colorectal Cancer,CARD11,,,,,False
+Colorectal Cancer,CDH11,,,,,False
+Colorectal Cancer,CDKN2A,37,8,38,2.807,True
+Colorectal Cancer,CEP89,,,,,False
+Colorectal Cancer,CHD4,,,,,False
+Colorectal Cancer,CSMD3,,,,,False
+Colorectal Cancer,CTNNA1,,,,,False
+Colorectal Cancer,CTNNB1,13,36,27,30.907,True
+Colorectal Cancer,CYLD,,,,,False
+Colorectal Cancer,DCAF12L2,,,,,False
+Colorectal Cancer,DCC,132,3,155,0.197,True
+Colorectal Cancer,DICER1,,,,,False
+Colorectal Cancer,DUSP16,,,,,False
+Colorectal Cancer,EGFR,3,191,2813,163.44,True
+Colorectal Cancer,ELF3,,,,,False
+Colorectal Cancer,EP300,,,,,False
+Colorectal Cancer,EPHA7,,,,,False
+Colorectal Cancer,ERBB2,27,13,242,3.988,True
+Colorectal Cancer,ERBB3,,,,,False
+Colorectal Cancer,ERBB4,129,2,36,0.209,True
+Colorectal Cancer,ETV1,,,,,False
+Colorectal Cancer,FAT3,110,2,5,0.323,True
+Colorectal Cancer,FAT4,68,3,20,0.729,True
+Colorectal Cancer,FBXW7,20,12,8,6.963,True
+Colorectal Cancer,GNAS,40,5,55,2.494,True
+Colorectal Cancer,GRIN2A,,,,,False
+Colorectal Cancer,HLA-A,,,,,False
+Colorectal Cancer,HRAS,30,10,81,3.689,True
+Colorectal Cancer,ING1,,,,,False
+Colorectal Cancer,KMT2C,86,3,22,0.446,True
+Colorectal Cancer,KRAS,1,436,4845,470.91,True
+Colorectal Cancer,LRP1B,93,2,17,0.417,True
+Colorectal Cancer,MAP2K4,,,,,False
+Colorectal Cancer,MAP3K1,,,,,False
+Colorectal Cancer,MTOR,48,10,1063,1.354,True
+Colorectal Cancer,MYH9,,,,,False
+Colorectal Cancer,NBEA,,,,,False
+Colorectal Cancer,NCOR2,,,,,False
+Colorectal Cancer,NF1,41,6,76,2.463,True
+Colorectal Cancer,NFATC2,,,,,False
+Colorectal Cancer,NIN,,,,,False
+Colorectal Cancer,NOTCH1,,,,,False
+Colorectal Cancer,NRAS,6,128,775,133.836,True
+Colorectal Cancer,PARP4,,,,,False
+Colorectal Cancer,PBRM1,,,,,False
+Colorectal Cancer,PCBP1,,,,,False
+Colorectal Cancer,PIK3CA,5,130,934,146.586,True
+Colorectal Cancer,PIK3R1,,,,,False
+Colorectal Cancer,PPP2R1A,,,,,False
+Colorectal Cancer,PREX2,,,,,False
+Colorectal Cancer,PRKD1,,,,,False
+Colorectal Cancer,PTEN,19,26,760,11.636,True
+Colorectal Cancer,PTPN11,55,3,19,1.001,True
+Colorectal Cancer,RBM10,,,,,False
+Colorectal Cancer,RNF43,25,11,116,4.161,True
+Colorectal Cancer,RNF6,,,,,False
+Colorectal Cancer,ROBO2,,,,,False
+Colorectal Cancer,RRN3,,,,,False
+Colorectal Cancer,RSPO2,,,,,False
+Colorectal Cancer,SETDB1,,,,,False
+Colorectal Cancer,SIRPA,,,,,False
+Colorectal Cancer,SLC34A2,,,,,False
+Colorectal Cancer,SMAD2,128,3,182,0.218,True
+Colorectal Cancer,SMAD3,146,2,123,0.126,True
+Colorectal Cancer,SMAD4,18,20,33,11.776,True
+Colorectal Cancer,SMARCA4,,,,,False
+Colorectal Cancer,SOCS1,135,2,86,0.184,True
+Colorectal Cancer,SOX9,143,2,92,0.134,True
+Colorectal Cancer,TAF1L,,,,,False
+Colorectal Cancer,TBX3,,,,,False
+Colorectal Cancer,TCF7L2,147,2,99,0.125,True
+Colorectal Cancer,TET1,,,,,False
+Colorectal Cancer,TGFBR2,51,5,95,1.136,True
+Colorectal Cancer,TGIF1,,,,,False
+Colorectal Cancer,TP53,8,97,1297,75.662,True
+Colorectal Cancer,TSC1,,,,,False
+Colorectal Cancer,TSHR,,,,,False
+Colorectal Cancer,USP6,,,,,False
+Prostate Cancer,ACVR2A,,,,,False
+Prostate Cancer,AKT1,61,6,136,1.92,True
+Prostate Cancer,ANK1,,,,,False
+Prostate Cancer,APC,23,28,347,13.295,True
+Prostate Cancer,AR,6,213,5828,96.91,True
+Prostate Cancer,ARID1A,,,,,False
+Prostate Cancer,ARID1B,,,,,False
+Prostate Cancer,ASXL1,122,2,3,0.452,True
+Prostate Cancer,ATM,5,103,383,99.331,True
+Prostate Cancer,BARD1,105,3,12,0.622,True
+Prostate Cancer,BCLAF1,,,,,False
+Prostate Cancer,BMP6,,,,,False
+Prostate Cancer,BRAF,22,22,61,14.465,True
+Prostate Cancer,BRCA2,1,233,624,312.812,True
+Prostate Cancer,BRD4,,,,,False
+Prostate Cancer,CAMTA1,,,,,False
+Prostate Cancer,CASZ1,,,,,False
+Prostate Cancer,CDK12,13,37,128,27.623,True
+Prostate Cancer,CDKN1B,96,4,35,0.759,True
+Prostate Cancer,CLTCL1,,,,,False
+Prostate Cancer,CNOT3,,,,,False
+Prostate Cancer,CSMD3,,,,,False
+Prostate Cancer,CTNNA2,,,,,False
+Prostate Cancer,CTNNB1,24,17,53,11.1,True
+Prostate Cancer,DCAF12L2,,,,,False
+Prostate Cancer,DCC,,,,,False
+Prostate Cancer,EIF1AX,,,,,False
+Prostate Cancer,EPHA3,,,,,False
+Prostate Cancer,EPS15,,,,,False
+Prostate Cancer,ERBB3,,,,,False
+Prostate Cancer,ERBB4,,,,,False
+Prostate Cancer,FAM174B,,,,,False
+Prostate Cancer,FANCA,43,8,28,4.035,True
+Prostate Cancer,FAT1,,,,,False
+Prostate Cancer,FAT3,,,,,False
+Prostate Cancer,FAT4,,,,,False
+Prostate Cancer,FBLN2,,,,,False
+Prostate Cancer,FGD1,,,,,False
+Prostate Cancer,FOXA1,18,38,244,20.156,True
+Prostate Cancer,FOXP1,,,,,False
+Prostate Cancer,HRAS,,,,,False
+Prostate Cancer,IDH1,39,9,27,4.659,True
+Prostate Cancer,IL6ST,,,,,False
+Prostate Cancer,JAK1,102,4,38,0.653,True
+Prostate Cancer,KAT6B,,,,,False
+Prostate Cancer,KDM6A,56,6,16,1.961,True
+Prostate Cancer,KMT2A,73,2,6,1.152,True
+Prostate Cancer,KMT2C,44,5,15,3.865,True
+Prostate Cancer,KMT2D,48,8,18,3.08,True
+Prostate Cancer,KRAS,30,13,61,7.373,True
+Prostate Cancer,LRP1B,,,,,False
+Prostate Cancer,LZTR1,,,,,False
+Prostate Cancer,MECOM,,,,,False
+Prostate Cancer,MED12,33,8,17,5.642,True
+Prostate Cancer,MGA,,,,,False
+Prostate Cancer,MYEOV,,,,,False
+Prostate Cancer,MYH11,,,,,False
+Prostate Cancer,NCOR1,,,,,False
+Prostate Cancer,NCOR2,,,,,False
+Prostate Cancer,NOTCH2,,,,,False
+Prostate Cancer,PAX5,,,,,False
+Prostate Cancer,PIK3CA,12,35,77,27.774,True
+Prostate Cancer,PIK3CB,,,,,False
+Prostate Cancer,PIK3R1,68,5,16,1.311,True
+Prostate Cancer,PREX2,,,,,False
+Prostate Cancer,PRKCB,,,,,False
+Prostate Cancer,PRKD1,,,,,False
+Prostate Cancer,PTEN,4,86,7,125.811,True
+Prostate Cancer,RB1,10,38,252,30.413,True
+Prostate Cancer,RBFOX1,,,,,False
+Prostate Cancer,RHOA,,,,,False
+Prostate Cancer,RNF213,,,,,False
+Prostate Cancer,RNF43,58,5,8,1.946,True
+Prostate Cancer,ROBO2,,,,,False
+Prostate Cancer,ROS1,,,,,False
+Prostate Cancer,RUNX1T1,,,,,False
+Prostate Cancer,SETD2,113,2,2,0.539,True
+Prostate Cancer,SF3B1,,,,,False
+Prostate Cancer,SMAD4,,,,,False
+Prostate Cancer,SOX21,,,,,False
+Prostate Cancer,SPEN,,,,,False
+Prostate Cancer,SPOP,7,82,207,91.951,True
+Prostate Cancer,SUZ12,,,,,False
+Prostate Cancer,TFRC,,,,,False
+Prostate Cancer,TMPRSS2,21,37,574,16.461,True
+Prostate Cancer,TP53,3,118,486,128.358,True
+Prostate Cancer,TRIM24,166,2,16,0.231,True
+Prostate Cancer,U2AF1,,,,,False
+Prostate Cancer,USP6,,,,,False
+Prostate Cancer,USP9X,,,,,False
+Prostate Cancer,ZBTB16,,,,,False
+Prostate Cancer,ZFHX3,76,4,18,1.051,True
+Prostate Cancer,ZMYM2,,,,,False
+Prostate Cancer,ZMYM3,,,,,False
+Prostate Cancer,ZNF429,,,,,False
+Melanoma,AFF1,,,,,False
+Melanoma,AKAP9,,,,,False
+Melanoma,AKT3,120,2,31,0.337,True
+Melanoma,APC,55,10,190,1.53,True
+Melanoma,ARID2,28,8,17,4.886,True
+Melanoma,ATM,58,7,116,1.435,True
+Melanoma,ATR,,,,,False
+Melanoma,B2M,,,,,False
+Melanoma,BAP1,8,72,366,46.702,True
+Melanoma,BCLAF1,,,,,False
+Melanoma,BRAF,1,530,4869,448.294,True
+Melanoma,BRCA1,18,26,76,15.332,True
+Melanoma,BRD7,,,,,False
+Melanoma,CADM2,,,,,False
+Melanoma,CDK12,,,,,False
+Melanoma,CDK4,13,61,407,28.379,True
+Melanoma,CDKN2A,4,166,13,165.589,True
+Melanoma,CNOT9,,,,,False
+Melanoma,COL1A1,,,,,False
+Melanoma,COL6A3,,,,,False
+Melanoma,CSMD3,,,,,False
+Melanoma,CTNNA2,,,,,False
+Melanoma,CTNNB1,20,19,66,12.048,True
+Melanoma,CTNND2,,,,,False
+Melanoma,CUX1,,,,,False
+Melanoma,CYP2C8,,,,,False
+Melanoma,CYSLTR2,34,9,2,3.814,True
+Melanoma,DDX3X,,,,,False
+Melanoma,DICER1,,,,,False
+Melanoma,EIF1AX,17,28,56,18.315,True
+Melanoma,ELL,,,,,False
+Melanoma,EPHA3,144,2,10,0.219,True
+Melanoma,ERBB4,25,8,8,5.591,True
+Melanoma,ERCC3,,,,,False
+Melanoma,ESR1,,,,,False
+Melanoma,FAT1,,,,,False
+Melanoma,FAT3,,,,,False
+Melanoma,FAT4,103,3,8,0.486,True
+Melanoma,GNA11,7,70,252,48.362,True
+Melanoma,GNAQ,6,82,332,57.118,True
+Melanoma,GRM3,,,,,False
+Melanoma,HLA-A,56,3,3,1.511,True
+Melanoma,HSP90AB1,,,,,False
+Melanoma,IDH1,37,8,19,3.382,True
+Melanoma,IKZF1,,,,,False
+Melanoma,KIT,3,145,62,198.843,True
+Melanoma,KLF6,,,,,False
+Melanoma,KMT2C,78,3,7,0.885,True
+Melanoma,KMT2D,,,,,False
+Melanoma,KNSTRN,66,2,3,1.283,True
+Melanoma,KRAS,16,35,153,22.385,True
+Melanoma,LIFR,,,,,False
+Melanoma,LRP1B,44,6,8,2.292,True
+Melanoma,MAP2K1,19,23,42,14.074,True
+Melanoma,MDGA2,,,,,False
+Melanoma,MECOM,,,,,False
+Melanoma,MLLT3,,,,,False
+Melanoma,MYH11,,,,,False
+Melanoma,NACA,,,,,False
+Melanoma,NBEA,,,,,False
+Melanoma,NF1,12,45,226,28.398,True
+Melanoma,NF2,,,,,False
+Melanoma,NOTCH1,99,4,63,0.516,True
+Melanoma,NRAS,2,291,1162,339.576,True
+Melanoma,NSD1,,,,,False
+Melanoma,PBRM1,111,2,5,0.417,True
+Melanoma,PDCD1LG2,,,,,False
+Melanoma,PIK3CA,11,37,51,35.7,True
+Melanoma,PLAG1,,,,,False
+Melanoma,PLXNC1,,,,,False
+Melanoma,POLQ,,,,,False
+Melanoma,POT1,31,12,52,4.263,True
+Melanoma,PPP2R1A,,,,,False
+Melanoma,PPP6C,47,6,12,2.141,True
+Melanoma,PREX2,48,6,12,1.953,True
+Melanoma,PTEN,14,39,11,27.871,True
+Melanoma,PTPN6,,,,,False
+Melanoma,PTPRB,,,,,False
+Melanoma,PTPRC,,,,,False
+Melanoma,PTPRD,49,5,7,1.805,True
+Melanoma,PTPRT,76,2,4,0.917,True
+Melanoma,QKI,,,,,False
+Melanoma,RAC1,29,15,140,4.694,True
+Melanoma,RB1,90,5,45,0.672,True
+Melanoma,RET,164,2,100,0.098,True
+Melanoma,RGPD3,,,,,False
+Melanoma,RGS7,,,,,False
+Melanoma,RHOA,,,,,False
+Melanoma,ROBO2,,,,,False
+Melanoma,RPL5,,,,,False
+Melanoma,RUNX1T1,,,,,False
+Melanoma,SETD2,,,,,False
+Melanoma,SF3B1,10,48,107,36.716,True
+Melanoma,TP53,15,48,237,26.167,True
+Melanoma,TP63,,,,,False
+Melanoma,TRRAP,,,,,False
+Melanoma,TSC1,82,3,1,0.799,True
+Melanoma,UBR5,,,,,False
+Melanoma,WT1,,,,,False
+Bladder Cancer,AKAP9,,,,,False
+Bladder Cancer,ARHGAP35,,,,,False
+Bladder Cancer,ARHGAP5,,,,,False
+Bladder Cancer,ARHGEF10,,,,,False
+Bladder Cancer,ARID1A,10,43,70,27.371,True
+Bladder Cancer,ARID1B,140,2,1,0.354,True
+Bladder Cancer,ASXL1,,,,,False
+Bladder Cancer,ASXL2,,,,,False
+Bladder Cancer,ATM,27,19,61,8.344,True
+Bladder Cancer,ATR,,,,,False
+Bladder Cancer,BIRC6,,,,,False
+Bladder Cancer,BRAF,13,30,47,20.884,True
+Bladder Cancer,BRCA1,40,12,46,3.96,True
+Bladder Cancer,BRCA2,35,14,35,5.828,True
+Bladder Cancer,BRD4,,,,,False
+Bladder Cancer,CASP8,82,3,1,0.958,True
+Bladder Cancer,CDH1,103,5,31,0.627,True
+Bladder Cancer,CDK12,145,2,4,0.321,True
+Bladder Cancer,CDKN1A,32,17,29,7.083,True
+Bladder Cancer,CDKN2A,15,30,1,18.132,True
+Bladder Cancer,CHD2,,,,,False
+Bladder Cancer,CLTC,,,,,False
+Bladder Cancer,CREBBP,36,12,15,5.424,True
+Bladder Cancer,CSMD3,,,,,False
+Bladder Cancer,CYLD,,,,,False
+Bladder Cancer,DDB2,,,,,False
+Bladder Cancer,ELF3,120,3,8,0.456,True
+Bladder Cancer,EP300,25,10,10,9.1,True
+Bladder Cancer,ERBB2,8,54,139,33.817,True
+Bladder Cancer,ERBB3,38,9,13,4.966,True
+Bladder Cancer,ERBB4,,,,,False
+Bladder Cancer,ERCC2,14,29,57,19.03,True
+Bladder Cancer,ETV6,,,,,False
+Bladder Cancer,FAT1,86,4,7,0.891,True
+Bladder Cancer,FBLN2,,,,,False
+Bladder Cancer,FBXW7,195,2,11,0.153,True
+Bladder Cancer,FGFR1,23,20,46,10.491,True
+Bladder Cancer,FGFR3,1,277,563,302.127,True
+Bladder Cancer,FLT4,,,,,False
+Bladder Cancer,GNA13,,,,,False
+Bladder Cancer,GPAA1,,,,,False
+Bladder Cancer,GRIN2A,,,,,False
+Bladder Cancer,H3C2,,,,,False
+Bladder Cancer,HIP1,,,,,False
+Bladder Cancer,HLA-A,,,,,False
+Bladder Cancer,HRAS,12,37,78,23.447,True
+Bladder Cancer,HSPG2,,,,,False
+Bladder Cancer,IDH2,,,,,False
+Bladder Cancer,IRS4,,,,,False
+Bladder Cancer,KAT7,,,,,False
+Bladder Cancer,KDM6A,11,38,64,24.478,True
+Bladder Cancer,KLF5,,,,,False
+Bladder Cancer,KMT2A,,,,,False
+Bladder Cancer,KMT2C,43,9,12,3.708,True
+Bladder Cancer,KMT2D,17,24,2,17.979,True
+Bladder Cancer,KRAS,7,40,75,34.125,True
+Bladder Cancer,LRIG3,,,,,False
+Bladder Cancer,MB21D2,,,,,False
+Bladder Cancer,MEN1,,,,,False
+Bladder Cancer,MLLT6,,,,,False
+Bladder Cancer,MTOR,30,30,297,7.936,True
+Bladder Cancer,MYH9,,,,,False
+Bladder Cancer,N4BP2,,,,,False
+Bladder Cancer,NACA,,,,,False
+Bladder Cancer,NCOR1,123,3,9,0.437,True
+Bladder Cancer,NF1,90,4,21,0.812,True
+Bladder Cancer,NFE2L2,114,3,6,0.501,True
+Bladder Cancer,NOTCH1,,,,,False
+Bladder Cancer,NOTCH2,,,,,False
+Bladder Cancer,NSD1,,,,,False
+Bladder Cancer,NSD2,,,,,False
+Bladder Cancer,PABPC1,,,,,False
+Bladder Cancer,PIK3CA,4,101,137,95.439,True
+Bladder Cancer,PIK3CB,,,,,False
+Bladder Cancer,POLE,69,2,7,1.279,True
+Bladder Cancer,PREX2,,,,,False
+Bladder Cancer,PSIP1,,,,,False
+Bladder Cancer,PTEN,19,25,2,14.013,True
+Bladder Cancer,PTPN13,,,,,False
+Bladder Cancer,PTPRK,,,,,False
+Bladder Cancer,RAF1,108,3,10,0.56,True
+Bladder Cancer,RAP1B,,,,,False
+Bladder Cancer,RB1,6,55,145,35.122,True
+Bladder Cancer,RBM10,,,,,False
+Bladder Cancer,RHOA,,,,,False
+Bladder Cancer,RNF213,,,,,False
+Bladder Cancer,RXRA,57,7,2,1.884,True
+Bladder Cancer,SETD1B,,,,,False
+Bladder Cancer,SF3B1,,,,,False
+Bladder Cancer,SMARCA4,58,6,4,1.842,True
+Bladder Cancer,SNX29,,,,,False
+Bladder Cancer,STAG2,33,13,32,6.356,True
+Bladder Cancer,TAF15,,,,,False
+Bladder Cancer,TP53,2,202,413,201.609,True
+Bladder Cancer,TP63,,,,,False
+Bladder Cancer,TRIP11,,,,,False
+Bladder Cancer,TRRAP,,,,,False
+Bladder Cancer,TSC1,20,23,44,12.889,True
+Bladder Cancer,TSC2,49,6,10,2.609,True
+Bladder Cancer,ZFHX3,,,,,False
+Bladder Cancer,ZFP36L1,,,,,False
+Bladder Cancer,ZNF429,,,,,False
+Kidney Cancer,AKAP9,,,,,False
+Kidney Cancer,AMER1,,,,,False
+Kidney Cancer,ARHGAP35,,,,,False
+Kidney Cancer,ARHGEF10L,,,,,False
+Kidney Cancer,ARHGEF12,,,,,False
+Kidney Cancer,ARID1A,55,9,32,2.81,True
+Kidney Cancer,ARID1B,,,,,False
+Kidney Cancer,ARID2,,,,,False
+Kidney Cancer,ASXL1,75,5,13,1.628,True
+Kidney Cancer,ATG7,,,,,False
+Kidney Cancer,ATM,38,11,38,5.601,True
+Kidney Cancer,BAP1,4,76,231,81.18,True
+Kidney Cancer,BIRC6,,,,,False
+Kidney Cancer,BRAF,19,29,1,20.246,True
+Kidney Cancer,BRCA2,43,11,37,4.67,True
+Kidney Cancer,BRD4,,,,,False
+Kidney Cancer,CACNA1D,,,,,False
+Kidney Cancer,CDK12,,,,,False
+Kidney Cancer,CDKN1A,195,2,24,0.155,True
+Kidney Cancer,CDKN2A,39,11,17,5.478,True
+Kidney Cancer,CHD2,,,,,False
+Kidney Cancer,CHD4,,,,,False
+Kidney Cancer,CLTC,,,,,False
+Kidney Cancer,CREBBP,,,,,False
+Kidney Cancer,CTNNB1,10,39,67,33.492,True
+Kidney Cancer,CUL3,86,4,6,1.233,True
+Kidney Cancer,CYLD,,,,,False
+Kidney Cancer,DGCR8,36,7,13,5.949,True
+Kidney Cancer,DNMT3A,,,,,False
+Kidney Cancer,DROSHA,27,10,19,9.038,True
+Kidney Cancer,ERBB2,101,4,41,0.804,True
+Kidney Cancer,ERBB4,,,,,False
+Kidney Cancer,FAT1,,,,,False
+Kidney Cancer,FAT3,,,,,False
+Kidney Cancer,FLT4,,,,,False
+Kidney Cancer,GRM3,,,,,False
+Kidney Cancer,HNF1A,142,2,4,0.425,True
+Kidney Cancer,KDM5C,11,31,57,27.579,True
+Kidney Cancer,KDM6A,83,6,20,1.355,True
+Kidney Cancer,KMT2C,124,3,12,0.578,True
+Kidney Cancer,KMT2D,103,3,7,0.747,True
+Kidney Cancer,KRAS,23,26,67,13.049,True
+Kidney Cancer,LRP1B,,,,,False
+Kidney Cancer,MAP3K1,,,,,False
+Kidney Cancer,MET,20,46,767,16.647,True
+Kidney Cancer,MLLT1,,,,,False
+Kidney Cancer,MSN,,,,,False
+Kidney Cancer,MTOR,16,65,1094,20.726,True
+Kidney Cancer,NF1,90,5,20,1.065,True
+Kidney Cancer,NF2,70,8,50,1.978,True
+Kidney Cancer,NFE2L2,59,7,8,2.693,True
+Kidney Cancer,NRG1,,,,,False
+Kidney Cancer,NUP214,,,,,False
+Kidney Cancer,PBRM1,3,85,8,94.17,True
+Kidney Cancer,PCBP1,,,,,False
+Kidney Cancer,PIK3CA,12,37,53,26.372,True
+Kidney Cancer,PLCG1,,,,,False
+Kidney Cancer,PRDM2,,,,,False
+Kidney Cancer,PTEN,13,31,3,25.492,True
+Kidney Cancer,PTPRK,,,,,False
+Kidney Cancer,RANBP2,,,,,False
+Kidney Cancer,RAP1GDS1,,,,,False
+Kidney Cancer,REST,122,4,195,0.593,True
+Kidney Cancer,RNF213,,,,,False
+Kidney Cancer,ROBO2,,,,,False
+Kidney Cancer,SDHA,37,9,31,5.801,True
+Kidney Cancer,SETD2,6,80,191,63.991,True
+Kidney Cancer,SGK1,,,,,False
+Kidney Cancer,SIX1,64,5,14,2.316,True
+Kidney Cancer,SMARCA4,56,9,16,2.78,True
+Kidney Cancer,SPEN,,,,,False
+Kidney Cancer,STAG2,,,,,False
+Kidney Cancer,TERT,28,16,48,8.382,True
+Kidney Cancer,TET1,,,,,False
+Kidney Cancer,TET2,174,2,8,0.25,True
+Kidney Cancer,TGFBR2,,,,,False
+Kidney Cancer,TP53,9,58,228,38.087,True
+Kidney Cancer,TRRAP,,,,,False
+Kidney Cancer,TSC1,15,44,205,25.21,True
+Kidney Cancer,TSC2,7,51,41,46.927,True
+Kidney Cancer,UBR5,,,,,False
+Kidney Cancer,VHL,1,252,1,363.133,True
+Pancreatic Cancer,ACVR1B,90,2,5,0.547,True
+Pancreatic Cancer,ACVR2A,,,,,False
+Pancreatic Cancer,ALPK1,,,,,False
+Pancreatic Cancer,ARHGAP5,,,,,False
+Pancreatic Cancer,ARID1A,36,14,65,4.499,True
+Pancreatic Cancer,ARID1B,,,,,False
+Pancreatic Cancer,ARID2,,,,,False
+Pancreatic Cancer,ATM,12,37,227,25.819,True
+Pancreatic Cancer,ATRX,26,17,127,7.001,True
+Pancreatic Cancer,BCOR,,,,,False
+Pancreatic Cancer,BCORL1,,,,,False
+Pancreatic Cancer,BRCA2,2,126,408,129.609,True
+Pancreatic Cancer,CDH10,,,,,False
+Pancreatic Cancer,CDKN2A,3,104,3,115.051,True
+Pancreatic Cancer,COL1A1,,,,,False
+Pancreatic Cancer,COL6A6,,,,,False
+Pancreatic Cancer,CSMD3,,,,,False
+Pancreatic Cancer,CTNNA2,,,,,False
+Pancreatic Cancer,CTNND2,,,,,False
+Pancreatic Cancer,CUX1,,,,,False
+Pancreatic Cancer,CXCR4,,,,,False
+Pancreatic Cancer,DAXX,20,19,132,10.291,True
+Pancreatic Cancer,DCC,172,2,28,0.135,True
+Pancreatic Cancer,DROSHA,,,,,False
+Pancreatic Cancer,FAM135B,,,,,False
+Pancreatic Cancer,FAT1,98,2,5,0.509,True
+Pancreatic Cancer,FAT3,,,,,False
+Pancreatic Cancer,FBLN2,,,,,False
+Pancreatic Cancer,FBXW7,52,4,1,1.71,True
+Pancreatic Cancer,FCRL4,,,,,False
+Pancreatic Cancer,FMN2,,,,,False
+Pancreatic Cancer,GNAS,7,60,170,47.705,True
+Pancreatic Cancer,IRS4,,,,,False
+Pancreatic Cancer,KDM5C,,,,,False
+Pancreatic Cancer,KDM6A,58,4,23,1.255,True
+Pancreatic Cancer,KMT2A,,,,,False
+Pancreatic Cancer,KMT2C,85,3,10,0.615,True
+Pancreatic Cancer,KMT2D,61,5,18,1.203,True
+Pancreatic Cancer,KRAS,1,367,2418,328.543,True
+Pancreatic Cancer,LATS1,,,,,False
+Pancreatic Cancer,LPA,,,,,False
+Pancreatic Cancer,LRP1B,,,,,False
+Pancreatic Cancer,MAP2K4,,,,,False
+Pancreatic Cancer,MARK2,,,,,False
+Pancreatic Cancer,MEN1,11,59,501,35.19,True
+Pancreatic Cancer,MTOR,46,14,633,2.091,True
+Pancreatic Cancer,NCOA1,,,,,False
+Pancreatic Cancer,NF2,,,,,False
+Pancreatic Cancer,NFATC2,,,,,False
+Pancreatic Cancer,PEG3,,,,,False
+Pancreatic Cancer,PIK3CA,9,51,87,37.92,True
+Pancreatic Cancer,PTEN,32,17,225,5.038,True
+Pancreatic Cancer,PTPN3,,,,,False
+Pancreatic Cancer,PTPRD,,,,,False
+Pancreatic Cancer,PTPRT,,,,,False
+Pancreatic Cancer,RBM10,145,2,4,0.256,True
+Pancreatic Cancer,RNF43,19,15,64,10.892,True
+Pancreatic Cancer,SETD1B,,,,,False
+Pancreatic Cancer,SETD2,,,,,False
+Pancreatic Cancer,SETDB1,,,,,False
+Pancreatic Cancer,SF3B1,82,3,10,0.701,True
+Pancreatic Cancer,SMAD3,177,2,60,0.118,True
+Pancreatic Cancer,SMAD4,6,95,158,86.075,True
+Pancreatic Cancer,SMARCA4,,,,,False
+Pancreatic Cancer,SMARCB1,51,4,8,1.762,True
+Pancreatic Cancer,TGFBR2,95,4,38,0.528,True
+Pancreatic Cancer,TP53,4,145,689,109.35,True
+Pancreatic Cancer,TSC2,29,11,3,5.642,True
+Pancreatic Cancer,U2AF1,,,,,False
+Pancreatic Cancer,WT1,,,,,False
+Pancreatic Cancer,ZNF521,,,,,False
+Liver Cancer,ACVR2A,,,,,False
+Liver Cancer,AFF4,,,,,False
+Liver Cancer,AKAP9,,,,,False
+Liver Cancer,ALK,29,8,46,3.469,True
+Liver Cancer,ANK1,,,,,False
+Liver Cancer,APC,10,34,381,15.093,True
+Liver Cancer,AR,90,7,305,0.797,True
+Liver Cancer,ARAF,,,,,False
+Liver Cancer,ARID1A,19,16,102,5.721,True
+Liver Cancer,ARID1B,120,2,1,0.496,True
+Liver Cancer,ARID2,57,6,33,1.979,True
+Liver Cancer,ASXL1,,,,,False
+Liver Cancer,ATM,55,8,108,2.035,True
+Liver Cancer,AXIN1,13,19,85,8.76,True
+Liver Cancer,BAP1,23,10,54,4.643,True
+Liver Cancer,BCOR,,,,,False
+Liver Cancer,BIRC6,,,,,False
+Liver Cancer,BRAF,4,77,288,93.598,True
+Liver Cancer,BRCA2,24,11,51,4.468,True
+Liver Cancer,BRD7,,,,,False
+Liver Cancer,CACNA1D,,,,,False
+Liver Cancer,CARD11,,,,,False
+Liver Cancer,CDH11,,,,,False
+Liver Cancer,CDKN1A,193,2,74,0.128,True
+Liver Cancer,CDKN1B,,,,,False
+Liver Cancer,CDKN2A,11,18,5,12.059,True
+Liver Cancer,CIC,,,,,False
+Liver Cancer,CLTC,,,,,False
+Liver Cancer,CLTCL1,,,,,False
+Liver Cancer,CREBBP,114,3,13,0.528,True
+Liver Cancer,CSMD3,,,,,False
+Liver Cancer,CTNNA2,,,,,False
+Liver Cancer,CTNNB1,2,143,432,152.785,True
+Liver Cancer,DCC,,,,,False
+Liver Cancer,DDR2,,,,,False
+Liver Cancer,DHX9,,,,,False
+Liver Cancer,DNMT3A,,,,,False
+Liver Cancer,ELF3,,,,,False
+Liver Cancer,EP300,,,,,False
+Liver Cancer,EPHA2,,,,,False
+Liver Cancer,EPHA7,,,,,False
+Liver Cancer,ERBB2,16,15,72,6.483,True
+Liver Cancer,ERBB3,,,,,False
+Liver Cancer,ERBB4,,,,,False
+Liver Cancer,FAT3,,,,,False
+Liver Cancer,FAT4,161,2,6,0.263,True
+Liver Cancer,FBLN2,,,,,False
+Liver Cancer,FBXW7,22,9,49,4.762,True
+Liver Cancer,FGFR2,150,3,61,0.337,True
+Liver Cancer,FLT4,,,,,False
+Liver Cancer,FUS,,,,,False
+Liver Cancer,GMPS,,,,,False
+Liver Cancer,GNAQ,25,8,22,4.055,True
+Liver Cancer,GNAS,52,6,21,2.187,True
+Liver Cancer,GPC5,,,,,False
+Liver Cancer,GRIN2A,,,,,False
+Liver Cancer,HNF1A,14,14,64,8.216,True
+Liver Cancer,HNRNPA2B1,,,,,False
+Liver Cancer,IDH1,37,9,53,2.918,True
+Liver Cancer,IDH2,75,5,22,1.231,True
+Liver Cancer,IKZF3,,,,,False
+Liver Cancer,IL6ST,58,5,15,1.925,True
+Liver Cancer,IL7R,,,,,False
+Liver Cancer,KDM6A,,,,,False
+Liver Cancer,KEAP1,46,10,114,2.526,True
+Liver Cancer,KLF4,,,,,False
+Liver Cancer,KMT2A,,,,,False
+Liver Cancer,KMT2B,100,3,8,0.683,True
+Liver Cancer,KMT2C,164,2,14,0.252,True
+Liver Cancer,KMT2D,44,6,8,2.667,True
+Liver Cancer,KNL1,,,,,False
+Liver Cancer,KRAS,1,110,599,155.775,True
+Liver Cancer,LEF1,,,,,False
+Liver Cancer,LRP1B,72,4,14,1.322,True
+Liver Cancer,LZTR1,,,,,False
+Liver Cancer,MAP2K4,,,,,False
+Liver Cancer,MAP3K1,,,,,False
+Liver Cancer,MAPK1,,,,,False
+Liver Cancer,MEN1,48,5,34,2.461,True
+Liver Cancer,MTOR,82,11,1277,1.05,True
+Liver Cancer,MUC6,,,,,False
+Liver Cancer,MYH11,,,,,False
+Liver Cancer,MYO5A,,,,,False
+Liver Cancer,N4BP2,,,,,False
+Liver Cancer,NBEA,,,,,False
+Liver Cancer,NCOR1,,,,,False
+Liver Cancer,NCOR2,,,,,False
+Liver Cancer,NF1,110,3,27,0.564,True
+Liver Cancer,NF2,115,2,19,0.519,True
+Liver Cancer,NFE2L2,18,13,31,5.82,True
+Liver Cancer,NOTCH1,190,2,186,0.133,True
+Liver Cancer,NPM1,,,,,False
+Liver Cancer,NRAS,7,44,135,57.518,True
+Liver Cancer,PABPC1,,,,,False
+Liver Cancer,PBRM1,86,4,16,0.931,True
+Liver Cancer,PIK3CA,5,50,147,65.358,True
+Liver Cancer,PIK3R1,,,,,False
+Liver Cancer,PMS2,,,,,False
+Liver Cancer,PRDM2,,,,,False
+Liver Cancer,PREX2,,,,,False
+Liver Cancer,PRKD1,,,,,False
+Liver Cancer,PTCH1,,,,,False
+Liver Cancer,PTEN,17,22,576,5.83,True
+Liver Cancer,PTPRC,,,,,False
+Liver Cancer,PTPRT,,,,,False
+Liver Cancer,RANBP2,,,,,False
+Liver Cancer,RB1,47,8,85,2.521,True
+Liver Cancer,RBM10,,,,,False
+Liver Cancer,RGPD3,,,,,False
+Liver Cancer,RNF213,,,,,False
+Liver Cancer,RNF43,,,,,False
+Liver Cancer,ROBO2,,,,,False
+Liver Cancer,ROS1,162,2,12,0.254,True
+Liver Cancer,RPL22,,,,,False
+Liver Cancer,RPS6KA3,77,4,9,1.182,True
+Liver Cancer,RUNX1T1,,,,,False
+Liver Cancer,SDHA,,,,,False
+Liver Cancer,SETD2,,,,,False
+Liver Cancer,SETDB1,,,,,False
+Liver Cancer,SF3B1,101,2,10,0.667,True
+Liver Cancer,SMAD4,36,11,184,2.92,True
+Liver Cancer,SMARCA4,130,3,23,0.447,True
+Liver Cancer,SMO,147,2,43,0.351,True
+Liver Cancer,STK11,59,6,18,1.913,True
+Liver Cancer,TAL1,,,,,False
+Liver Cancer,TCF7L2,174,2,17,0.197,True
+Liver Cancer,TET1,,,,,False
+Liver Cancer,TFG,,,,,False
+Liver Cancer,TOP1,,,,,False
+Liver Cancer,TP53,3,150,774,146.811,True
+Liver Cancer,TPR,,,,,False
+Liver Cancer,TRRAP,,,,,False
+Liver Cancer,TSC1,74,6,44,1.236,True
+Liver Cancer,TSC2,43,8,52,2.72,True
+Liver Cancer,U2AF1,,,,,False
+Liver Cancer,USP6,,,,,False
+Liver Cancer,USP8,,,,,False
+Liver Cancer,USP9X,,,,,False
+Liver Cancer,WNK2,,,,,False
+Liver Cancer,ZFHX3,,,,,False
+Liver Cancer,ZNF429,,,,,False
+Liver Cancer,ZNF521,,,,,False
+Stomach Cancer,ACVR2A,,,,,False
+Stomach Cancer,APC,9,71,355,41.555,True
+Stomach Cancer,AR,,,,,False
+Stomach Cancer,ARID1A,13,54,171,34.759,True
+Stomach Cancer,ARID1B,,,,,False
+Stomach Cancer,ARID2,60,5,7,2.301,True
+Stomach Cancer,ATM,18,27,118,16.443,True
+Stomach Cancer,ATR,63,8,32,2.079,True
+Stomach Cancer,BAP1,,,,,False
+Stomach Cancer,BCL9,,,,,False
+Stomach Cancer,BCLAF1,,,,,False
+Stomach Cancer,BCOR,68,4,6,1.89,True
+Stomach Cancer,BMPR1A,84,4,13,1.401,True
+Stomach Cancer,BRAF,8,45,94,41.866,True
+Stomach Cancer,CACNA1D,,,,,False
+Stomach Cancer,CASP8,91,4,17,1.176,True
+Stomach Cancer,CD209,,,,,False
+Stomach Cancer,CDH1,1,192,603,181.031,True
+Stomach Cancer,CDH11,,,,,False
+Stomach Cancer,CDK12,182,2,11,0.297,True
+Stomach Cancer,CDKN2A,50,11,88,2.81,True
+Stomach Cancer,CSMD3,,,,,False
+Stomach Cancer,CTNNB1,5,63,6,64.676,True
+Stomach Cancer,EPHA3,,,,,False
+Stomach Cancer,ERBB2,11,58,260,35.351,True
+Stomach Cancer,ERBB3,32,10,38,5.571,True
+Stomach Cancer,ERBB4,69,6,16,1.874,True
+Stomach Cancer,FAT3,,,,,False
+Stomach Cancer,FAT4,55,7,20,2.421,True
+Stomach Cancer,FBXW7,67,8,40,1.943,True
+Stomach Cancer,GSK3B,,,,,False
+Stomach Cancer,IL7R,,,,,False
+Stomach Cancer,ITGAV,,,,,False
+Stomach Cancer,KDM6A,89,3,10,1.274,True
+Stomach Cancer,KMT2C,39,8,15,4.121,True
+Stomach Cancer,KMT2D,31,9,2,5.6,True
+Stomach Cancer,KRAS,4,82,268,73.928,True
+Stomach Cancer,LRP1B,22,15,30,11.753,True
+Stomach Cancer,MAP2K7,,,,,False
+Stomach Cancer,NBEA,,,,,False
+Stomach Cancer,NCOA2,,,,,False
+Stomach Cancer,NF1,85,5,30,1.391,True
+Stomach Cancer,NIN,,,,,False
+Stomach Cancer,NRG1,,,,,False
+Stomach Cancer,NTRK3,,,,,False
+Stomach Cancer,PBRM1,,,,,False
+Stomach Cancer,PIK3CA,3,92,191,100.338,True
+Stomach Cancer,PIK3R1,,,,,False
+Stomach Cancer,PPP3CA,,,,,False
+Stomach Cancer,PREX2,193,2,7,0.253,True
+Stomach Cancer,PRKCB,,,,,False
+Stomach Cancer,PTEN,14,30,3,27.605,True
+Stomach Cancer,PTPRT,188,2,4,0.267,True
+Stomach Cancer,PWWP2A,,,,,False
+Stomach Cancer,RB1,51,8,38,2.808,True
+Stomach Cancer,RECQL4,,,,,False
+Stomach Cancer,RELA,,,,,False
+Stomach Cancer,RHOA,19,27,142,15.614,True
+Stomach Cancer,RNF43,40,8,23,4.065,True
+Stomach Cancer,ROS1,,,,,False
+Stomach Cancer,SETD1B,,,,,False
+Stomach Cancer,SMAD4,33,16,124,5.531,True
+Stomach Cancer,SMARCA4,76,5,14,1.721,True
+Stomach Cancer,TET1,213,2,17,0.204,True
+Stomach Cancer,TGFBR2,,,,,False
+Stomach Cancer,TOP2A,,,,,False
+Stomach Cancer,TP53,2,150,490,138.235,True
+Stomach Cancer,TRIM49C,,,,,False
+Stomach Cancer,TSC1,174,2,9,0.334,True
+Stomach Cancer,TSC2,110,4,7,0.793,True
+Stomach Cancer,U2AF1,,,,,False
+Stomach Cancer,UBR5,,,,,False
+Stomach Cancer,ZCCHC8,,,,,False
+Stomach Cancer,ZNF814,,,,,False
+Esophageal Cancer,AKAP9,,,,,False
+Esophageal Cancer,APC,15,30,155,15.084,True
+Esophageal Cancer,ARID1A,21,17,22,9.303,True
+Esophageal Cancer,ARID2,,,,,False
+Esophageal Cancer,ASXL1,,,,,False
+Esophageal Cancer,ATM,45,9,37,2.551,True
+Esophageal Cancer,AXIN1,62,4,6,1.587,True
+Esophageal Cancer,BAP1,53,5,5,1.982,True
+Esophageal Cancer,CANT1,,,,,False
+Esophageal Cancer,CBL,,,,,False
+Esophageal Cancer,CDH1,55,9,53,1.845,True
+Esophageal Cancer,CDH11,183,2,5,0.315,True
+Esophageal Cancer,CDKN2A,4,64,5,52.574,True
+Esophageal Cancer,CDX2,170,4,67,0.342,True
+Esophageal Cancer,CLIP1,,,,,False
+Esophageal Cancer,CREBBP,74,4,5,1.182,True
+Esophageal Cancer,CSMD3,98,3,3,0.738,True
+Esophageal Cancer,CTNNB1,16,24,29,14.411,True
+Esophageal Cancer,CTNND2,,,,,False
+Esophageal Cancer,DCC,229,2,13,0.178,True
+Esophageal Cancer,EP300,26,12,15,6.288,True
+Esophageal Cancer,EPHA3,,,,,False
+Esophageal Cancer,ERBB2,7,51,122,30.016,True
+Esophageal Cancer,ERBB4,38,4,2,3.958,True
+Esophageal Cancer,FAT1,36,11,20,4.04,True
+Esophageal Cancer,FAT4,163,2,4,0.361,True
+Esophageal Cancer,FBXW7,25,11,19,6.31,True
+Esophageal Cancer,GNAS,199,2,4,0.253,True
+Esophageal Cancer,GRM3,,,,,False
+Esophageal Cancer,H3C2,,,,,False
+Esophageal Cancer,HLA-A,,,,,False
+Esophageal Cancer,HLA-B,,,,,False
+Esophageal Cancer,IL7R,,,,,False
+Esophageal Cancer,KAT6A,,,,,False
+Esophageal Cancer,KDM6A,79,4,5,1.08,True
+Esophageal Cancer,KMT2A,,,,,False
+Esophageal Cancer,KMT2C,75,4,9,1.165,True
+Esophageal Cancer,KMT2D,24,14,19,6.314,True
+Esophageal Cancer,KRAS,5,51,74,43.957,True
+Esophageal Cancer,LRP1B,105,3,5,0.618,True
+Esophageal Cancer,MAP2K4,,,,,False
+Esophageal Cancer,MSN,,,,,False
+Esophageal Cancer,MYH9,,,,,False
+Esophageal Cancer,NBEA,,,,,False
+Esophageal Cancer,NCOA2,,,,,False
+Esophageal Cancer,NCOR2,,,,,False
+Esophageal Cancer,NFE2L2,11,30,35,22.504,True
+Esophageal Cancer,NOTCH1,8,36,69,29.827,True
+Esophageal Cancer,NOTCH2,94,4,12,0.777,True
+Esophageal Cancer,NRG1,,,,,False
+Esophageal Cancer,NSD1,,,,,False
+Esophageal Cancer,NTRK3,,,,,False
+Esophageal Cancer,NUMA1,,,,,False
+Esophageal Cancer,NUTM1,,,,,False
+Esophageal Cancer,PBRM1,101,2,2,0.682,True
+Esophageal Cancer,PIK3CA,3,82,113,84.078,True
+Esophageal Cancer,POLD1,,,,,False
+Esophageal Cancer,PREX2,,,,,False
+Esophageal Cancer,PTCH1,51,5,15,2.05,True
+Esophageal Cancer,PTEN,13,21,1,16.846,True
+Esophageal Cancer,PTPRD,153,2,4,0.392,True
+Esophageal Cancer,PTPRT,,,,,False
+Esophageal Cancer,RAP1GDS1,,,,,False
+Esophageal Cancer,RB1,40,10,23,3.723,True
+Esophageal Cancer,RNF213,,,,,False
+Esophageal Cancer,RNF43,,,,,False
+Esophageal Cancer,ROBO2,,,,,False
+Esophageal Cancer,SETD1B,,,,,False
+Esophageal Cancer,SMAD4,20,19,54,9.482,True
+Esophageal Cancer,SMARCA4,32,11,1,4.985,True
+Esophageal Cancer,TEC,,,,,False
+Esophageal Cancer,TGFBR1,,,,,False
+Esophageal Cancer,TGFBR2,106,3,14,0.615,True
+Esophageal Cancer,TP53,1,214,312,249.986,True
+Esophageal Cancer,TSC2,201,2,8,0.248,True
+Esophageal Cancer,ZBTB16,,,,,False
+Esophageal Cancer,ZNF208,,,,,False
+Esophageal Cancer,ZNF521,,,,,False
+Esophageal Cancer,ZNF750,35,10,16,4.086,True
+Ovarian Cancer,ACKR3,,,,,False
+Ovarian Cancer,ARHGAP35,,,,,False
+Ovarian Cancer,ARID1A,7,31,25,37.217,True
+Ovarian Cancer,ARID2,,,,,False
+Ovarian Cancer,ATRX,108,2,8,0.202,True
+Ovarian Cancer,BRAF,10,53,255,30.256,True
+Ovarian Cancer,BRCA1,1,585,4046,469.042,True
+Ovarian Cancer,BRCA2,2,466,2463,402.603,True
+Ovarian Cancer,CARD11,,,,,False
+Ovarian Cancer,CDK12,45,2,31,1.63,True
+Ovarian Cancer,CREBBP,,,,,False
+Ovarian Cancer,CSMD3,74,2,5,0.569,True
+Ovarian Cancer,CTNNB1,9,39,188,34.745,True
+Ovarian Cancer,CTNND2,,,,,False
+Ovarian Cancer,ELL,,,,,False
+Ovarian Cancer,ERBB2,27,18,171,5.181,True
+Ovarian Cancer,FAT1,,,,,False
+Ovarian Cancer,FGFR1,,,,,False
+Ovarian Cancer,FOXL2,28,18,190,5.174,True
+Ovarian Cancer,GPC5,,,,,False
+Ovarian Cancer,JAK1,,,,,False
+Ovarian Cancer,KDM5C,,,,,False
+Ovarian Cancer,KMT2A,,,,,False
+Ovarian Cancer,KMT2C,,,,,False
+Ovarian Cancer,KMT2D,101,2,11,0.239,True
+Ovarian Cancer,KRAS,5,79,473,62.277,True
+Ovarian Cancer,LATS1,,,,,False
+Ovarian Cancer,LRP1B,,,,,False
+Ovarian Cancer,MYH9,,,,,False
+Ovarian Cancer,NBEA,,,,,False
+Ovarian Cancer,NF1,78,5,75,0.509,True
+Ovarian Cancer,NF2,,,,,False
+Ovarian Cancer,NOTCH1,,,,,False
+Ovarian Cancer,NRAS,30,13,81,3.33,True
+Ovarian Cancer,NUTM1,,,,,False
+Ovarian Cancer,PALB2,16,34,229,20.85,True
+Ovarian Cancer,PIK3CA,6,74,388,61.85,True
+Ovarian Cancer,PIK3R1,37,8,37,2.397,True
+Ovarian Cancer,PPP2R1A,23,13,36,8.175,True
+Ovarian Cancer,PREX2,,,,,False
+Ovarian Cancer,PTEN,11,57,697,28.438,True
+Ovarian Cancer,PTPRB,,,,,False
+Ovarian Cancer,PTPRD,,,,,False
+Ovarian Cancer,PTPRT,,,,,False
+Ovarian Cancer,RB1,88,4,92,0.344,True
+Ovarian Cancer,RNF43,76,3,8,0.547,True
+Ovarian Cancer,ROS1,,,,,False
+Ovarian Cancer,SETD1B,,,,,False
+Ovarian Cancer,SMARCA4,34,9,44,2.977,True
+Ovarian Cancer,STAT5B,,,,,False
+Ovarian Cancer,TNC,,,,,False
+Ovarian Cancer,TP53,3,120,944,95.353,True
+Ovarian Cancer,WWTR1,,,,,False
+Ovarian Cancer,ZNF521,,,,,False
+Endometrial Cancer,ABL1,,,,,False
+Endometrial Cancer,ABL2,,,,,False
+Endometrial Cancer,ACVR1,,,,,False
+Endometrial Cancer,ACVR2A,,,,,False
+Endometrial Cancer,AKAP9,,,,,False
+Endometrial Cancer,AKT1,24,13,42,6.07,True
+Endometrial Cancer,ARHGAP35,98,3,1,0.648,True
+Endometrial Cancer,ARID1A,9,90,16,82.171,True
+Endometrial Cancer,ARID1B,166,2,17,0.203,True
+Endometrial Cancer,ATF7IP,,,,,False
+Endometrial Cancer,ATM,20,19,33,11.384,True
+Endometrial Cancer,BCLAF1,,,,,False
+Endometrial Cancer,BCOR,111,5,49,0.501,True
+Endometrial Cancer,BIRC6,,,,,False
+Endometrial Cancer,BRAF,15,40,58,24.359,True
+Endometrial Cancer,CCND1,21,18,34,7.552,True
+Endometrial Cancer,CDC73,,,,,False
+Endometrial Cancer,CDH10,,,,,False
+Endometrial Cancer,CHD4,64,6,8,1.371,True
+Endometrial Cancer,CSMD3,91,2,2,0.746,True
+Endometrial Cancer,CTCF,74,5,10,1.064,True
+Endometrial Cancer,CTNNB1,8,122,191,101.175,True
+Endometrial Cancer,DICER1,56,5,4,1.881,True
+Endometrial Cancer,EIF1AX,,,,,False
+Endometrial Cancer,ERBB2,14,41,59,26.975,True
+Endometrial Cancer,ERBB3,71,4,6,1.159,True
+Endometrial Cancer,ESR1,29,12,70,4.83,True
+Endometrial Cancer,FAM135B,,,,,False
+Endometrial Cancer,FAT1,97,2,3,0.665,True
+Endometrial Cancer,FBXW7,17,31,1,20.65,True
+Endometrial Cancer,FGFR2,18,36,63,18.701,True
+Endometrial Cancer,FGFR4,102,2,1,0.614,True
+Endometrial Cancer,FLT4,,,,,False
+Endometrial Cancer,FOXA2,61,4,9,1.497,True
+Endometrial Cancer,HIP1,,,,,False
+Endometrial Cancer,ING1,,,,,False
+Endometrial Cancer,INPPL1,,,,,False
+Endometrial Cancer,JAK1,49,6,13,2.269,True
+Endometrial Cancer,KMT2C,,,,,False
+Endometrial Cancer,KMT2D,107,3,6,0.546,True
+Endometrial Cancer,KRAS,6,135,208,120.704,True
+Endometrial Cancer,LRP1B,130,2,2,0.331,True
+Endometrial Cancer,LSM14A,,,,,False
+Endometrial Cancer,LZTR1,,,,,False
+Endometrial Cancer,MAP3K1,,,,,False
+Endometrial Cancer,MAX,110,3,36,0.507,True
+Endometrial Cancer,MECOM,,,,,False
+Endometrial Cancer,MED12,156,2,7,0.224,True
+Endometrial Cancer,MTOR,31,26,263,4.732,True
+Endometrial Cancer,MYCN,,,,,False
+Endometrial Cancer,NCKIPSD,,,,,False
+Endometrial Cancer,NF1,59,5,13,1.605,True
+Endometrial Cancer,NFE2L2,68,3,1,1.174,True
+Endometrial Cancer,NRAS,30,13,19,4.83,True
+Endometrial Cancer,NSD1,,,,,False
+Endometrial Cancer,PBRM1,,,,,False
+Endometrial Cancer,PDGFRB,,,,,False
+Endometrial Cancer,PIK3CA,3,187,272,186.103,True
+Endometrial Cancer,PIK3R1,19,30,54,14.79,True
+Endometrial Cancer,POLQ,,,,,False
+Endometrial Cancer,PPP2R1A,16,36,42,22.65,True
+Endometrial Cancer,PTEN,1,251,6,250.048,True
+Endometrial Cancer,PTPN13,,,,,False
+Endometrial Cancer,RB1,73,7,25,1.13,True
+Endometrial Cancer,RBM39,,,,,False
+Endometrial Cancer,RNF213,,,,,False
+Endometrial Cancer,RNF43,169,2,5,0.184,True
+Endometrial Cancer,ROBO2,,,,,False
+Endometrial Cancer,RRAS2,,,,,False
+Endometrial Cancer,SETDB1,,,,,False
+Endometrial Cancer,SOS1,,,,,False
+Endometrial Cancer,SOX17,,,,,False
+Endometrial Cancer,SPOP,41,10,19,3.129,True
+Endometrial Cancer,STAG2,,,,,False
+Endometrial Cancer,TP53,5,177,384,128.492,True
+Endometrial Cancer,U2AF1,,,,,False
+Endometrial Cancer,WNT1,,,,,False
+Endometrial Cancer,ZBTB7B,,,,,False
+Endometrial Cancer,ZFHX3,120,2,2,0.408,True
+Cervical Cancer,AKT1,141,2,33,0.458,True
+Cervical Cancer,ARID1A,10,22,3,19.073,True
+Cervical Cancer,ARID1B,59,3,5,1.388,True
+Cervical Cancer,B2M,,,,,False
+Cervical Cancer,BAP1,118,2,3,0.597,True
+Cervical Cancer,BRCA2,18,15,21,10.935,True
+Cervical Cancer,CASP8,209,2,10,0.233,True
+Cervical Cancer,CDK12,,,,,False
+Cervical Cancer,CLIP1,,,,,False
+Cervical Cancer,CTNNA1,,,,,False
+Cervical Cancer,CYSLTR2,,,,,False
+Cervical Cancer,EIF3E,,,,,False
+Cervical Cancer,EP300,29,8,14,6.174,True
+Cervical Cancer,ERBB2,5,38,59,43.702,True
+Cervical Cancer,ERBB3,41,7,14,3.065,True
+Cervical Cancer,ERCC3,,,,,False
+Cervical Cancer,FAS,156,3,17,0.367,True
+Cervical Cancer,FAT1,36,7,8,3.958,True
+Cervical Cancer,FBXW7,8,20,2,26.326,True
+Cervical Cancer,HLA-A,39,6,6,3.118,True
+Cervical Cancer,HLA-B,34,8,8,4.583,True
+Cervical Cancer,KLF5,,,,,False
+Cervical Cancer,KMT2C,32,5,5,4.845,True
+Cervical Cancer,KMT2D,14,13,14,13.48,True
+Cervical Cancer,KRAS,2,57,76,112.81,True
+Cervical Cancer,LATS1,221,5,557,0.192,True
+Cervical Cancer,MAP3K1,,,,,False
+Cervical Cancer,MAPK1,147,2,13,0.389,True
+Cervical Cancer,MCM7,,,,,False
+Cervical Cancer,MED12,,,,,False
+Cervical Cancer,NBEA,,,,,False
+Cervical Cancer,NF2,,,,,False
+Cervical Cancer,NFE2L2,48,4,5,2.06,True
+Cervical Cancer,NOTCH1,33,11,54,4.723,True
+Cervical Cancer,NSD1,,,,,False
+Cervical Cancer,PBRM1,90,3,3,0.844,True
+Cervical Cancer,PIK3CA,1,138,152,270.666,True
+Cervical Cancer,PTEN,4,41,2,59.975,True
+Cervical Cancer,RB1,11,14,32,18.465,True
+Cervical Cancer,SIRPA,,,,,False
+Cervical Cancer,SMAD4,35,7,1,4.338,True
+Cervical Cancer,SND1,,,,,False
+Cervical Cancer,SPEN,239,2,53,0.108,True
+Cervical Cancer,STK11,7,36,17,33.059,True
+Cervical Cancer,TGFBR2,,,,,False
+Cervical Cancer,TP53,3,83,166,101.763,True
+Cervical Cancer,TP63,,,,,False
+Cervical Cancer,ZNF521,,,,,False
+Thyroid Cancer,AFF3,,,,,False
+Thyroid Cancer,AKT1,43,7,49,1.551,True
+Thyroid Cancer,ARHGAP5,,,,,False
+Thyroid Cancer,ARID1B,,,,,False
+Thyroid Cancer,ARID2,,,,,False
+Thyroid Cancer,ATM,148,2,53,0.074,True
+Thyroid Cancer,BCR,,,,,False
+Thyroid Cancer,BRAF,1,563,2523,485.275,True
+Thyroid Cancer,CDKN2A,109,3,37,0.263,True
+Thyroid Cancer,COL2A1,,,,,False
+Thyroid Cancer,CREBBP,,,,,False
+Thyroid Cancer,CUX1,,,,,False
+Thyroid Cancer,DGCR8,56,3,8,0.746,True
+Thyroid Cancer,DNMT3A,,,,,False
+Thyroid Cancer,EIF1AX,10,27,53,23.943,True
+Thyroid Cancer,FAM135B,,,,,False
+Thyroid Cancer,FAT3,,,,,False
+Thyroid Cancer,FAT4,,,,,False
+Thyroid Cancer,FGFR1,85,3,19,0.376,True
+Thyroid Cancer,HIF1A,,,,,False
+Thyroid Cancer,HRAS,6,84,183,74.564,True
+Thyroid Cancer,KMT2A,63,2,2,0.602,True
+Thyroid Cancer,KMT2C,,,,,False
+Thyroid Cancer,KRAS,5,89,225,75.401,True
+Thyroid Cancer,LRP1B,,,,,False
+Thyroid Cancer,MAP3K1,,,,,False
+Thyroid Cancer,MEN1,135,3,44,0.177,True
+Thyroid Cancer,NRAS,4,140,274,141.226,True
+Thyroid Cancer,PABPC1,,,,,False
+Thyroid Cancer,PDCD1LG2,,,,,False
+Thyroid Cancer,PICALM,,,,,False
+Thyroid Cancer,PIK3CA,7,55,129,36.725,True
+Thyroid Cancer,PPP2R1A,,,,,False
+Thyroid Cancer,PTCH1,,,,,False
+Thyroid Cancer,PTEN,14,40,293,13.394,True
+Thyroid Cancer,RET,2,337,5,407.812,True
+Thyroid Cancer,STAG2,,,,,False
+Thyroid Cancer,STK11,29,7,3,3.042,True
+Thyroid Cancer,TP53,8,53,236,33.415,True
+Thyroid Cancer,TSHR,13,36,219,15.857,True
+Thyroid Cancer,USP9X,,,,,False
+Thyroid Cancer,ZFHX3,,,,,False
+Brain Cancer,ACSM3,,,,,False
+Brain Cancer,ACVR1,59,4,45,1.749,True
+Brain Cancer,AR,,,,,False
+Brain Cancer,ARID1A,128,2,24,0.375,True
+Brain Cancer,ARID1B,,,,,False
+Brain Cancer,ARID2,,,,,False
+Brain Cancer,ASXL1,126,2,4,0.392,True
+Brain Cancer,ATRX,7,49,446,34.33,True
+Brain Cancer,AXIN1,,,,,False
+Brain Cancer,BCL11B,,,,,False
+Brain Cancer,BCOR,175,2,33,0.155,True
+Brain Cancer,BCORL1,,,,,False
+Brain Cancer,BRAF,6,115,1123,85.255,True
+Brain Cancer,BRCA2,91,4,52,0.728,True
+Brain Cancer,CCAR1,,,,,False
+Brain Cancer,CDKN2A,13,28,18,21.552,True
+Brain Cancer,CDKN2C,,,,,False
+Brain Cancer,CHD7,,,,,False
+Brain Cancer,CHRDL1,,,,,False
+Brain Cancer,CIC,37,10,74,4.147,True
+Brain Cancer,COL1A1,,,,,False
+Brain Cancer,CREBBP,150,2,14,0.283,True
+Brain Cancer,CSMD3,,,,,False
+Brain Cancer,CTNNB1,21,24,150,11.95,True
+Brain Cancer,CUX1,,,,,False
+Brain Cancer,DCAF12L2,,,,,False
+Brain Cancer,DDX3X,122,3,24,0.413,True
+Brain Cancer,DDX6,,,,,False
+Brain Cancer,DNMT3A,,,,,False
+Brain Cancer,EGFR,3,188,2485,134.784,True
+Brain Cancer,ELF4,,,,,False
+Brain Cancer,EP300,,,,,False
+Brain Cancer,EWSR1,,,,,False
+Brain Cancer,FAM174B,,,,,False
+Brain Cancer,FAT1,,,,,False
+Brain Cancer,FAT4,,,,,False
+Brain Cancer,FBXW7,,,,,False
+Brain Cancer,FGFR1,29,17,131,6.454,True
+Brain Cancer,FGFR4,102,3,28,0.567,True
+Brain Cancer,FOXO3,,,,,False
+Brain Cancer,FUBP1,88,4,37,0.8,True
+Brain Cancer,GNAS,28,6,2,7.151,True
+Brain Cancer,H3-3A,,,,,False
+Brain Cancer,HIP1,,,,,False
+Brain Cancer,IDH1,1,270,1668,277.209,True
+Brain Cancer,IDH2,5,89,301,90.798,True
+Brain Cancer,KAT6B,,,,,False
+Brain Cancer,KDM3B,,,,,False
+Brain Cancer,KDM6A,152,2,14,0.265,True
+Brain Cancer,KMT2C,137,2,11,0.322,True
+Brain Cancer,KMT2D,140,2,12,0.313,True
+Brain Cancer,KNL1,,,,,False
+Brain Cancer,KRAS,8,42,209,34.223,True
+Brain Cancer,LATS2,,,,,False
+Brain Cancer,LDB1,,,,,False
+Brain Cancer,LRP1B,,,,,False
+Brain Cancer,LZTR1,,,,,False
+Brain Cancer,MAP3K1,,,,,False
+Brain Cancer,MAX,,,,,False
+Brain Cancer,MED12,,,,,False
+Brain Cancer,MET,38,20,1608,3.919,True
+Brain Cancer,MTOR,89,9,746,0.759,True
+Brain Cancer,MYCN,66,7,194,1.408,True
+Brain Cancer,MYH11,,,,,False
+Brain Cancer,NCOR1,,,,,False
+Brain Cancer,NCOR2,,,,,False
+Brain Cancer,NF1,27,24,416,7.324,True
+Brain Cancer,NIPBL,,,,,False
+Brain Cancer,NKX2-1,,,,,False
+Brain Cancer,NOTCH1,125,4,121,0.393,True
+Brain Cancer,NRAS,23,15,65,9.248,True
+Brain Cancer,NSD1,,,,,False
+Brain Cancer,NTRK2,,,,,False
+Brain Cancer,NVL,,,,,False
+Brain Cancer,PCM1,,,,,False
+Brain Cancer,PDGFRA,17,26,248,13.605,True
+Brain Cancer,PIK3CA,9,44,166,31.427,True
+Brain Cancer,PIK3CB,,,,,False
+Brain Cancer,PIK3R1,49,7,33,2.978,True
+Brain Cancer,PLCG1,,,,,False
+Brain Cancer,POT1,,,,,False
+Brain Cancer,PPM1D,43,4,7,3.354,True
+Brain Cancer,PRKAR1A,101,2,51,0.571,True
+Brain Cancer,PTCH1,46,10,136,3.209,True
+Brain Cancer,PTEN,11,55,898,28.526,True
+Brain Cancer,PTPN11,47,6,25,3.179,True
+Brain Cancer,QKI,,,,,False
+Brain Cancer,RAD50,,,,,False
+Brain Cancer,RB1,35,13,160,5.316,True
+Brain Cancer,RNF213,,,,,False
+Brain Cancer,RPL5,,,,,False
+Brain Cancer,RUNX1,,,,,False
+Brain Cancer,RUNX1T1,,,,,False
+Brain Cancer,SDHA,104,3,14,0.534,True
+Brain Cancer,SETD2,45,7,18,3.268,True
+Brain Cancer,SF3B1,136,2,6,0.323,True
+Brain Cancer,SIRPA,,,,,False
+Brain Cancer,SMARCA4,54,5,59,2.21,True
+Brain Cancer,SMARCB1,55,8,125,1.903,True
+Brain Cancer,SMO,51,10,116,2.874,True
+Brain Cancer,STAG2,138,2,6,0.321,True
+Brain Cancer,SUFU,50,8,65,2.975,True
+Brain Cancer,TAL2,,,,,False
+Brain Cancer,TCF12,,,,,False
+Brain Cancer,TCF4,,,,,False
+Brain Cancer,TET1,,,,,False
+Brain Cancer,TP53,2,144,1021,140.113,True
+Brain Cancer,TPR,,,,,False
+Brain Cancer,TRIM33,,,,,False
+Brain Cancer,UBXN11,,,,,False
+Brain Cancer,WAS,,,,,False
+Brain Cancer,ZBTB20,,,,,False
+Brain Cancer,ZEB1,,,,,False
+Brain Cancer,ZMYM3,,,,,False
+Brain Cancer,ZNF274,,,,,False
+Leukemia,ACSL3,,,,,False
+Leukemia,AKT1,163,2,74,0.174,True
+Leukemia,APC,,,,,False
+Leukemia,ARHGAP35,,,,,False
+Leukemia,ARID1A,,,,,False
+Leukemia,ASXL1,7,81,557,73.481,True
+Leukemia,ASXL2,157,2,19,0.214,True
+Leukemia,ATM,38,17,440,4.739,True
+Leukemia,ATRX,,,,,False
+Leukemia,BCLAF1,,,,,False
+Leukemia,BCOR,31,13,102,6.931,True
+Leukemia,BCORL1,35,8,30,5.046,True
+Leukemia,BCR,4,143,2573,108.32,True
+Leukemia,BIRC3,43,8,89,3.328,True
+Leukemia,BRAF,26,20,254,9.248,True
+Leukemia,BTG1,,,,,False
+Leukemia,BTG2,,,,,False
+Leukemia,CBL,29,23,209,8.411,True
+Leukemia,CCND2,,,,,False
+Leukemia,CCNT1,,,,,False
+Leukemia,CEBPA,5,105,664,93.59,True
+Leukemia,CHD2,,,,,False
+Leukemia,CHD4,,,,,False
+Leukemia,CNOT3,,,,,False
+Leukemia,CREBBP,91,5,77,0.69,True
+Leukemia,CSF3R,27,15,100,8.916,True
+Leukemia,CTCF,181,2,72,0.114,True
+Leukemia,DDB2,,,,,False
+Leukemia,DDX3X,152,2,20,0.23,True
+Leukemia,DNMT3A,3,125,803,109.977,True
+Leukemia,DTX1,,,,,False
+Leukemia,EGR2,,,,,False
+Leukemia,ELF4,,,,,False
+Leukemia,ETV5,,,,,False
+Leukemia,ETV6,41,10,468,3.705,True
+Leukemia,EZH2,25,27,324,10.08,True
+Leukemia,FAT1,59,6,17,1.798,True
+Leukemia,FAT3,,,,,False
+Leukemia,FAT4,112,2,2,0.4,True
+Leukemia,FBXW7,30,18,112,7.198,True
+Leukemia,FGD5,,,,,False
+Leukemia,FLG,,,,,False
+Leukemia,FLT3,1,291,3030,237.468,True
+Leukemia,FOXO3,,,,,False
+Leukemia,FUBP1,,,,,False
+Leukemia,GATA2,32,17,217,6.382,True
+Leukemia,GATA3,,,,,False
+Leukemia,H4C9,,,,,False
+Leukemia,HCAR3,,,,,False
+Leukemia,HLA-A,,,,,False
+Leukemia,IDH1,10,82,632,60.078,True
+Leukemia,IDH2,14,68,510,49.034,True
+Leukemia,IKZF1,37,14,195,4.755,True
+Leukemia,IKZF3,83,3,21,0.767,True
+Leukemia,IL7R,69,6,74,1.285,True
+Leukemia,IRF4,,,,,False
+Leukemia,JAK1,50,12,186,2.696,True
+Leukemia,JAK2,22,50,802,19.383,True
+Leukemia,JAK3,48,11,122,2.924,True
+Leukemia,KDM6A,166,2,35,0.166,True
+Leukemia,KDR,128,3,40,0.291,True
+Leukemia,KIT,12,75,434,54.794,True
+Leukemia,KLF4,,,,,False
+Leukemia,KMT2C,,,,,False
+Leukemia,KMT2D,54,6,33,2.26,True
+Leukemia,KRAS,17,53,420,36.86,True
+Leukemia,LRP1B,,,,,False
+Leukemia,LYN,,,,,False
+Leukemia,MAML2,,,,,False
+Leukemia,MAPK1,,,,,False
+Leukemia,MED12,89,3,17,0.702,True
+Leukemia,MGA,,,,,False
+Leukemia,MTOR,148,5,849,0.235,True
+Leukemia,MUC6,,,,,False
+Leukemia,MYC,176,4,821,0.13,True
+Leukemia,MYD88,49,9,106,2.781,True
+Leukemia,MYH11,36,14,144,5.025,True
+Leukemia,NCAPH,,,,,False
+Leukemia,NCOR1,,,,,False
+Leukemia,NF1,51,11,170,2.532,True
+Leukemia,NFKBIE,,,,,False
+Leukemia,NKTR,,,,,False
+Leukemia,NOTCH1,19,59,860,25.253,True
+Leukemia,NOTCH2,81,5,60,0.83,True
+Leukemia,NRAS,6,101,551,82.809,True
+Leukemia,NSD2,100,3,10,0.512,True
+Leukemia,NT5C3A,,,,,False
+Leukemia,NTRK2,,,,,False
+Leukemia,NXF1,,,,,False
+Leukemia,PCMTD1,,,,,False
+Leukemia,PHF6,33,13,97,5.905,True
+Leukemia,POT1,156,2,31,0.215,True
+Leukemia,PRDM1,,,,,False
+Leukemia,PTK6,,,,,False
+Leukemia,PTPN11,15,38,71,42.761,True
+Leukemia,RAD21,101,3,34,0.51,True
+Leukemia,RIPK1,,,,,False
+Leukemia,ROBO2,,,,,False
+Leukemia,RUNX1,9,100,1274,62.335,True
+Leukemia,SALL4,,,,,False
+Leukemia,SETD2,71,5,47,1.244,True
+Leukemia,SETDB1,,,,,False
+Leukemia,SF3B1,21,40,330,22.716,True
+Leukemia,SH2B3,131,2,39,0.282,True
+Leukemia,SIRPA,,,,,False
+Leukemia,SLC34A2,,,,,False
+Leukemia,SMC1A,74,3,25,1.06,True
+Leukemia,SPEN,134,2,10,0.268,True
+Leukemia,SRSF2,18,43,263,29.714,True
+Leukemia,STAG2,40,7,67,4.066,True
+Leukemia,SUZ12,120,3,41,0.34,True
+Leukemia,TBL1XR1,,,,,False
+Leukemia,TET2,11,86,677,59.585,True
+Leukemia,THRAP3,,,,,False
+Leukemia,TNC,,,,,False
+Leukemia,TP53,8,115,1951,63.342,True
+Leukemia,U2AF1,16,27,8,41.672,True
+Leukemia,U2AF2,,,,,False
+Leukemia,UBR5,,,,,False
+Leukemia,USP6,,,,,False
+Leukemia,WT1,20,51,795,23.71,True
+Leukemia,XPO1,79,5,97,0.869,True
+Leukemia,ZCRB1,,,,,False
+Leukemia,ZMYM3,,,,,False
+Leukemia,ZRSR2,44,7,44,3.199,True
+Lymphoma,ANKRD11,,,,,False
+Lymphoma,AR,240,2,41,0.305,True
+Lymphoma,ARID1A,37,18,53,9.024,True
+Lymphoma,ARID1B,159,4,8,0.836,True
+Lymphoma,B2M,36,14,87,9.081,True
+Lymphoma,BCL10,39,20,147,8.566,True
+Lymphoma,BCL11A,,,,,False
+Lymphoma,BCL11B,112,4,32,1.677,True
+Lymphoma,BCL2,8,91,1680,38.641,True
+Lymphoma,BCL6,21,54,1206,17.486,True
+Lymphoma,BCL7A,178,3,10,0.577,True
+Lymphoma,BCR,73,20,598,3.923,True
+Lymphoma,BIRC6,168,2,5,0.696,True
+Lymphoma,BRAF,26,24,85,13.525,True
+Lymphoma,BTG1,121,6,19,1.457,True
+Lymphoma,BTG2,51,8,22,6.164,True
+Lymphoma,BTK,67,21,522,4.532,True
+Lymphoma,CARD11,11,42,136,33.159,True
+Lymphoma,CASP8,,,,,False
+Lymphoma,CCND3,42,15,68,7.937,True
+Lymphoma,CCR7,,,,,False
+Lymphoma,CD274,34,18,57,10.267,True
+Lymphoma,CD58,61,11,61,5.083,True
+Lymphoma,CD79B,4,68,4,78.526,True
+Lymphoma,CDH1,216,2,18,0.383,True
+Lymphoma,CDK12,,,,,False
+Lymphoma,CDKN2A,16,32,45,22.337,True
+Lymphoma,CDKN2C,,,,,False
+Lymphoma,CIITA,137,4,46,1.152,True
+Lymphoma,CREBBP,7,48,157,40.959,True
+Lymphoma,CXCR4,50,17,236,6.263,True
+Lymphoma,DDX3X,71,11,37,4.044,True
+Lymphoma,DGCR8,,,,,False
+Lymphoma,DOT1L,,,,,False
+Lymphoma,EBF1,285,2,17,0.179,True
+Lymphoma,EP300,31,16,39,12.207,True
+Lymphoma,ETV6,143,4,47,0.98,True
+Lymphoma,EZH2,6,60,317,51.414,True
+Lymphoma,FAS,30,25,117,12.243,True
+Lymphoma,FAT1,74,9,11,3.68,True
+Lymphoma,FAT3,,,,,False
+Lymphoma,FAT4,267,2,6,0.254,True
+Lymphoma,FBXO11,191,3,9,0.493,True
+Lymphoma,FCGR2B,,,,,False
+Lymphoma,FHIT,,,,,False
+Lymphoma,FOXO1,77,10,70,3.468,True
+Lymphoma,GNA13,70,9,46,4.077,True
+Lymphoma,GNAI2,,,,,False
+Lymphoma,H3C2,,,,,False
+Lymphoma,HLA-A,,,,,False
+Lymphoma,HLA-B,136,4,4,1.201,True
+Lymphoma,HLA-C,,,,,False
+Lymphoma,ID3,58,14,58,5.368,True
+Lymphoma,IKZF3,,,,,False
+Lymphoma,IRF4,123,9,301,1.423,True
+Lymphoma,JAK1,103,8,91,1.887,True
+Lymphoma,KDR,246,2,13,0.295,True
+Lymphoma,KLHL6,126,5,19,1.312,True
+Lymphoma,KMT2D,5,68,185,54.37,True
+Lymphoma,KRAS,43,15,60,7.931,True
+Lymphoma,LYN,237,3,69,0.316,True
+Lymphoma,MALT1,107,12,252,1.839,True
+Lymphoma,MAP2K1,114,5,23,1.635,True
+Lymphoma,MEF2B,32,15,40,11.352,True
+Lymphoma,MYC,3,91,3,89.486,True
+Lymphoma,MYD88,1,169,463,204.701,True
+Lymphoma,NCOR1,,,,,False
+Lymphoma,NFKB2,,,,,False
+Lymphoma,NFKBIA,64,9,19,4.856,True
+Lymphoma,NFKBIE,89,5,15,2.531,True
+Lymphoma,NOTCH1,15,39,191,23.369,True
+Lymphoma,NOTCH2,22,28,88,16.683,True
+Lymphoma,NSD1,,,,,False
+Lymphoma,NSD2,99,6,13,2.048,True
+Lymphoma,P2RY8,266,2,6,0.255,True
+Lymphoma,PABPC1,,,,,False
+Lymphoma,PAX5,109,11,343,1.707,True
+Lymphoma,PCBP1,,,,,False
+Lymphoma,PHF6,,,,,False
+Lymphoma,PIM1,14,27,108,23.431,True
+Lymphoma,POU2F2,184,3,8,0.538,True
+Lymphoma,PRDM1,69,14,106,4.139,True
+Lymphoma,PREX2,,,,,False
+Lymphoma,PRKCB,,,,,False
+Lymphoma,PRKCD,,,,,False
+Lymphoma,PTPN6,282,2,12,0.201,True
+Lymphoma,PTPRC,,,,,False
+Lymphoma,PTPRD,154,4,8,0.909,True
+Lymphoma,RASA2,,,,,False
+Lymphoma,RBM38,,,,,False
+Lymphoma,RHOA,12,44,141,29.648,True
+Lymphoma,ROBO2,,,,,False
+Lymphoma,RPL10,,,,,False
+Lymphoma,RRAGC,271,2,6,0.238,True
+Lymphoma,SGK1,80,5,15,3.161,True
+Lymphoma,SIN3A,,,,,False
+Lymphoma,SIRPA,,,,,False
+Lymphoma,SMARCA4,101,6,23,1.925,True
+Lymphoma,SOCS1,20,18,75,18.063,True
+Lymphoma,SPEN,63,10,20,5.008,True
+Lymphoma,SPOP,,,,,False
+Lymphoma,STAT3,23,37,539,15.529,True
+Lymphoma,STAT6,52,16,122,6.153,True
+Lymphoma,TBL1XR1,33,17,40,10.48,True
+Lymphoma,TBX3,,,,,False
+Lymphoma,TCL1A,115,2,10,1.627,True
+Lymphoma,TET2,10,54,194,33.793,True
+Lymphoma,TFAP4,,,,,False
+Lymphoma,TMSB4X,,,,,False
+Lymphoma,TNC,,,,,False
+Lymphoma,TNFAIP3,13,41,135,28.395,True
+Lymphoma,TNFRSF14,17,21,12,21.838,True
+Lymphoma,TP53,2,156,708,147.133,True
+Lymphoma,UBE2A,134,2,3,1.229,True
+Lymphoma,USP7,,,,,False
+Lymphoma,XPO1,78,9,53,3.41,True
+Lymphoma,ZFHX3,,,,,False
+Lymphoma,ZFP36L1,,,,,False
+Myeloma,ADAMTS9,,,,,False
+Myeloma,AR,,,,,False
+Myeloma,ARHGAP5,,,,,False
+Myeloma,ATM,17,11,40,10.287,True
+Myeloma,BCL7A,80,3,3,1.02,True
+Myeloma,BRAF,3,65,73,132.198,True
+Myeloma,BTG1,,,,,False
+Myeloma,CCND1,10,27,117,17.486,True
+Myeloma,CDKN1B,186,2,8,0.241,True
+Myeloma,COL1A1,,,,,False
+Myeloma,CXCR4,101,6,173,0.746,True
+Myeloma,CYLD,19,9,13,10.022,True
+Myeloma,DIS3,5,33,1,51.556,True
+Myeloma,DNMT3A,15,14,22,10.759,True
+Myeloma,EFTUD2,,,,,False
+Myeloma,EGFR,171,4,103,0.318,True
+Myeloma,FGFR3,9,38,155,25.845,True
+Myeloma,IDH1,82,2,2,0.964,True
+Myeloma,IKBKB,,,,,False
+Myeloma,IRAK1,,,,,False
+Myeloma,IRF1,160,2,7,0.353,True
+Myeloma,IRF4,11,25,134,14.889,True
+Myeloma,KDM5C,,,,,False
+Myeloma,KRAS,4,62,70,112.597,True
+Myeloma,LRP1B,84,2,3,0.949,True
+Myeloma,MAF,26,16,77,5.416,True
+Myeloma,MAP3K1,,,,,False
+Myeloma,MAX,69,4,77,1.27,True
+Myeloma,NFKBIA,133,2,2,0.469,True
+Myeloma,NRAS,1,81,65,155.184,True
+Myeloma,NSD2,20,17,34,9.747,True
+Myeloma,PABPC1,,,,,False
+Myeloma,PARP4,,,,,False
+Myeloma,PIM1,,,,,False
+Myeloma,PRDM1,33,8,18,4.32,True
+Myeloma,PRDM16,,,,,False
+Myeloma,PRKD2,91,2,3,0.882,True
+Myeloma,PTPN11,111,2,2,0.611,True
+Myeloma,RB1,13,16,46,13.142,True
+Myeloma,RPL10,,,,,False
+Myeloma,RPS3A,,,,,False
+Myeloma,SAMHD1,,,,,False
+Myeloma,SETD2,156,2,2,0.367,True
+Myeloma,SF3B1,49,5,5,2.101,True
+Myeloma,SP140,67,3,3,1.33,True
+Myeloma,TENT5C,45,3,3,2.286,True
+Myeloma,TET2,16,15,17,10.468,True
+Myeloma,TP53,2,118,219,133.898,True
+Myeloma,TRAF3,12,13,27,13.258,True
+Myeloma,USP7,,,,,False
+Myeloma,USP8,,,,,False
+Myeloma,ZEB1,,,,,False
+Myeloma,ZFHX3,,,,,False

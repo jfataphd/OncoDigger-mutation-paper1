@@ -1,0 +1,191 @@
+cancer,gene,intogen_any,intogen_exact
+Breast Cancer,PIK3CA,True,True
+Breast Cancer,TP53,True,True
+Breast Cancer,TTN,False,False
+Breast Cancer,CDH1,True,True
+Breast Cancer,MUC16,False,False
+Breast Cancer,GATA3,True,True
+Breast Cancer,KMT2C,True,True
+Breast Cancer,MAP3K1,True,True
+Breast Cancer,PIK3R1,True,True
+Breast Cancer,AKT1,True,True
+Lung Cancer,TP53,True,True
+Lung Cancer,TTN,False,False
+Lung Cancer,MUC16,False,False
+Lung Cancer,CSMD3,True,True
+Lung Cancer,KRAS,True,True
+Lung Cancer,LRP1B,True,True
+Lung Cancer,RYR2,False,False
+Lung Cancer,KEAP1,True,True
+Lung Cancer,STK11,True,True
+Lung Cancer,EGFR,True,True
+Colorectal Cancer,APC,True,True
+Colorectal Cancer,TP53,True,True
+Colorectal Cancer,TTN,False,False
+Colorectal Cancer,KRAS,True,True
+Colorectal Cancer,PIK3CA,True,True
+Colorectal Cancer,MUC16,False,False
+Colorectal Cancer,SYNE1,False,False
+Colorectal Cancer,FAT4,True,True
+Colorectal Cancer,RYR2,False,False
+Colorectal Cancer,OBSCN,False,False
+Prostate Cancer,TP53,True,True
+Prostate Cancer,SPOP,True,True
+Prostate Cancer,TTN,False,False
+Prostate Cancer,FOXA1,True,True
+Prostate Cancer,KMT2D,True,True
+Prostate Cancer,KMT2C,True,True
+Prostate Cancer,APC,True,True
+Prostate Cancer,ATM,True,True
+Prostate Cancer,CDK12,True,True
+Prostate Cancer,PIK3CA,True,True
+Melanoma,BRAF,True,True
+Melanoma,NRAS,True,True
+Melanoma,NF1,True,True
+Melanoma,TP53,True,True
+Melanoma,TTN,False,False
+Melanoma,MUC16,False,False
+Melanoma,LRP1B,True,True
+Melanoma,CDKN2A,True,True
+Melanoma,FAT4,True,True
+Melanoma,RYR2,False,False
+Bladder Cancer,TP53,True,True
+Bladder Cancer,TTN,False,False
+Bladder Cancer,KDM6A,True,True
+Bladder Cancer,ARID1A,True,True
+Bladder Cancer,KMT2D,True,True
+Bladder Cancer,PIK3CA,True,True
+Bladder Cancer,KMT2C,True,True
+Bladder Cancer,MUC16,False,False
+Bladder Cancer,RB1,True,True
+Bladder Cancer,FGFR3,True,True
+Kidney Cancer,VHL,True,True
+Kidney Cancer,PBRM1,True,True
+Kidney Cancer,TTN,False,False
+Kidney Cancer,SETD2,True,True
+Kidney Cancer,BAP1,True,True
+Kidney Cancer,KDM5C,True,True
+Kidney Cancer,MUC16,False,False
+Kidney Cancer,MTOR,True,True
+Kidney Cancer,KMT2C,True,True
+Kidney Cancer,TP53,True,True
+Pancreatic Cancer,KRAS,True,True
+Pancreatic Cancer,TP53,True,True
+Pancreatic Cancer,SMAD4,True,True
+Pancreatic Cancer,CDKN2A,True,True
+Pancreatic Cancer,TTN,False,False
+Pancreatic Cancer,MUC16,False,False
+Pancreatic Cancer,RNF43,True,True
+Pancreatic Cancer,GNAS,True,True
+Pancreatic Cancer,KDM6A,True,True
+Pancreatic Cancer,ARID1A,True,True
+Liver Cancer,TP53,True,True
+Liver Cancer,CTNNB1,True,True
+Liver Cancer,TTN,False,False
+Liver Cancer,MUC16,False,False
+Liver Cancer,ALB,False,False
+Liver Cancer,AXIN1,True,True
+Liver Cancer,ARID1A,True,True
+Liver Cancer,APOB,False,False
+Liver Cancer,FAT4,True,True
+Liver Cancer,KEAP1,True,True
+Stomach Cancer,TP53,True,True
+Stomach Cancer,TTN,False,False
+Stomach Cancer,MUC16,False,False
+Stomach Cancer,ARID1A,True,True
+Stomach Cancer,CDH1,True,True
+Stomach Cancer,LRP1B,True,True
+Stomach Cancer,PIK3CA,True,True
+Stomach Cancer,SYNE1,False,False
+Stomach Cancer,FAT4,True,True
+Stomach Cancer,KMT2C,True,True
+Esophageal Cancer,TP53,True,True
+Esophageal Cancer,TTN,False,False
+Esophageal Cancer,MUC16,False,False
+Esophageal Cancer,FAT4,True,True
+Esophageal Cancer,CSMD3,True,True
+Esophageal Cancer,SYNE1,False,False
+Esophageal Cancer,LRP1B,True,True
+Esophageal Cancer,PIK3CA,True,True
+Esophageal Cancer,CDKN2A,True,True
+Esophageal Cancer,KMT2D,True,True
+Ovarian Cancer,TP53,True,True
+Ovarian Cancer,TTN,False,False
+Ovarian Cancer,MUC16,False,False
+Ovarian Cancer,CSMD3,True,True
+Ovarian Cancer,BRCA1,True,True
+Ovarian Cancer,BRCA2,True,True
+Ovarian Cancer,FAT3,True,False
+Ovarian Cancer,NF1,True,True
+Ovarian Cancer,LRP1B,True,True
+Ovarian Cancer,RYR2,False,False
+Endometrial Cancer,PTEN,True,True
+Endometrial Cancer,PIK3CA,True,True
+Endometrial Cancer,TP53,True,True
+Endometrial Cancer,ARID1A,True,True
+Endometrial Cancer,TTN,False,False
+Endometrial Cancer,PIK3R1,True,True
+Endometrial Cancer,KMT2D,True,True
+Endometrial Cancer,CTNNB1,True,True
+Endometrial Cancer,RPL22,True,False
+Endometrial Cancer,KRAS,True,True
+Cervical Cancer,PIK3CA,True,True
+Cervical Cancer,KMT2D,True,True
+Cervical Cancer,EP300,True,True
+Cervical Cancer,FBXW7,True,True
+Cervical Cancer,MAPK1,True,True
+Cervical Cancer,PTEN,True,True
+Cervical Cancer,TP53,True,True
+Cervical Cancer,HLA-B,True,True
+Cervical Cancer,CASP8,True,True
+Cervical Cancer,FAT1,True,True
+Thyroid Cancer,BRAF,True,True
+Thyroid Cancer,NRAS,True,True
+Thyroid Cancer,HRAS,True,True
+Thyroid Cancer,TTN,False,False
+Thyroid Cancer,MUC16,False,False
+Thyroid Cancer,RYR2,False,False
+Thyroid Cancer,DNAH5,False,False
+Thyroid Cancer,FAT1,True,False
+Thyroid Cancer,DICER1,True,False
+Thyroid Cancer,LRP1B,True,True
+Brain Cancer,TP53,True,True
+Brain Cancer,IDH1,True,True
+Brain Cancer,PTEN,True,True
+Brain Cancer,ATRX,True,True
+Brain Cancer,EGFR,True,True
+Brain Cancer,NF1,True,True
+Brain Cancer,TTN,False,False
+Brain Cancer,PIK3CA,True,True
+Brain Cancer,CIC,True,True
+Brain Cancer,PIK3R1,True,True
+Leukemia,NPM1,True,False
+Leukemia,DNMT3A,True,True
+Leukemia,FLT3,True,True
+Leukemia,IDH2,True,True
+Leukemia,IDH1,True,True
+Leukemia,TET2,True,True
+Leukemia,RUNX1,True,True
+Leukemia,TP53,True,True
+Leukemia,CEBPA,True,True
+Leukemia,WT1,True,True
+Lymphoma,KMT2D,True,True
+Lymphoma,TP53,True,True
+Lymphoma,CREBBP,True,True
+Lymphoma,GNA13,True,True
+Lymphoma,EZH2,True,True
+Lymphoma,MYD88,True,True
+Lymphoma,TNFRSF14,True,True
+Lymphoma,B2M,True,True
+Lymphoma,CD79B,True,True
+Lymphoma,CARD11,True,True
+Myeloma,KRAS,True,True
+Myeloma,NRAS,True,True
+Myeloma,TP53,True,True
+Myeloma,DIS3,True,True
+Myeloma,FAM46C,False,False
+Myeloma,BRAF,True,True
+Myeloma,CYLD,True,True
+Myeloma,TRAF3,True,True
+Myeloma,ATM,True,True
+Myeloma,RB1,True,True

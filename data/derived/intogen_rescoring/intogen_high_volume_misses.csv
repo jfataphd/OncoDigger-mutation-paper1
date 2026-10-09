@@ -1,0 +1,32 @@
+cancer,gene,engine_rank,supporting_papers,corpus_papers,relevance_score,surfaced_at_all,is_absent,n_methods,full_corpus_postings
+Brain Cancer,MAX,,,,,False,False,2,427.0
+Breast Cancer,FOXA1,,,,,False,False,5,308.0
+Leukemia,HLA-A,,,,,False,False,2,252.0
+Lung Cancer,SMAD4,,,,,False,False,2,152.0
+Breast Cancer,CASP8,,,,,False,False,3,111.0
+Lymphoma,HLA-A,,,,,False,False,4,95.0
+Leukemia,IRF4,,,,,False,False,3,81.0
+Colorectal Cancer,ERBB3,,,,,False,False,4,79.0
+Lung Cancer,HLA-A,,,,,False,False,4,73.0
+Breast Cancer,ARID1A,,,,,False,False,4,66.0
+Breast Cancer,RUNX1,,,,,False,False,5,65.0
+Breast Cancer,CDKN1B,,,,,False,False,2,50.0
+Leukemia,CCND2,,,,,False,False,3,47.0
+Breast Cancer,TBX3,,,,,False,False,3,42.0
+Breast Cancer,NCOR1,,,,,False,False,4,40.0
+Stomach Cancer,RELA,,,,,False,False,3,34.0
+Pancreatic Cancer,LPA,,,,,False,False,2,33.0
+Liver Cancer,EPHA2,,,,,False,False,3,33.0
+Lung Cancer,CREBBP,,,,,False,False,2,31.0
+Lung Cancer,KLF5,,,,,False,False,3,29.0
+Lung Cancer,BCR,,,,,False,False,2,27.0
+Stomach Cancer,TOP2A,,,,,False,False,2,27.0
+Lung Cancer,B2M,,,,,False,False,3,26.0
+Brain Cancer,DNMT3A,,,,,False,False,2,25.0
+Bladder Cancer,RHOA,,,,,False,False,2,24.0
+Breast Cancer,SF3B1,,,,,False,False,2,23.0
+Breast Cancer,CBFB,,,,,False,False,3,22.0
+Lung Cancer,ARID2,,,,,False,False,2,21.0
+Leukemia,KMT2C,,,,,False,False,3,21.0
+Prostate Cancer,SUZ12,,,,,False,False,5,20.0
+Brain Cancer,TCF4,,,,,False,False,4,20.0

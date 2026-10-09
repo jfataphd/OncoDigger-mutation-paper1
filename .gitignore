@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Working-copy corpus databases used to test the MET/REST vocabulary correction
+# (scripts/analysis/vocab_corrected_rerun.py). Multi-hundred-MB to multi-GB each,
+# far too large to commit, and fully reproducible from the original corpora plus
+# the documented, frozen rule in vocab_collision_pipeline.py -- the small output
+# files (vocab_corrected_rankings.csv, precision_at_k_detail_vocab_corrected.csv)
+# capture the result; this directory is disposable intermediate working data.
+data/derived/intogen_rescoring/corrected_corpora/

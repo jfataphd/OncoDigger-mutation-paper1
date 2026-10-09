@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "OncoDigger Reveals Distinct Cancer-Specific Mutation Landscapes from the Published Literature"
+authors:
+  - family-names: "Fata"
+    given-names: "Jimmie E."
+    orcid: "https://orcid.org/0000-0001-5797-6619"
+    affiliation: "Department of Biology, College of Staten Island, City University of New York"
+license: MIT
+repository-code: "https://github.com/jfataphd/OncoDigger-mutation-paper1"
+keywords:
+  - literature mining
+  - cancer genes
+  - mutations
+  - BM25
+  - IntOGen

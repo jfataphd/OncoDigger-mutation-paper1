@@ -1,0 +1,105 @@
+cancer,gene,is_intogen
+Bladder Cancer,ARID1A,True
+Bladder Cancer,CD274,True
+Bladder Cancer,FGFR3,True
+Bladder Cancer,RB1,True
+Bladder Cancer,TERT,True
+Brain Cancer,ATRX,True
+Brain Cancer,IDH1,True
+Brain Cancer,IDH2,True
+Brain Cancer,MGMT,False
+Brain Cancer,TERT,True
+Breast Cancer,CHEK2,True
+Breast Cancer,ESR1,True
+Breast Cancer,PALB2,True
+Breast Cancer,PTEN,True
+Cervical Cancer,ARID1A,True
+Cervical Cancer,CD274,True
+Cervical Cancer,FBXW7,True
+Cervical Cancer,PTEN,True
+Cervical Cancer,STK11,True
+Colorectal Cancer,APC,True
+Colorectal Cancer,MLH1,False
+Colorectal Cancer,MSH2,False
+Colorectal Cancer,MSH6,False
+Endometrial Cancer,ARID1A,True
+Endometrial Cancer,CTNNB1,True
+Endometrial Cancer,MLH1,False
+Endometrial Cancer,MSH2,False
+Endometrial Cancer,MSH6,False
+Endometrial Cancer,PTEN,True
+Esophageal Cancer,CD274,True
+Esophageal Cancer,CDKN2A,True
+Esophageal Cancer,KIT,True
+Esophageal Cancer,NOTCH1,True
+Kidney Cancer,BAP1,True
+Kidney Cancer,CTNNB1,True
+Kidney Cancer,FH,False
+Kidney Cancer,FLCN,True
+Kidney Cancer,PBRM1,True
+Kidney Cancer,SETD2,True
+Kidney Cancer,TSC2,True
+Kidney Cancer,VHL,True
+Kidney Cancer,WT1,True
+Leukemia,ASXL1,True
+Leukemia,BCR,True
+Leukemia,CEBPA,True
+Leukemia,DNMT3A,True
+Leukemia,FLT3,True
+Leukemia,IDH1,True
+Leukemia,NPM1,True
+Leukemia,RUNX1,True
+Liver Cancer,APC,True
+Liver Cancer,CTNNB1,True
+Liver Cancer,KIT,True
+Liver Cancer,TERT,True
+Lung Cancer,ALK,True
+Lung Cancer,CD274,True
+Lung Cancer,MET,True
+Lung Cancer,STK11,True
+Lymphoma,ATM,True
+Lymphoma,BCL2,True
+Lymphoma,CD79B,True
+Lymphoma,CREBBP,True
+Lymphoma,EZH2,True
+Lymphoma,KMT2D,True
+Lymphoma,MYC,True
+Lymphoma,MYD88,True
+Lymphoma,TET2,True
+Melanoma,BAP1,True
+Melanoma,CDKN2A,True
+Melanoma,GNA11,True
+Melanoma,GNAQ,True
+Melanoma,KIT,True
+Melanoma,PDCD1,False
+Melanoma,SF3B1,True
+Melanoma,TERT,True
+Myeloma,CCND1,True
+Myeloma,DIS3,True
+Myeloma,FGFR3,True
+Myeloma,IGH,False
+Myeloma,MYC,True
+Myeloma,SDC1,False
+Ovarian Cancer,ARID1A,True
+Ovarian Cancer,CTNNB1,True
+Ovarian Cancer,MLH1,False
+Pancreatic Cancer,CDKN2A,True
+Pancreatic Cancer,GNAS,True
+Pancreatic Cancer,PALB2,True
+Pancreatic Cancer,SMAD4,True
+Prostate Cancer,AR,True
+Prostate Cancer,ATM,True
+Prostate Cancer,CHEK2,True
+Prostate Cancer,PARP1,False
+Prostate Cancer,PTEN,True
+Prostate Cancer,RB1,True
+Prostate Cancer,SPOP,True
+Stomach Cancer,APC,True
+Stomach Cancer,CDH1,True
+Stomach Cancer,CTNNB1,True
+Stomach Cancer,KIT,True
+Thyroid Cancer,CCDC6,True
+Thyroid Cancer,EIF1AX,True
+Thyroid Cancer,HRAS,True
+Thyroid Cancer,RET,True
+Thyroid Cancer,TERT,True

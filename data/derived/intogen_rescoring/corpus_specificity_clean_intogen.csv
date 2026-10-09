@@ -1,0 +1,20 @@
+cancer,OD_p10,overlap_with_global,cancer_specific_in_top10,cancer_specific_intogen,cancer_specific_genes
+Bladder Cancer,1.0,5,5,5,ARID1A; CD274; FGFR3; RB1; TERT
+Brain Cancer,0.9,5,5,4,ATRX; IDH1; IDH2; MGMT; TERT
+Breast Cancer,1.0,6,4,4,CHEK2; ESR1; PALB2; PTEN
+Cervical Cancer,1.0,5,5,5,ARID1A; CD274; FBXW7; PTEN; STK11
+Colorectal Cancer,0.7,6,4,1,APC; MLH1; MSH2; MSH6
+Endometrial Cancer,0.7,4,6,3,ARID1A; CTNNB1; MLH1; MSH2; MSH6; PTEN
+Esophageal Cancer,1.0,6,4,4,CD274; CDKN2A; KIT; NOTCH1
+Kidney Cancer,0.9,1,9,8,BAP1; CTNNB1; FH; FLCN; PBRM1; SETD2; TSC2; VHL; WT1
+Leukemia,1.0,2,8,8,ASXL1; BCR; CEBPA; DNMT3A; FLT3; IDH1; NPM1; RUNX1
+Liver Cancer,1.0,6,4,4,APC; CTNNB1; KIT; TERT
+Lung Cancer,1.0,6,4,4,ALK; CD274; MET; STK11
+Lymphoma,1.0,1,9,9,ATM; BCL2; CD79B; CREBBP; EZH2; KMT2D; MYC; MYD88; TET2
+Melanoma,0.9,2,8,7,BAP1; CDKN2A; GNA11; GNAQ; KIT; PDCD1; SF3B1; TERT
+Myeloma,0.8,4,6,4,CCND1; DIS3; FGFR3; IGH; MYC; SDC1
+Ovarian Cancer,0.9,7,3,2,ARID1A; CTNNB1; MLH1
+Pancreatic Cancer,1.0,6,4,4,CDKN2A; GNAS; PALB2; SMAD4
+Prostate Cancer,0.9,3,7,6,AR; ATM; CHEK2; PARP1; PTEN; RB1; SPOP
+Stomach Cancer,1.0,6,4,4,APC; CDH1; CTNNB1; KIT
+Thyroid Cancer,1.0,5,5,5,CCDC6; EIF1AX; HRAS; RET; TERT

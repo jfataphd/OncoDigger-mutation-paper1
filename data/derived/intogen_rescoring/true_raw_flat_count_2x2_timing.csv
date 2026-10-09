@@ -1,0 +1,20 @@
+cancer,n_docs,fetch_s,match_s
+Breast Cancer,245265,2.2,181.8
+Lung Cancer,175017,3.7,160.0
+Colorectal Cancer,164728,2.2,125.3
+Prostate Cancer,108962,1.7,81.4
+Melanoma,65412,1.0,46.9
+Bladder Cancer,34832,0.5,26.7
+Kidney Cancer,45846,0.5,34.0
+Pancreatic Cancer,63717,0.7,49.5
+Liver Cancer,124807,1.3,107.0
+Stomach Cancer,63062,1.2,52.6
+Esophageal Cancer,37172,0.5,28.6
+Ovarian Cancer,60499,0.6,48.2
+Endometrial Cancer,21657,0.4,17.1
+Cervical Cancer,49844,0.5,36.2
+Thyroid Cancer,37789,0.4,26.5
+Brain Cancer,100851,0.9,70.9
+Leukemia,105288,1.3,80.9
+Lymphoma,77823,1.1,59.2
+Myeloma,25995,0.7,26.2

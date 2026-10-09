@@ -1,0 +1,20 @@
+cancer,intogen_any
+Bladder Cancer,0.9
+Brain Cancer,0.6
+Breast Cancer,0.7
+Cervical Cancer,0.8
+Colorectal Cancer,0.7
+Endometrial Cancer,0.7
+Esophageal Cancer,0.8
+Kidney Cancer,0.6
+Leukemia,0.8
+Liver Cancer,0.6
+Lung Cancer,0.8
+Lymphoma,0.5
+Melanoma,0.6
+Myeloma,0.4
+Ovarian Cancer,0.6
+Pancreatic Cancer,0.8
+Prostate Cancer,0.7
+Stomach Cancer,0.7
+Thyroid Cancer,0.6
